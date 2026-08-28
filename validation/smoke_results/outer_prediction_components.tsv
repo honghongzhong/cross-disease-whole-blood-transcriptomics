@@ -1,0 +1,172 @@
+row	heldout_cells	weight_sum	sse	sst	disease_class	mask_repeat	method	EU_ID	Accession	independence_group	K
+0.0	200.0	170.5604945339796	15.60764877973406	19.08289858754812	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE48060_AMI_vs_HC	GSE48060	source_group_013	2
+1.0	200.0	170.20011939137856	68.52785924698941	98.11581194668135	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE48000_high_risk_VTE_vs_HC	GSE48000	source_group_012	2
+2.0	200.0	169.806859327123	556.0383909395723	645.3516167950108	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE236442_EH_vs_HC	GSE236442	source_group_032	2
+3.0	25.0	174.13359898185328	26.60728822748274	77.52121196996453	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE280402_T2D_vs_HC	GSE280402	source_group_040	2
+4.0	200.0	170.7020693483826	16.21896722340145	19.305583265950617	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE109597_obesity_vs_lean	GSE109597	source_group_015	2
+5.0	200.0	170.1807871501308	37.57497536097317	51.14436152132008	Cardiometabolic and vascular disease	1	uncertainty_weighted_low_rank	GSE145412_MetS_lean_vs_healthy_lean	GSE145412	source_group_017	2
+0.0	200.0	170.5604945339796	16.142354649551905	19.08289858754812	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE48060_AMI_vs_HC	GSE48060	source_group_013	2
+1.0	200.0	170.20011939137856	73.48594776304225	98.11581194668135	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE48000_high_risk_VTE_vs_HC	GSE48000	source_group_012	2
+2.0	200.0	169.806859327123	577.8843776066819	645.3516167950108	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE236442_EH_vs_HC	GSE236442	source_group_032	2
+3.0	25.0	174.13359898185328	28.293284576506743	77.52121196996453	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE280402_T2D_vs_HC	GSE280402	source_group_040	2
+4.0	200.0	170.7020693483826	16.941878610888818	19.305583265950617	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE109597_obesity_vs_lean	GSE109597	source_group_015	2
+5.0	200.0	170.1807871501308	38.620232693037835	51.14436152132008	Cardiometabolic and vascular disease	1	group_balanced_unweighted_low_rank	GSE145412_MetS_lean_vs_healthy_lean	GSE145412	source_group_017	2
+0.0	200.0	170.5604945339796	19.08289858754812	19.08289858754812	Cardiometabolic and vascular disease	1	training_gene_mean	GSE48060_AMI_vs_HC	GSE48060	source_group_013	0
+1.0	200.0	170.20011939137856	98.11581194668135	98.11581194668135	Cardiometabolic and vascular disease	1	training_gene_mean	GSE48000_high_risk_VTE_vs_HC	GSE48000	source_group_012	0
+2.0	200.0	169.806859327123	645.3516167950108	645.3516167950108	Cardiometabolic and vascular disease	1	training_gene_mean	GSE236442_EH_vs_HC	GSE236442	source_group_032	0
+3.0	25.0	174.13359898185328	77.52121196996453	77.52121196996453	Cardiometabolic and vascular disease	1	training_gene_mean	GSE280402_T2D_vs_HC	GSE280402	source_group_040	0
+4.0	200.0	170.7020693483826	19.305583265950617	19.305583265950617	Cardiometabolic and vascular disease	1	training_gene_mean	GSE109597_obesity_vs_lean	GSE109597	source_group_015	0
+5.0	200.0	170.1807871501308	51.14436152132008	51.14436152132008	Cardiometabolic and vascular disease	1	training_gene_mean	GSE145412_MetS_lean_vs_healthy_lean	GSE145412	source_group_017	0
+0.0	199.0	197.15441641652177	49.23640270726331	60.44942217196491	Chronic respiratory disease	1	uncertainty_weighted_low_rank	GSE100150_COPD_vs_HC	GSE100150	source_group_001	1
+1.0	200.0	197.38105683528272	16.890392980233102	19.27129112933318	Chronic respiratory disease	1	uncertainty_weighted_low_rank	GSE69683_moderate_asthma_vs_control	GSE69683	source_group_045	1
+2.0	190.0	197.14506501789919	24.93010319738866	25.325550458409126	Chronic respiratory disease	1	uncertainty_weighted_low_rank	GSE33566_IPF_vs_HC	GSE33566	source_group_041	1
+3.0	200.0	197.23255085886748	27.21026849707414	38.78004081319856	Chronic respiratory disease	1	uncertainty_weighted_low_rank	GSE231691_SSc_ILD_vs_control	GSE231691	source_group_030	1
+4.0	196.0	197.4806348381046	86.30921147642337	121.08005829505274	Chronic respiratory disease	1	uncertainty_weighted_low_rank	GSE124548_CF_baseline_vs_HC	GSE124548	source_group_005	1
+0.0	199.0	197.15441641652177	55.78625411679406	60.44942217196491	Chronic respiratory disease	1	group_balanced_unweighted_low_rank	GSE100150_COPD_vs_HC	GSE100150	source_group_001	1
+1.0	200.0	197.38105683528272	19.723400637744394	19.27129112933318	Chronic respiratory disease	1	group_balanced_unweighted_low_rank	GSE69683_moderate_asthma_vs_control	GSE69683	source_group_045	1
+2.0	190.0	197.14506501789919	24.89845407602013	25.325550458409126	Chronic respiratory disease	1	group_balanced_unweighted_low_rank	GSE33566_IPF_vs_HC	GSE33566	source_group_041	1
+3.0	200.0	197.23255085886748	26.846367945000267	38.78004081319856	Chronic respiratory disease	1	group_balanced_unweighted_low_rank	GSE231691_SSc_ILD_vs_control	GSE231691	source_group_030	1
+4.0	196.0	197.4806348381046	83.40156558980587	121.08005829505274	Chronic respiratory disease	1	group_balanced_unweighted_low_rank	GSE124548_CF_baseline_vs_HC	GSE124548	source_group_005	1
+0.0	199.0	197.15441641652177	60.44942217196491	60.44942217196491	Chronic respiratory disease	1	training_gene_mean	GSE100150_COPD_vs_HC	GSE100150	source_group_001	0
+1.0	200.0	197.38105683528272	19.27129112933318	19.27129112933318	Chronic respiratory disease	1	training_gene_mean	GSE69683_moderate_asthma_vs_control	GSE69683	source_group_045	0
+2.0	190.0	197.14506501789919	25.325550458409126	25.325550458409126	Chronic respiratory disease	1	training_gene_mean	GSE33566_IPF_vs_HC	GSE33566	source_group_041	0
+3.0	200.0	197.23255085886748	38.78004081319856	38.78004081319856	Chronic respiratory disease	1	training_gene_mean	GSE231691_SSc_ILD_vs_control	GSE231691	source_group_030	0
+4.0	196.0	197.4806348381046	121.08005829505274	121.08005829505274	Chronic respiratory disease	1	training_gene_mean	GSE124548_CF_baseline_vs_HC	GSE124548	source_group_005	0
+0.0	56.0	127.25777480751958	45.30433204894872	74.82614325189786	Endocrine autoimmunity	1	uncertainty_weighted_low_rank	GSE269497_AIT_vs_HC	GSE269497	source_group_039	2
+1.0	200.0	127.40439980743702	81.6068482334457	82.3155441584055	Endocrine autoimmunity	1	uncertainty_weighted_low_rank	GSE176153_hypothyroidism_vs_HC	GSE176153	source_group_021	2
+0.0	56.0	127.25777480751958	44.79075092186757	74.82614325189786	Endocrine autoimmunity	1	group_balanced_unweighted_low_rank	GSE269497_AIT_vs_HC	GSE269497	source_group_039	2
+1.0	200.0	127.40439980743702	83.18145186612139	82.3155441584055	Endocrine autoimmunity	1	group_balanced_unweighted_low_rank	GSE176153_hypothyroidism_vs_HC	GSE176153	source_group_021	2
+0.0	56.0	127.25777480751958	74.82614325189786	74.82614325189786	Endocrine autoimmunity	1	training_gene_mean	GSE269497_AIT_vs_HC	GSE269497	source_group_039	0
+1.0	200.0	127.40439980743702	82.3155441584055	82.3155441584055	Endocrine autoimmunity	1	training_gene_mean	GSE176153_hypothyroidism_vs_HC	GSE176153	source_group_021	0
+0.0	200.0	200.03135720863432	71.22507325544242	182.81085119508455	Genetic and congenital disease	1	uncertainty_weighted_low_rank	GSE262659_pediatric_SCD_vs_HC	GSE262659	source_group_038	2
+1.0	200.0	199.70003701013985	27.998974369238447	49.121743818658246	Genetic and congenital disease	1	uncertainty_weighted_low_rank	GSE191274_Sotos_vs_control	GSE191274	source_group_023	2
+2.0	199.0	200.16802207613947	23.10882758682618	27.401824731988704	Genetic and congenital disease	1	uncertainty_weighted_low_rank	GSE174056_SMA1_vs_age_matched_HC	GSE174056	source_group_020	2
+3.0	200.0	200.9727218773646	950.0548881705417	1641.832901827704	Genetic and congenital disease	1	uncertainty_weighted_low_rank	GSE244401_SCA_T1_vs_HC	GSE244401	source_group_033	2
+0.0	200.0	200.03135720863432	88.02764912069016	182.81085119508455	Genetic and congenital disease	1	group_balanced_unweighted_low_rank	GSE262659_pediatric_SCD_vs_HC	GSE262659	source_group_038	2
+1.0	200.0	199.70003701013985	31.990892431098718	49.121743818658246	Genetic and congenital disease	1	group_balanced_unweighted_low_rank	GSE191274_Sotos_vs_control	GSE191274	source_group_023	2
+2.0	199.0	200.16802207613947	24.03537866343258	27.401824731988704	Genetic and congenital disease	1	group_balanced_unweighted_low_rank	GSE174056_SMA1_vs_age_matched_HC	GSE174056	source_group_020	2
+3.0	200.0	200.9727218773646	1040.678788123366	1641.832901827704	Genetic and congenital disease	1	group_balanced_unweighted_low_rank	GSE244401_SCA_T1_vs_HC	GSE244401	source_group_033	2
+0.0	200.0	200.03135720863432	182.81085119508455	182.81085119508455	Genetic and congenital disease	1	training_gene_mean	GSE262659_pediatric_SCD_vs_HC	GSE262659	source_group_038	0
+1.0	200.0	199.70003701013985	49.121743818658246	49.121743818658246	Genetic and congenital disease	1	training_gene_mean	GSE191274_Sotos_vs_control	GSE191274	source_group_023	0
+2.0	199.0	200.16802207613947	27.401824731988704	27.401824731988704	Genetic and congenital disease	1	training_gene_mean	GSE174056_SMA1_vs_age_matched_HC	GSE174056	source_group_020	0
+3.0	200.0	200.9727218773646	1641.832901827704	1641.832901827704	Genetic and congenital disease	1	training_gene_mean	GSE244401_SCA_T1_vs_HC	GSE244401	source_group_033	0
+0.0	200.0	126.19861142077998	114.16011857179014	119.37328742534154	Hematologic neoplasm	1	uncertainty_weighted_low_rank	GSE26049_PMF_vs_HC	GSE26049	source_group_037	1
+1.0	154.0	375.3232374709876	214.8706933221498	215.89573119993725	Hematologic neoplasm	1	uncertainty_weighted_low_rank	GSE83632_DLBCL_vs_HC	GSE83632	source_group_047	1
+2.0	200.0	125.33907113514587	59.10104159259239	70.68593573289682	Hematologic neoplasm	1	uncertainty_weighted_low_rank	GSE26049_ET_vs_HC	GSE26049	source_group_037	1
+3.0	200.0	126.14576443017712	53.290929005645076	77.41956039236386	Hematologic neoplasm	1	uncertainty_weighted_low_rank	GSE26049_PV_vs_HC	GSE26049	source_group_037	1
+0.0	200.0	126.19861142077998	113.97804486595192	119.37328742534154	Hematologic neoplasm	1	group_balanced_unweighted_low_rank	GSE26049_PMF_vs_HC	GSE26049	source_group_037	1
+1.0	154.0	375.3232374709876	211.3354361058448	215.89573119993725	Hematologic neoplasm	1	group_balanced_unweighted_low_rank	GSE83632_DLBCL_vs_HC	GSE83632	source_group_047	1
+2.0	200.0	125.33907113514587	62.310840733511554	70.68593573289682	Hematologic neoplasm	1	group_balanced_unweighted_low_rank	GSE26049_ET_vs_HC	GSE26049	source_group_037	1
+3.0	200.0	126.14576443017712	54.10715648356733	77.41956039236386	Hematologic neoplasm	1	group_balanced_unweighted_low_rank	GSE26049_PV_vs_HC	GSE26049	source_group_037	1
+0.0	200.0	126.19861142077998	119.37328742534154	119.37328742534154	Hematologic neoplasm	1	training_gene_mean	GSE26049_PMF_vs_HC	GSE26049	source_group_037	0
+1.0	154.0	375.3232374709876	215.89573119993725	215.89573119993725	Hematologic neoplasm	1	training_gene_mean	GSE83632_DLBCL_vs_HC	GSE83632	source_group_047	0
+2.0	200.0	125.33907113514587	70.68593573289682	70.68593573289682	Hematologic neoplasm	1	training_gene_mean	GSE26049_ET_vs_HC	GSE26049	source_group_037	0
+3.0	200.0	126.14576443017712	77.41956039236386	77.41956039236386	Hematologic neoplasm	1	training_gene_mean	GSE26049_PV_vs_HC	GSE26049	source_group_037	0
+0.0	179.0	194.38433420307928	27.661074994231697	31.171031219651695	Infectious disease	1	uncertainty_weighted_low_rank	GSE41055_active_TB_vs_HC	GSE41055	source_group_011	2
+1.0	200.0	193.6421007880664	63.36721919605434	70.24608032414667	Infectious disease	1	uncertainty_weighted_low_rank	GSE196822_Moderate_vs_HC	GSE196822	source_group_010	2
+2.0	200.0	193.4778678383082	86.34861990350964	117.90510046403071	Infectious disease	1	uncertainty_weighted_low_rank	GSE158592_influenza_vs_HC	GSE158592	source_group_019	2
+3.0	199.0	193.5320019632764	87.81773502472748	152.43735221126047	Infectious disease	1	uncertainty_weighted_low_rank	GSE100150_HIV_vs_HC	GSE100150	source_group_001	2
+4.0	178.0	193.04436338811442	36.35604760022579	50.81027147347095	Infectious disease	1	uncertainty_weighted_low_rank	GSE103119_Pneumonia_vs_HC	GSE103119	source_group_002	2
+5.0	200.0	200.43300952050294	950.2091736453629	1504.3011932330353	Infectious disease	1	uncertainty_weighted_low_rank	GSE83563_EVD_vs_HC	GSE83563	source_group_046	2
+6.0	200.0	193.58767267594098	46.08307142361059	83.88420472494104	Infectious disease	1	uncertainty_weighted_low_rank	GSE244827_cardiac_Chagas_vs_negative	GSE244827	source_group_034	2
+7.0	193.0	193.82270733831865	100.25398219728473	321.7447979884912	Infectious disease	1	uncertainty_weighted_low_rank	GSE137340	GSE137340	source_group_006	2
+0.0	179.0	194.38433420307928	27.53408238138401	31.171031219651695	Infectious disease	1	group_balanced_unweighted_low_rank	GSE41055_active_TB_vs_HC	GSE41055	source_group_011	2
+1.0	200.0	193.6421007880664	62.805526304181896	70.24608032414667	Infectious disease	1	group_balanced_unweighted_low_rank	GSE196822_Moderate_vs_HC	GSE196822	source_group_010	2
+2.0	200.0	193.4778678383082	83.65664002913236	117.90510046403071	Infectious disease	1	group_balanced_unweighted_low_rank	GSE158592_influenza_vs_HC	GSE158592	source_group_019	2
+3.0	199.0	193.5320019632764	88.48654215233208	152.43735221126047	Infectious disease	1	group_balanced_unweighted_low_rank	GSE100150_HIV_vs_HC	GSE100150	source_group_001	2
+4.0	178.0	193.04436338811442	35.658063483478514	50.81027147347095	Infectious disease	1	group_balanced_unweighted_low_rank	GSE103119_Pneumonia_vs_HC	GSE103119	source_group_002	2
+5.0	200.0	200.43300952050294	1088.3887765125594	1504.3011932330353	Infectious disease	1	group_balanced_unweighted_low_rank	GSE83563_EVD_vs_HC	GSE83563	source_group_046	2
+6.0	200.0	193.58767267594098	46.771829170260546	83.88420472494104	Infectious disease	1	group_balanced_unweighted_low_rank	GSE244827_cardiac_Chagas_vs_negative	GSE244827	source_group_034	2
+7.0	193.0	193.82270733831865	100.2985122151729	321.7447979884912	Infectious disease	1	group_balanced_unweighted_low_rank	GSE137340	GSE137340	source_group_006	2
+0.0	179.0	194.38433420307928	31.171031219651695	31.171031219651695	Infectious disease	1	training_gene_mean	GSE41055_active_TB_vs_HC	GSE41055	source_group_011	0
+1.0	200.0	193.6421007880664	70.24608032414667	70.24608032414667	Infectious disease	1	training_gene_mean	GSE196822_Moderate_vs_HC	GSE196822	source_group_010	0
+2.0	200.0	193.4778678383082	117.90510046403071	117.90510046403071	Infectious disease	1	training_gene_mean	GSE158592_influenza_vs_HC	GSE158592	source_group_019	0
+3.0	199.0	193.5320019632764	152.43735221126047	152.43735221126047	Infectious disease	1	training_gene_mean	GSE100150_HIV_vs_HC	GSE100150	source_group_001	0
+4.0	178.0	193.04436338811442	50.81027147347095	50.81027147347095	Infectious disease	1	training_gene_mean	GSE103119_Pneumonia_vs_HC	GSE103119	source_group_002	0
+5.0	200.0	200.43300952050294	1504.3011932330353	1504.3011932330353	Infectious disease	1	training_gene_mean	GSE83563_EVD_vs_HC	GSE83563	source_group_046	0
+6.0	200.0	193.58767267594098	83.88420472494104	83.88420472494104	Infectious disease	1	training_gene_mean	GSE244827_cardiac_Chagas_vs_negative	GSE244827	source_group_034	0
+7.0	193.0	193.82270733831865	321.7447979884912	321.7447979884912	Infectious disease	1	training_gene_mean	GSE137340	GSE137340	source_group_006	0
+0.0	192.0	145.55393949751692	12.427939691327156	28.49447269095846	Inflammatory bowel disease	1	uncertainty_weighted_low_rank	GSE112057_Crohns_Disease_vs_HC	GSE112057	source_group_003	2
+1.0	192.0	146.2643075834424	24.943631082634	67.727552165952	Inflammatory bowel disease	1	uncertainty_weighted_low_rank	GSE112057_Ulcerative_Colitis_vs_HC	GSE112057	source_group_003	2
+2.0	200.0	292.5223477626987	10.036020130146628	11.07412170331917	Inflammatory bowel disease	1	uncertainty_weighted_low_rank	GSE186507_CD	GSE186507	source_group_009	2
+0.0	192.0	145.55393949751692	12.307899407245339	28.49447269095846	Inflammatory bowel disease	1	group_balanced_unweighted_low_rank	GSE112057_Crohns_Disease_vs_HC	GSE112057	source_group_003	2
+1.0	192.0	146.2643075834424	25.30960707598873	67.727552165952	Inflammatory bowel disease	1	group_balanced_unweighted_low_rank	GSE112057_Ulcerative_Colitis_vs_HC	GSE112057	source_group_003	2
+2.0	200.0	292.5223477626987	11.190485313221561	11.07412170331917	Inflammatory bowel disease	1	group_balanced_unweighted_low_rank	GSE186507_CD	GSE186507	source_group_009	2
+0.0	192.0	145.55393949751692	28.49447269095846	28.49447269095846	Inflammatory bowel disease	1	training_gene_mean	GSE112057_Crohns_Disease_vs_HC	GSE112057	source_group_003	0
+1.0	192.0	146.2643075834424	67.727552165952	67.727552165952	Inflammatory bowel disease	1	training_gene_mean	GSE112057_Ulcerative_Colitis_vs_HC	GSE112057	source_group_003	0
+2.0	200.0	292.5223477626987	11.07412170331917	11.07412170331917	Inflammatory bowel disease	1	training_gene_mean	GSE186507_CD	GSE186507	source_group_009	0
+0.0	200.0	200.2773463744128	30.51910306886335	32.606660241017735	Neurologic disease	1	uncertainty_weighted_low_rank	GSE249477_AD_vs_cognitively_normal	GSE249477	source_group_035	2
+1.0	200.0	200.40386723088528	32.603452468032266	85.79933895552067	Neurologic disease	1	uncertainty_weighted_low_rank	GSE165082_PD_vs_HC	GSE165082	source_group_007	2
+2.0	200.0	199.94591783558738	10.982567143205767	14.0236720518485	Neurologic disease	1	uncertainty_weighted_low_rank	GSE234297_sALS_vs_HC	GSE234297	source_group_031	2
+3.0	200.0	200.1711591199476	22.213258859946382	23.88872633058965	Neurologic disease	1	uncertainty_weighted_low_rank	GSE186505_TN_vs_HC	GSE186505	source_group_022	2
+0.0	200.0	200.2773463744128	33.20829871801582	32.606660241017735	Neurologic disease	1	group_balanced_unweighted_low_rank	GSE249477_AD_vs_cognitively_normal	GSE249477	source_group_035	2
+1.0	200.0	200.40386723088528	36.27261676097748	85.79933895552067	Neurologic disease	1	group_balanced_unweighted_low_rank	GSE165082_PD_vs_HC	GSE165082	source_group_007	2
+2.0	200.0	199.94591783558738	12.323561135365397	14.0236720518485	Neurologic disease	1	group_balanced_unweighted_low_rank	GSE234297_sALS_vs_HC	GSE234297	source_group_031	2
+3.0	200.0	200.1711591199476	23.6433568095239	23.88872633058965	Neurologic disease	1	group_balanced_unweighted_low_rank	GSE186505_TN_vs_HC	GSE186505	source_group_022	2
+0.0	200.0	200.2773463744128	32.606660241017735	32.606660241017735	Neurologic disease	1	training_gene_mean	GSE249477_AD_vs_cognitively_normal	GSE249477	source_group_035	0
+1.0	200.0	200.40386723088528	85.79933895552067	85.79933895552067	Neurologic disease	1	training_gene_mean	GSE165082_PD_vs_HC	GSE165082	source_group_007	0
+2.0	200.0	199.94591783558738	14.0236720518485	14.0236720518485	Neurologic disease	1	training_gene_mean	GSE234297_sALS_vs_HC	GSE234297	source_group_031	0
+3.0	200.0	200.1711591199476	23.88872633058965	23.88872633058965	Neurologic disease	1	training_gene_mean	GSE186505_TN_vs_HC	GSE186505	source_group_022	0
+0.0	200.0	133.9548316505511	23.747094126958977	32.18756768429374	Primary immunodeficiency	1	uncertainty_weighted_low_rank	GSE51405_CVID_vs_HC	GSE51405	source_group_043	1
+1.0	199.0	132.56626673345113	63.40929333487915	69.09924781879567	Primary immunodeficiency	1	uncertainty_weighted_low_rank	GSE51404_XLA_vs_HC	GSE51404	source_group_043	1
+2.0	199.0	267.7759924463359	54.80218877098851	72.99585301537331	Primary immunodeficiency	1	uncertainty_weighted_low_rank	GSE100150_B_cell_deficiency_vs_HC	GSE100150	source_group_001	1
+3.0	200.0	265.42529815283046	117.76823404871368	144.2641661110912	Primary immunodeficiency	1	uncertainty_weighted_low_rank	GSE44969_CGD_vs_HC	GSE44969	source_group_042	1
+0.0	200.0	133.9548316505511	25.279916940029842	32.18756768429374	Primary immunodeficiency	1	group_balanced_unweighted_low_rank	GSE51405_CVID_vs_HC	GSE51405	source_group_043	1
+1.0	199.0	132.56626673345113	60.78071136356763	69.09924781879567	Primary immunodeficiency	1	group_balanced_unweighted_low_rank	GSE51404_XLA_vs_HC	GSE51404	source_group_043	1
+2.0	199.0	267.7759924463359	53.18418291226282	72.99585301537331	Primary immunodeficiency	1	group_balanced_unweighted_low_rank	GSE100150_B_cell_deficiency_vs_HC	GSE100150	source_group_001	1
+3.0	200.0	265.42529815283046	124.26766219926803	144.2641661110912	Primary immunodeficiency	1	group_balanced_unweighted_low_rank	GSE44969_CGD_vs_HC	GSE44969	source_group_042	1
+0.0	200.0	133.9548316505511	32.18756768429374	32.18756768429374	Primary immunodeficiency	1	training_gene_mean	GSE51405_CVID_vs_HC	GSE51405	source_group_043	0
+1.0	199.0	132.56626673345113	69.09924781879567	69.09924781879567	Primary immunodeficiency	1	training_gene_mean	GSE51404_XLA_vs_HC	GSE51404	source_group_043	0
+2.0	199.0	267.7759924463359	72.99585301537331	72.99585301537331	Primary immunodeficiency	1	training_gene_mean	GSE100150_B_cell_deficiency_vs_HC	GSE100150	source_group_001	0
+3.0	200.0	265.42529815283046	144.2641661110912	144.2641661110912	Primary immunodeficiency	1	training_gene_mean	GSE44969_CGD_vs_HC	GSE44969	source_group_042	0
+0.0	199.0	194.5993036818221	100.25313396644411	130.291386813872	Solid cancer	1	uncertainty_weighted_low_rank	GSE100150_Melanoma_vs_HC	GSE100150	source_group_001	1
+1.0	197.0	194.59684463322466	6.586746893867113	8.608929433590433	Solid cancer	1	uncertainty_weighted_low_rank	GSE198048_lung_cancer_vs_control	GSE198048	source_group_025	1
+2.0	189.0	195.2457041378902	137.9127177479315	140.70933528473998	Solid cancer	1	uncertainty_weighted_low_rank	GSE11545_breast_cancer_vs_HC	GSE11545	source_group_016	1
+0.0	199.0	194.5993036818221	100.23339481461392	130.291386813872	Solid cancer	1	group_balanced_unweighted_low_rank	GSE100150_Melanoma_vs_HC	GSE100150	source_group_001	1
+1.0	197.0	194.59684463322466	6.841564159812051	8.608929433590433	Solid cancer	1	group_balanced_unweighted_low_rank	GSE198048_lung_cancer_vs_control	GSE198048	source_group_025	1
+2.0	189.0	195.2457041378902	136.5373707246362	140.70933528473998	Solid cancer	1	group_balanced_unweighted_low_rank	GSE11545_breast_cancer_vs_HC	GSE11545	source_group_016	1
+0.0	199.0	194.5993036818221	130.291386813872	130.291386813872	Solid cancer	1	training_gene_mean	GSE100150_Melanoma_vs_HC	GSE100150	source_group_001	0
+1.0	197.0	194.59684463322466	8.608929433590433	8.608929433590433	Solid cancer	1	training_gene_mean	GSE198048_lung_cancer_vs_control	GSE198048	source_group_025	0
+2.0	189.0	195.2457041378902	140.70933528473998	140.70933528473998	Solid cancer	1	training_gene_mean	GSE11545_breast_cancer_vs_HC	GSE11545	source_group_016	0
+0.0	200.0	199.2942414362294	29.751244151651242	85.39723254352754	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE112087_SLE_vs_HC	GSE112087	source_group_004	2
+1.0	200.0	199.34919400261208	99.02594742974753	129.12091704304243	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE93272_RA_baseline_vs_HC	GSE93272	source_group_048	2
+2.0	196.0	197.84195936491076	27.17316955546082	39.54491170478093	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE17048	GSE17048	source_group_008	2
+3.0	200.0	198.35390883575462	34.107830046645034	43.212034628042396	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE224849_PreSSc_vs_HC	GSE224849	source_group_028	2
+4.0	198.0	198.37165495880248	44.22131239430263	55.68470330825423	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE25101_active_AS_vs_matched_control	GSE25101	source_group_036	2
+5.0	195.0	198.63368921118095	22.60076070517241	46.822428893126165	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE112057_Systemic_JIA_vs_HC	GSE112057	source_group_003	2
+6.0	200.0	198.82205584610728	149.3293413166934	204.1343046990145	Systemic autoimmune and rheumatic disease	1	uncertainty_weighted_low_rank	GSE68004_complete_KD_vs_HC	GSE68004	source_group_014	2
+0.0	200.0	199.2942414362294	33.2788294565423	85.39723254352754	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE112087_SLE_vs_HC	GSE112087	source_group_004	2
+1.0	200.0	199.34919400261208	98.00727937146212	129.12091704304243	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE93272_RA_baseline_vs_HC	GSE93272	source_group_048	2
+2.0	196.0	197.84195936491076	28.753076121256832	39.54491170478093	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE17048	GSE17048	source_group_008	2
+3.0	200.0	198.35390883575462	35.36002094118365	43.212034628042396	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE224849_PreSSc_vs_HC	GSE224849	source_group_028	2
+4.0	198.0	198.37165495880248	43.53444236924055	55.68470330825423	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE25101_active_AS_vs_matched_control	GSE25101	source_group_036	2
+5.0	195.0	198.63368921118095	22.76915425065608	46.822428893126165	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE112057_Systemic_JIA_vs_HC	GSE112057	source_group_003	2
+6.0	200.0	198.82205584610728	150.66429808182855	204.1343046990145	Systemic autoimmune and rheumatic disease	1	group_balanced_unweighted_low_rank	GSE68004_complete_KD_vs_HC	GSE68004	source_group_014	2
+0.0	200.0	199.2942414362294	85.39723254352754	85.39723254352754	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE112087_SLE_vs_HC	GSE112087	source_group_004	0
+1.0	200.0	199.34919400261208	129.12091704304243	129.12091704304243	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE93272_RA_baseline_vs_HC	GSE93272	source_group_048	0
+2.0	196.0	197.84195936491076	39.54491170478093	39.54491170478093	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE17048	GSE17048	source_group_008	0
+3.0	200.0	198.35390883575462	43.212034628042396	43.212034628042396	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE224849_PreSSc_vs_HC	GSE224849	source_group_028	0
+4.0	198.0	198.37165495880248	55.68470330825423	55.68470330825423	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE25101_active_AS_vs_matched_control	GSE25101	source_group_036	0
+5.0	195.0	198.63368921118095	46.822428893126165	46.822428893126165	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE112057_Systemic_JIA_vs_HC	GSE112057	source_group_003	0
+6.0	200.0	198.82205584610728	204.1343046990145	204.1343046990145	Systemic autoimmune and rheumatic disease	1	training_gene_mean	GSE68004_complete_KD_vs_HC	GSE68004	source_group_014	0
+0.0	51.0	168.66390173974625	24.30888314979372	23.375805406441742	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE14655_chronic_renal_rejection_vs_HC	GSE14655	source_group_018	2
+1.0	198.0	166.11751981213985	21.702272309519195	25.131147674537132	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE100150_Liver_Transplant_vs_HC	GSE100150	source_group_001	2
+2.0	200.0	166.61389297795552	28.57833046396251	30.818888288770598	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE22229_renal_tolerance_vs_HC	GSE22229	source_group_027	2
+3.0	200.0	166.20742187739566	69.96890454606498	91.31500453686596	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE56495_cGVHD_baseline_vs_HC	GSE56495	source_group_044	2
+4.0	119.0	170.52319837585983	186.92495973360096	289.921098264664	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE226238_acute_SCI_vs_uninjured	GSE226238	source_group_029	2
+5.0	200.0	166.6569678160701	127.41867365986921	201.80924081519908	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE19743_early_burn_vs_HC	GSE19743	source_group_024	2
+6.0	200.0	168.2289320346802	54.14630623884494	148.05586766253316	Transplantation and acute tissue injury	1	uncertainty_weighted_low_rank	GSE202518_acute_ischemic_stroke_vs_HC	GSE202518	source_group_026	2
+0.0	51.0	168.66390173974625	24.311424164146317	23.375805406441742	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE14655_chronic_renal_rejection_vs_HC	GSE14655	source_group_018	2
+1.0	198.0	166.11751981213985	21.943671216667347	25.131147674537132	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE100150_Liver_Transplant_vs_HC	GSE100150	source_group_001	2
+2.0	200.0	166.61389297795552	29.20285145472425	30.818888288770598	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE22229_renal_tolerance_vs_HC	GSE22229	source_group_027	2
+3.0	200.0	166.20742187739566	73.19695888976302	91.31500453686596	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE56495_cGVHD_baseline_vs_HC	GSE56495	source_group_044	2
+4.0	119.0	170.52319837585983	203.89151188595386	289.921098264664	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE226238_acute_SCI_vs_uninjured	GSE226238	source_group_029	2
+5.0	200.0	166.6569678160701	130.80679573625554	201.80924081519908	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE19743_early_burn_vs_HC	GSE19743	source_group_024	2
+6.0	200.0	168.2289320346802	53.931743714042895	148.05586766253316	Transplantation and acute tissue injury	1	group_balanced_unweighted_low_rank	GSE202518_acute_ischemic_stroke_vs_HC	GSE202518	source_group_026	2
+0.0	51.0	168.66390173974625	23.375805406441742	23.375805406441742	Transplantation and acute tissue injury	1	training_gene_mean	GSE14655_chronic_renal_rejection_vs_HC	GSE14655	source_group_018	0
+1.0	198.0	166.11751981213985	25.131147674537132	25.131147674537132	Transplantation and acute tissue injury	1	training_gene_mean	GSE100150_Liver_Transplant_vs_HC	GSE100150	source_group_001	0
+2.0	200.0	166.61389297795552	30.818888288770598	30.818888288770598	Transplantation and acute tissue injury	1	training_gene_mean	GSE22229_renal_tolerance_vs_HC	GSE22229	source_group_027	0
+3.0	200.0	166.20742187739566	91.31500453686596	91.31500453686596	Transplantation and acute tissue injury	1	training_gene_mean	GSE56495_cGVHD_baseline_vs_HC	GSE56495	source_group_044	0
+4.0	119.0	170.52319837585983	289.921098264664	289.921098264664	Transplantation and acute tissue injury	1	training_gene_mean	GSE226238_acute_SCI_vs_uninjured	GSE226238	source_group_029	0
+5.0	200.0	166.6569678160701	201.80924081519908	201.80924081519908	Transplantation and acute tissue injury	1	training_gene_mean	GSE19743_early_burn_vs_HC	GSE19743	source_group_024	0
+6.0	200.0	168.2289320346802	148.05586766253316	148.05586766253316	Transplantation and acute tissue injury	1	training_gene_mean	GSE202518_acute_ischemic_stroke_vs_HC	GSE202518	source_group_026	0

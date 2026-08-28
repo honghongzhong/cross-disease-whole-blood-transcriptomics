@@ -1,0 +1,54 @@
+{
+  "schema": "eu57_cross_disease_cv_20260828_v1",
+  "seed": 20260828,
+  "n_contrasts": 57,
+  "n_accessions": 49,
+  "n_independence_groups": 48,
+  "n_disease_classes": 12,
+  "final_rank": 1,
+  "primary_result": {
+    "primary_metric": "purged_leave_one_disease_class_out_pooled_weighted_cv_r2",
+    "primary_r2": 0.33562148648780443,
+    "cluster_bootstrap_ci95": [
+      0.2701150569503485,
+      0.37016538845189806
+    ],
+    "bootstrap_repeats": 20,
+    "outer_mask_repeats": 1
+  },
+  "accession_sensitivity": {
+    "rank": 1,
+    "accessions": 3,
+    "pooled_cv_r2": 0.24034560338802913,
+    "weighted_rmse": 0.5217360407029688
+  },
+  "median_factor_stability": {
+    "1": 0.917497259151119
+  },
+  "runtime_seconds": 101.23938941955566,
+  "quick_mode": true,
+  "software": {
+    "python": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3"
+  },
+  "parameters": {
+    "manifest": "data/input_manifest.tsv",
+    "audit": "metadata/input_audit.tsv",
+    "class_map": "metadata/disease_class_map.tsv",
+    "output": ".",
+    "genes": 1000,
+    "coverage": 0.9,
+    "max_k": 2,
+    "inner_folds": 2,
+    "inner_masks": 1,
+    "outer_masks": 1,
+    "mask_fraction": 0.2,
+    "max_iterations": 12,
+    "ridge": 0.001,
+    "bootstrap_repeats": 20,
+    "stability_repeats": 5,
+    "quick": true
+  }
+}

@@ -1,0 +1,50 @@
+gsm	title	source_name_ch1	platform_id	age	sex	condition	batch	sequencing_id
+GSM5901457	Asymptomatic_1	Whole Blood	GPL20301	28	F	Asymptomatic Covid-19	2	BK_Cov_41
+GSM5901458	Asymptomatic_2	Whole Blood	GPL20301	29	F	Asymptomatic Covid-19	3	BK_Cov_38
+GSM5901459	Asymptomatic_3	Whole Blood	GPL20301	61	F	Asymptomatic Covid-19	3	BK_Cov_July_41
+GSM5901460	Asymptomatic_4	Whole Blood	GPL20301	40	M	Asymptomatic Covid-19	3	BK_Cov_43
+GSM5901461	Asymptomatic_5	Whole Blood	GPL20301	42	F	Asymptomatic Covid-19	3	BK_Cov_44
+GSM5901462	Asymptomatic_6	Whole Blood	GPL20301	29	F	Asymptomatic Covid-19	3	BK_Cov_45
+GSM5901463	Asymptomatic_7	Whole Blood	GPL20301	42	F	Asymptomatic Covid-19	3	BK_Cov_46
+GSM5901464	Asymptomatic_8	Whole Blood	GPL20301	12	F	Asymptomatic Covid-19	4	BK_Cov_3RNA
+GSM5901465	HC_1	Whole Blood	GPL20301	45	F	Healthy	1	BK_HC_5I20
+GSM5901466	HC_2	Whole Blood	GPL20301	36	M	Healthy	1	BK_HC_5I21
+GSM5901467	HC_3	Whole Blood	GPL20301	26	M	Healthy	3	BK_HC_47
+GSM5901468	HC_4	Whole Blood	GPL20301	27	F	Healthy	3	BK_HC_49
+GSM5901469	HC_5	Whole Blood	GPL20301	45	M	Healthy	3	BK_HC_50
+GSM5901470	HC_6	Whole Blood	GPL20301	24	M	Healthy	4	BK_HC_8RNA
+GSM5901471	HC_7	Whole Blood	GPL20301	30	F	Healthy	4	BK_HC_9RNA
+GSM5901472	HC_8	Whole Blood	GPL20301	23	F	Healthy	4	BK_HC_5RNA
+GSM5901473	HC_9	Whole Blood	GPL20301	27	M	Healthy	4	BK_HC_6RNA
+GSM5901474	Mild_1	Whole Blood	GPL20301	56	F	Mild Covid-19	2	BK_Cov_17
+GSM5901475	Mild_2	Whole Blood	GPL20301	64	M	Mild Covid-19	3	BK_Cov_13
+GSM5901476	Mild_3	Whole Blood	GPL20301	27	M	Mild Covid-19	3	BK_Cov_14
+GSM5901477	Mild_4	Whole Blood	GPL20301	35	M	Mild Covid-19	3	BK_Cov_15
+GSM5901478	Mild_5	Whole Blood	GPL20301	85	F	Mild Covid-19	3	BK_Cov_18
+GSM5901479	Mild_6	Whole Blood	GPL20301	50	M	Mild Covid-19	3	BK_Cov_19
+GSM5901480	Mild_7	Whole Blood	GPL20301	39	M	Mild Covid-19	3	BK_Cov_20
+GSM5901481	Mild_8	Whole Blood	GPL20301	70	F	Mild Covid-19	3	BK_Cov_21
+GSM5901482	Mild_9	Whole Blood	GPL20301	30	F	Mild Covid-19	3	BK_Cov_42
+GSM5901483	Moderate_1	Whole Blood	GPL20301	47	M	Moderate Covid-19	1	BK_Cov_3I1
+GSM5901484	Moderate_2	Whole Blood	GPL20301	45	M	Moderate Covid-19	1	BK_Cov_3I2
+GSM5901485	Moderate_3	Whole Blood	GPL20301	35	M	Moderate Covid-19	2	BK_Cov_29
+GSM5901486	Moderate_4	Whole Blood	GPL20301	66	F	Moderate Covid-19	2	BK_Cov_32
+GSM5901487	Moderate_5	Whole Blood	GPL20301	59	F	Moderate Covid-19	2	BK_Cov_31
+GSM5901488	Moderate_6	Whole Blood	GPL20301	31	F	Moderate Covid-19	3	BK_Cov_22
+GSM5901489	Moderate_7	Whole Blood	GPL20301	57	F	Moderate Covid-19	3	BK_Cov_23
+GSM5901490	Moderate_8	Whole Blood	GPL20301	57	M	Moderate Covid-19	3	BK_Cov_34
+GSM5901491	Moderate_9	Whole Blood	GPL20301	70	M	Moderate Covid-19	3	BK_Cov_36
+GSM5901492	Moderate_10	Whole Blood	GPL20301	60	F	Moderate Covid-19	3	BK_Cov_37
+GSM5901493	Severe_1	Whole Blood	GPL20301	35	M	Severe Covid-19	2	BK_Cov_11
+GSM5901494	Severe_2	Whole Blood	GPL20301	64	F	Severe Covid-19	2	BK_Cov_26
+GSM5901495	Severe_3	Whole Blood	GPL20301	53	F	Severe Covid-19	3	BK_Cov_25
+GSM5901496	Severe_4	Whole Blood	GPL20301	80	F	Severe Covid-19	3	BK_Cov_28
+GSM5901497	Severe_5	Whole Blood	GPL20301	67	M	Severe Covid-19	3	BK_Cov_33
+GSM5901498	Severe_6	Whole Blood	GPL20301	75	F	Severe Covid-19	3	BK_Cov_35
+GSM5901499	Severe_7	Whole Blood	GPL20301	61	F	Severe Covid-19	4	BK_Cov_2RNA
+GSM5901500	Coinfection_1	Whole Blood	GPL20301	53	M	Covid-19 Bacterial Coinfection	2	BK_Cov_Elute23
+GSM5901501	Coinfection_2	Whole Blood	GPL20301	48	M	Covid-19 Bacterial Coinfection	2	BK_Cov_Elute211
+GSM5901502	Coinfection_3	Whole Blood	GPL20301	62	M	Covid-19 Bacterial Coinfection	2	BK_Cov_Elute22
+GSM5901503	Coinfection_4	Whole Blood	GPL20301	70	M	Covid-19 Bacterial Coinfection	2	BK_Cov_RNA5
+GSM5901504	Coinfection_5	Whole Blood	GPL20301	50	F	Covid-19 Bacterial Coinfection	3	BK_Cov_8
+GSM5901505	Coinfection_6	Whole Blood	GPL20301	60	M	Covid-19 Bacterial Coinfection	4	BK_Cov_866252

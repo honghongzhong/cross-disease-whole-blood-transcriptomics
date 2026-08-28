@@ -1,0 +1,13 @@
+disease_class	train_contrasts	test_contrasts	purged_contrasts	train_groups	test_groups	selected_K
+Cardiometabolic and vascular disease	51	6	0	42	6	2
+Chronic respiratory disease	48	5	4	43	5	1
+Endocrine autoimmunity	55	2	0	46	2	2
+Genetic and congenital disease	53	4	0	44	4	2
+Hematologic neoplasm	53	4	0	46	2	1
+Infectious disease	45	8	4	40	8	2
+Inflammatory bowel disease	53	3	1	46	2	2
+Neurologic disease	53	4	0	44	4	2
+Primary immunodeficiency	49	4	4	45	3	1
+Solid cancer	50	3	4	45	3	1
+Systemic autoimmune and rheumatic disease	48	7	2	41	7	2
+Transplantation and acute tissue injury	46	7	4	41	7	2

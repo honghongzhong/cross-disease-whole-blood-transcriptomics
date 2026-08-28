@@ -1,0 +1,37 @@
+method	disease_class	cv_r2	weighted_rmse	contrasts	groups
+group_balanced_unweighted_low_rank	Cardiometabolic and vascular disease	0.2936681993028224	0.7763522913988674	6	6
+group_balanced_unweighted_low_rank	Chronic respiratory disease	0.44422897437887676	0.39295236025252833	5	5
+group_balanced_unweighted_low_rank	Endocrine autoimmunity	0.4921676616563607	0.5395002344068	2	2
+group_balanced_unweighted_low_rank	Genetic and congenital disease	0.8337335847121787	0.624802226556345	4	4
+group_balanced_unweighted_low_rank	Hematologic neoplasm	0.22731691132384702	0.7051520714026529	4	2
+group_balanced_unweighted_low_rank	Infectious disease	0.44938712178736107	0.9133117596100477	8	8
+group_balanced_unweighted_low_rank	Inflammatory bowel disease	0.6924858690236333	0.23210944558762092	3	2
+group_balanced_unweighted_low_rank	Neurologic disease	0.6249530337889735	0.2668296763566393	4	4
+group_balanced_unweighted_low_rank	Primary immunodeficiency	0.4147271995199525	0.5046930423073668	4	3
+group_balanced_unweighted_low_rank	Solid cancer	0.3224948192399131	0.5583186583260658	3	3
+group_balanced_unweighted_low_rank	Systemic autoimmune and rheumatic disease	0.5261839789776136	0.45586152997678775	7	7
+group_balanced_unweighted_low_rank	Transplantation and acute tissue injury	0.48375608024527694	0.6030637922457297	7	7
+training_gene_mean	Cardiometabolic and vascular disease	0.0	0.923750016885288	6	6
+training_gene_mean	Chronic respiratory disease	0.0	0.527098706981681	5	5
+training_gene_mean	Endocrine autoimmunity	0.0	0.7570620235543852	2	2
+training_gene_mean	Genetic and congenital disease	0.0	1.5322876519168596	4	4
+training_gene_mean	Hematologic neoplasm	0.0	0.8021989374718452	4	2
+training_gene_mean	Infectious disease	0.0	1.230823748130651	8	8
+training_gene_mean	Inflammatory bowel disease	0.0	0.4185624607299276	3	2
+training_gene_mean	Neurologic disease	0.0	0.4357037532521803	4	4
+training_gene_mean	Primary immunodeficiency	0.0	0.6597025257608115	4	3
+training_gene_mean	Solid cancer	0.0	0.6783062698191105	3	3
+training_gene_mean	Systemic autoimmune and rheumatic disease	0.0	0.6622593112236675	7	7
+training_gene_mean	Transplantation and acute tissue injury	0.0	0.8393358621589251	7	7
+uncertainty_weighted_low_rank	Cardiometabolic and vascular disease	0.31913387509786284	0.7622287453900449	6	6
+uncertainty_weighted_low_rank	Chronic respiratory disease	0.46481066379631564	0.38560768138977736	5	5
+uncertainty_weighted_low_rank	Endocrine autoimmunity	0.4951852912884678	0.537894943184878	2	2
+uncertainty_weighted_low_rank	Genetic and congenital disease	0.8348900271407309	0.6226255735441805	4	4
+uncertainty_weighted_low_rank	Hematologic neoplasm	0.2265484463652514	0.7055026355606059	4	2
+uncertainty_weighted_low_rank	Infectious disease	0.49034106536157873	0.8786900086560919	8	8
+uncertainty_weighted_low_rank	Inflammatory bowel disease	0.6953578462387935	0.23102302920372986	3	2
+uncertainty_weighted_low_rank	Neurologic disease	0.6309223355538115	0.26469770929348463	4	4
+uncertainty_weighted_low_rank	Primary immunodeficiency	0.41878752349501525	0.5029393440781731	4	3
+uncertainty_weighted_low_rank	Solid cancer	0.33399194820634404	0.553561109675847	3	3
+uncertainty_weighted_low_rank	Systemic autoimmune and rheumatic disease	0.5428753117149298	0.44776012145276156	7	7
+uncertainty_weighted_low_rank	Transplantation and acute tissue injury	0.4922587117224081	0.5980768878845338	7	7

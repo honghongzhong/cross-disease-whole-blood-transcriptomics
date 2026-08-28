@@ -1,0 +1,10 @@
+{
+  "primary_metric": "purged_leave_one_disease_class_out_pooled_weighted_cv_r2",
+  "primary_r2": 0.5349676968483679,
+  "cluster_bootstrap_ci95": [
+    0.41365824327023104,
+    0.6681346416828332
+  ],
+  "bootstrap_repeats": 1000,
+  "outer_mask_repeats": 5
+}

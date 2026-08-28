@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or its data products, please cite the accompanying manuscript."
+title: "EU57 cross-disease transcriptomic model reproducibility package"
+type: software
+authors:
+  - family-names: Hong
+    given-names: Hongzhong
+version: 1.0.0
+date-released: 2026-08-28
+license: MIT
+abstract: >-
+  Code, standardized contrast-level inputs, fixed annotations and reference
+  results for uncertainty-weighted low-rank modelling across 57 blood
+  disease-control transcriptomic contrasts.
