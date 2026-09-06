@@ -29,6 +29,8 @@ The archived `results/` tables are reference outputs, not computation inputs. Ne
 
 Public GEO measurements and large public annotation files are not duplicated. `processing/GEO_downloads.csv` names the precise inputs and source locations; `processing/public_annotations.csv` and `download_annotations.py` provide public platform resources. The compact mappings retained in the package preserve the gene mapping used in the study.
 
+GSE19743, one evaluation study, used erythrocyte lysis followed by leukocyte RNA extraction. Its source preparation is described in the manuscript Methods; the source study and effect data remain as archived.
+
 ## Version and citation
 
 Use this version for the manuscript “Shared low-dimensional structure across diseases in whole-blood transcriptomes”. Version 1.0.0 remains available under its original Git tag and archived release and corresponds to the earlier EU57 study; its input set and evaluation design differ.
