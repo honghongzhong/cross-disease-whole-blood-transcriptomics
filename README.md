@@ -33,6 +33,6 @@ Public GEO measurements and large public annotation files are not duplicated. `p
 
 Use this version for the manuscript “Shared low-dimensional structure across diseases in whole-blood transcriptomes”. Version 1.0.0 remains available under its original Git tag and archived release and corresponds to the earlier EU57 study; its input set and evaluation design differ.
 
-Zenodo archives this GitHub release through the existing repository integration. Cite the version-specific Zenodo record associated with v2.0.0. Author: Hongzhong Hong, South China University of Technology; ORCID 0009-0005-2114-143X.
+Version-specific Zenodo archive: [10.5281/zenodo.22446550](https://doi.org/10.5281/zenodo.22446550). Cite this record for v2.0.0. Author: Hongzhong Hong, South China University of Technology; ORCID 0009-0005-2114-143X.
 
 Author-written code: MIT. Author-created tables and figures: CC BY 4.0. Third-party data and annotations retain their applicable terms.

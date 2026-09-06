@@ -16,3 +16,4 @@ abstract: >-
   results and figures for a cross-disease whole-blood transcriptomic study.
   The analysis uses 36 training and 12 evaluation comparisons across 12 disease
   categories, with training-selected dimensions for three effect representations.
+doi: "10.5281/zenodo.22446550"
