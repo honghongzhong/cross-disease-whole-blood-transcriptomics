@@ -1,0 +1,13 @@
+gsm	group	disease	biospecimen	platform	inclusion	count_column	note
+GSM9802150	case	chronic antibody-mediated rejection	peripheral blood	GPL35109	include	GSM9802150	CAMR1
+GSM9802151	case	chronic antibody-mediated rejection	peripheral blood	GPL35109	include	GSM9802151	CAMR2
+GSM9802152	case	chronic antibody-mediated rejection	peripheral blood	GPL35109	include	GSM9802152	CAMR3
+GSM9802153	case	chronic antibody-mediated rejection	peripheral blood	GPL35109	include	GSM9802153	CAMR4
+GSM9802154	excluded_stable	kidney transplant recipient with stable allograft function	peripheral blood	GPL35109	exclude	GSM9802154	SAF excluded from primary healthy-control contrast
+GSM9802155	excluded_stable	kidney transplant recipient with stable allograft function	peripheral blood	GPL35109	exclude	GSM9802155	SAF excluded from primary healthy-control contrast
+GSM9802156	excluded_stable	kidney transplant recipient with stable allograft function	peripheral blood	GPL35109	exclude	GSM9802156	SAF excluded from primary healthy-control contrast
+GSM9802157	excluded_stable	kidney transplant recipient with stable allograft function	peripheral blood	GPL35109	exclude	GSM9802157	SAF excluded from primary healthy-control contrast
+GSM9802158	healthy_control	healthy donor	peripheral blood	GPL35109	include	GSM9802158	HC1
+GSM9802159	healthy_control	healthy donor	peripheral blood	GPL35109	include	GSM9802159	HC2
+GSM9802160	healthy_control	healthy donor	peripheral blood	GPL35109	include	GSM9802160	HC3
+GSM9802161	healthy_control	healthy donor	peripheral blood	GPL35109	include	GSM9802161	HC4

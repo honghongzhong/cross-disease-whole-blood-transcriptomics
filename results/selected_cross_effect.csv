@@ -1,0 +1,4 @@
+effect_a,effect_b,mean_squared_cosine_smaller_space
+hedges_g,log2fc,0.8207501713832634
+hedges_g,shrunken_log2fc,0.8495874642801352
+log2fc,shrunken_log2fc,0.986404725435455

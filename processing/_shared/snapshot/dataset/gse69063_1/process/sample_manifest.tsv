@@ -1,0 +1,154 @@
+sample_id	title	role	cohort	timepoint	subject_id	included	exclusion_reason
+GSM1691688	Peripheral blood sample from anaphylaxis patient 249 at Time T0	case	anaphylaxis	T0	249	1	
+GSM1691689	Peripheral blood sample from anaphylaxis patient 249 at Time T1	excluded	other_study_phenotype		249	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691690	Peripheral blood sample from anaphylaxis patient 310 at Time T1	excluded	other_study_phenotype		310	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691691	Peripheral blood sample from anaphylaxis patient 313 at Time T0	case	anaphylaxis	T0	313	1	
+GSM1691692	Peripheral blood sample from anaphylaxis patient 313 at Time T1	excluded	other_study_phenotype		313	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691693	Peripheral blood sample from anaphylaxis patient 318 at Time T0	case	anaphylaxis	T0	318	1	
+GSM1691694	Peripheral blood sample from anaphylaxis patient 318 at Time T1	excluded	other_study_phenotype		318	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691695	Peripheral blood sample from anaphylaxis patient 459 at Time T0	case	anaphylaxis	T0	459	1	
+GSM1691696	Peripheral blood sample from anaphylaxis patient 459 at Time T1	excluded	other_study_phenotype		459	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691697	Peripheral blood sample from anaphylaxis patient 568 at Time T0	case	anaphylaxis	T0	568	1	
+GSM1691698	Peripheral blood sample from anaphylaxis patient 568 at Time T1	excluded	other_study_phenotype		568	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691699	Peripheral blood sample from anaphylaxis patient 576 at Time T0	case	anaphylaxis	T0	576	1	
+GSM1691700	Peripheral blood sample from anaphylaxis patient 576 at Time T1	excluded	other_study_phenotype		576	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691701	Peripheral blood sample from anaphylaxis patient 583 at Time T0	case	anaphylaxis	T0	583	1	
+GSM1691702	Peripheral blood sample from anaphylaxis patient 633 at Time T0	case	anaphylaxis	T0	633	1	
+GSM1691703	Peripheral blood sample from anaphylaxis patient 633 at Time T1	excluded	other_study_phenotype		633	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691704	Peripheral blood sample from anaphylaxis patient 653 at Time T0	case	anaphylaxis	T0	653	1	
+GSM1691705	Peripheral blood sample from anaphylaxis patient 653 at Time T1	excluded	other_study_phenotype		653	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691706	Peripheral blood sample from anaphylaxis patient 719 at Time T0	case	anaphylaxis	T0	719	1	
+GSM1691707	Peripheral blood sample from anaphylaxis patient 719 at Time T1	excluded	other_study_phenotype		719	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691708	Peripheral blood sample from anaphylaxis patient 732 at Time T1	excluded	other_study_phenotype		732	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691709	Peripheral blood sample from anaphylaxis patient 802 at Time T0	case	anaphylaxis	T0	802	1	
+GSM1691710	Peripheral blood sample from anaphylaxis patient 802 at Time T1	excluded	other_study_phenotype		802	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691711	Peripheral blood sample from anaphylaxis patient 819 at Time T0	case	anaphylaxis	T0	819	1	
+GSM1691712	Peripheral blood sample from anaphylaxis patient 819 at Time T1	excluded	other_study_phenotype		819	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691713	Peripheral blood sample from anaphylaxis patient 828 at Time T0	case	anaphylaxis	T0	828	1	
+GSM1691714	Peripheral blood sample from anaphylaxis patient 828 at Time T1	excluded	other_study_phenotype		828	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691715	Peripheral blood sample from anaphylaxis patient 830 at Time T0	case	anaphylaxis	T0	830	1	
+GSM1691716	Peripheral blood sample from anaphylaxis patient 830 at Time T1	excluded	other_study_phenotype		830	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691717	Peripheral blood sample from anaphylaxis patient 831 at Time T0	case	anaphylaxis	T0	831	1	
+GSM1691718	Peripheral blood sample from anaphylaxis patient 831 at Time T1	excluded	other_study_phenotype		831	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691719	Peripheral blood sample from anaphylaxis patient 833 at Time T0	case	anaphylaxis	T0	833	1	
+GSM1691720	Peripheral blood sample from anaphylaxis patient 833 at Time T1	excluded	other_study_phenotype		833	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691721	Peripheral blood sample from healthy control 927	control	anaphylaxis_matched_healthy	baseline	927	1	
+GSM1691722	Peripheral blood sample from healthy control 928	control	anaphylaxis_matched_healthy	baseline	928	1	
+GSM1691723	Peripheral blood sample from healthy control 938	control	anaphylaxis_matched_healthy	baseline	938	1	
+GSM1691724	Peripheral blood sample from healthy control 941	control	anaphylaxis_matched_healthy	baseline	941	1	
+GSM1691725	Peripheral blood sample from healthy control 942	control	anaphylaxis_matched_healthy	baseline	942	1	
+GSM1691726	Peripheral blood sample from healthy control 943	control	anaphylaxis_matched_healthy	baseline	943	1	
+GSM1691727	Peripheral blood sample from healthy control 944	control	anaphylaxis_matched_healthy	baseline	944	1	
+GSM1691728	Peripheral blood sample from healthy control 947	control	anaphylaxis_matched_healthy	baseline	947	1	
+GSM1691729	Peripheral blood sample from healthy control 967	control	anaphylaxis_matched_healthy	baseline	967	1	
+GSM1691730	Peripheral blood sample from healthy control 970	control	anaphylaxis_matched_healthy	baseline	970	1	
+GSM1691731	Peripheral blood sample from sepsis patient A at Time T0	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691732	Peripheral blood sample from sepsis patient A at Time T1	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691733	Peripheral blood sample from sepsis patient A at Time T2	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691734	Peripheral blood sample from sepsis patient B at Time T1	excluded	other_study_phenotype		B	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691735	Peripheral blood sample from sepsis patient B at Time T2	excluded	other_study_phenotype		B	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691736	Peripheral blood sample from sepsis patient C at Time T0	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691737	Peripheral blood sample from sepsis patient C at Time T1	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691738	Peripheral blood sample from sepsis patient C at Time T2	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691739	Peripheral blood sample from healthy control 02	excluded	other_study_phenotype		02	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691740	Peripheral blood sample from healthy control 03	excluded	other_study_phenotype		03	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691741	Peripheral blood sample from healthy control 04	excluded	other_study_phenotype		04	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691742	Peripheral blood sample from healthy control 05	excluded	other_study_phenotype		05	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691743	Peripheral blood sample from healthy control 06	excluded	other_study_phenotype		06	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691744	Peripheral blood sample from healthy control 07	excluded	other_study_phenotype		07	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691745	Peripheral blood sample from healthy control 08	excluded	other_study_phenotype		08	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691746	Peripheral blood sample from healthy control 09	excluded	other_study_phenotype		09	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691747	Peripheral blood sample from healthy control 10	excluded	other_study_phenotype		10	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691748	Peripheral blood sample from healthy control 11	excluded	other_study_phenotype		11	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691749	Peripheral blood sample from healthy control 12	excluded	other_study_phenotype		12	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691750	Peripheral blood sample from sepsis patient D at Time T0	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691751	Peripheral blood sample from sepsis patient D at Time T1	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691752	Peripheral blood sample from sepsis patient D at Time T2	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691753	Peripheral blood sample from sepsis patient E at Time T0	excluded	other_study_phenotype		E	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691754	Peripheral blood sample from sepsis patient E at Time T1	excluded	other_study_phenotype		E	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691755	Peripheral blood sample from sepsis patient F at Time T0	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691756	Peripheral blood sample from sepsis patient F at Time T1	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691757	Peripheral blood sample from sepsis patient F at Time T2	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691758	Peripheral blood sample from sepsis patient G at Time T0	excluded	other_study_phenotype		G	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691759	Peripheral blood sample from sepsis patient G at Time T1	excluded	other_study_phenotype		G	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691760	Peripheral blood sample from sepsis patient G at Time T2	excluded	other_study_phenotype		G	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691761	Peripheral blood sample from sepsis patient H at Time T0	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691762	Peripheral blood sample from sepsis patient H at Time T1	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691763	Peripheral blood sample from sepsis patient H at Time T2	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691764	Peripheral blood sample from sepsis patient I at Time T0	excluded	other_study_phenotype		I	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691765	Peripheral blood sample from sepsis patient I at Time T1	excluded	other_study_phenotype		I	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691766	Peripheral blood sample from sepsis patient J at Time T0	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691767	Peripheral blood sample from sepsis patient J at Time T1	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691768	Peripheral blood sample from sepsis patient J at Time T2	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691769	Peripheral blood sample from sepsis patient Q at Time T0	excluded	other_study_phenotype		Q	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691770	Peripheral blood sample from sepsis patient Q at Time T1	excluded	other_study_phenotype		Q	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691771	Peripheral blood sample from sepsis patient Q at Time T2	excluded	other_study_phenotype		Q	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691772	Peripheral blood sample from sepsis patient R at Time T0	excluded	other_study_phenotype		R	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691773	Peripheral blood sample from sepsis patient R at Time T1	excluded	other_study_phenotype		R	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691774	Peripheral blood sample from sepsis patient R at Time T2	excluded	other_study_phenotype		R	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691775	Peripheral blood sample from sepsis patient S at Time T0	excluded	other_study_phenotype		S	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691776	Peripheral blood sample from sepsis patient S at Time T1	excluded	other_study_phenotype		S	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691777	Peripheral blood sample from sepsis patient S at Time T2	excluded	other_study_phenotype		S	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691778	Peripheral blood sample from sepsis patient T at Time T0	excluded	other_study_phenotype		T	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691779	Peripheral blood sample from sepsis patient T at Time T1	excluded	other_study_phenotype		T	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691780	Peripheral blood sample from sepsis patient T at Time T2	excluded	other_study_phenotype		T	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691781	Peripheral blood sample from sepsis patient U at Time T0	excluded	other_study_phenotype		U	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691782	Peripheral blood sample from sepsis patient U at Time T1	excluded	other_study_phenotype		U	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691783	Peripheral blood sample from sepsis patient U at Time T2	excluded	other_study_phenotype		U	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691784	Peripheral blood sample from sepsis patient V at Time T0	excluded	other_study_phenotype		V	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691785	Peripheral blood sample from sepsis patient V at Time T1	excluded	other_study_phenotype		V	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691786	Peripheral blood sample from sepsis patient V at Time T2	excluded	other_study_phenotype		V	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691787	Peripheral blood sample from sepsis patient W at Time T0	excluded	other_study_phenotype		W	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691788	Peripheral blood sample from sepsis patient W at Time T1	excluded	other_study_phenotype		W	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691789	Peripheral blood sample from sepsis patient W at Time T2	excluded	other_study_phenotype		W	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691790	Peripheral blood sample from sepsis patient X at Time T0	excluded	other_study_phenotype		X	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691791	Peripheral blood sample from sepsis patient X at Time T1	excluded	other_study_phenotype		X	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691792	Peripheral blood sample from sepsis patient X at Time T2	excluded	other_study_phenotype		X	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691793	Peripheral blood sample from sepsis patient Y at Time T0	excluded	other_study_phenotype		Y	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691794	Peripheral blood sample from sepsis patient Y at Time T1	excluded	other_study_phenotype		Y	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691795	Peripheral blood sample from sepsis patient Y at Time T2	excluded	other_study_phenotype		Y	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691796	Peripheral blood sample from sepsis patient Z at Time T0	excluded	other_study_phenotype		Z	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691797	Peripheral blood sample from sepsis patient Z at Time T1	excluded	other_study_phenotype		Z	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691798	Peripheral blood sample from sepsis patient Z at Time T2	excluded	other_study_phenotype		Z	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691799	Peripheral blood sample from trauma patient A at Time T0	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691800	Peripheral blood sample from trauma patient A at Time T1	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691801	Peripheral blood sample from trauma patient A at Time T2	excluded	other_study_phenotype		A	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691802	Peripheral blood sample from trauma patient B at Time T0	excluded	other_study_phenotype		B	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691803	Peripheral blood sample from trauma patient B at Time T1	excluded	other_study_phenotype		B	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691804	Peripheral blood sample from trauma patient B at Time T2	excluded	other_study_phenotype		B	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691805	Peripheral blood sample from healthy control C13	excluded	other_study_phenotype		C13	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691806	Peripheral blood sample from healthy control C14	excluded	other_study_phenotype		C14	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691807	Peripheral blood sample from healthy control C15	excluded	other_study_phenotype		C15	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691808	Peripheral blood sample from healthy control C16	excluded	other_study_phenotype		C16	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691809	Peripheral blood sample from healthy control C17	excluded	other_study_phenotype		C17	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691810	Peripheral blood sample from healthy control C18	excluded	other_study_phenotype		C18	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691811	Peripheral blood sample from healthy control C19	excluded	other_study_phenotype		C19	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691812	Peripheral blood sample from healthy control C20	excluded	other_study_phenotype		C20	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691813	Peripheral blood sample from healthy control C21	excluded	other_study_phenotype		C21	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691814	Peripheral blood sample from healthy control C22	excluded	other_study_phenotype		C22	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691815	Peripheral blood sample from healthy control C23	excluded	other_study_phenotype		C23	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691816	Peripheral blood sample from healthy control C24	excluded	other_study_phenotype		C24	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691817	Peripheral blood sample from trauma patient C at Time T0	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691818	Peripheral blood sample from trauma patient C at Time T1	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691819	Peripheral blood sample from trauma patient C at Time T2	excluded	other_study_phenotype		C	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691820	Peripheral blood sample from trauma patient D at Time T0	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691821	Peripheral blood sample from trauma patient D at Time T1	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691822	Peripheral blood sample from trauma patient D at Time T2	excluded	other_study_phenotype		D	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691823	Peripheral blood sample from trauma patient E at Time T0	excluded	other_study_phenotype		E	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691824	Peripheral blood sample from trauma patient E at Time T1	excluded	other_study_phenotype		E	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691825	Peripheral blood sample from trauma patient E at Time T2	excluded	other_study_phenotype		E	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691826	Peripheral blood sample from trauma patient F at Time T0	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691827	Peripheral blood sample from trauma patient F at Time T1	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691828	Peripheral blood sample from trauma patient F at Time T2	excluded	other_study_phenotype		F	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691829	Peripheral blood sample from trauma patient G at Time T2	excluded	other_study_phenotype		G	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691830	Peripheral blood sample from trauma patient H at Time T0	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691831	Peripheral blood sample from trauma patient H at Time T1	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691832	Peripheral blood sample from trauma patient H at Time T2	excluded	other_study_phenotype		H	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691833	Peripheral blood sample from trauma patient J at Time T0	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691834	Peripheral blood sample from trauma patient J at Time T1	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691835	Peripheral blood sample from trauma patient J at Time T2	excluded	other_study_phenotype		J	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691836	Peripheral blood sample from trauma patient K at Time T0	excluded	other_study_phenotype		K	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691837	Peripheral blood sample from trauma patient K at Time T1	excluded	other_study_phenotype		K	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691838	Peripheral blood sample from trauma patient S at Time T1	excluded	other_study_phenotype		S	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691839	Peripheral blood sample from trauma patient S at Time T2	excluded	other_study_phenotype		S	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort
+GSM1691840	Peripheral blood sample from trauma patient T at Time T2	excluded	other_study_phenotype		T	0	Different phenotype, non-baseline timepoint, or healthy control from another cohort

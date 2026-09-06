@@ -1,7 +1,4 @@
-.venv/
-outputs/
 __pycache__/
 *.pyc
-.DS_Store
-Thumbs.db
-
+new_results/
+.venv/

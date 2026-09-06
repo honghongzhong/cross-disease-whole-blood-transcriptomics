@@ -1,0 +1,20 @@
+{
+  "status": "THREE_EFFECTS_COMPLETE",
+  "contrast_id": "GSE164191_colorectal_cancer_vs_HC",
+  "n_case": 59,
+  "n_control": 62,
+  "input_genes": 20848,
+  "common_valid_genes": 20317,
+  "expression_transform": "log2_floor1_quantile_linear_array",
+  "log2fc_model": "OLS_on_log2_expression",
+  "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+  "posterior_sd_zero": 0,
+  "min_psd": 0.0168,
+  "max_abs_input": 16.6629,
+  "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+  "scope": "core",
+  "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+  "shrinkage_pointmass": false,
+  "shrinkage_weight_prior": "uniform",
+  "noncurrent_entrez_excluded": 531
+}

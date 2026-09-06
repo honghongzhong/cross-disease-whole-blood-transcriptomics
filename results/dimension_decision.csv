@@ -1,0 +1,10 @@
+effect_type,scaling,selected_K,energy_at_selected_K
+hedges_g,native,5,0.8180520652227898
+hedges_g,unit_column_norm,6,0.6538627561750849
+hedges_g,one_per_block,5,0.8376331815331051
+log2fc,native,4,0.7280854315954527
+log2fc,unit_column_norm,6,0.6500963322911666
+log2fc,one_per_block,4,0.7495003642673933
+shrunken_log2fc,native,3,0.7452266119390069
+shrunken_log2fc,unit_column_norm,7,0.6558318676699205
+shrunken_log2fc,one_per_block,3,0.7627005988019887

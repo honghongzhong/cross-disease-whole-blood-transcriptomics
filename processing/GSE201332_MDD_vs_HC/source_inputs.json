@@ -1,0 +1,14 @@
+[
+  {
+    "original": "E:\\Biology\\dataset\\gse201332_1\\raw\\family.soft.gz",
+    "relative": "dataset/gse201332_1/raw/family.soft.gz",
+    "bundled": false,
+    "bytes": 57688400
+  },
+  {
+    "original": "E:\\Biology\\dataset\\gse201332_1\\raw\\series_matrix.txt.gz",
+    "relative": "dataset/gse201332_1/raw/series_matrix.txt.gz",
+    "bundled": false,
+    "bytes": 35487998
+  }
+]

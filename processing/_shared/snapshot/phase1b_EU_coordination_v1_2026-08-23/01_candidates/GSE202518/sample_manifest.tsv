@@ -1,0 +1,17 @@
+sample_id	geo_accession	title	source	diagnosis	NIHSS	primary_role	matrix_file	mapping_status	exclusion_reason
+healthy control, 69f (mRNA)	GSM6123581	healthy control, 69f (mRNA)	whole blood	healthy	control	control	GSM6123581_Healthy_69years_female.csv.gz	PASS_GSM_filename_to_GEO_accession	
+healthy control, 70m (mRNA)	GSM6123582	healthy control, 70m (mRNA)	whole blood	healthy	control	control	GSM6123582_Healthy_70years_male.csv.gz	PASS_GSM_filename_to_GEO_accession	
+healthy control, 76m (mRNA)	GSM6123583	healthy control, 76m (mRNA)	whole blood	healthy	control	control	GSM6123583_Healthy_76years_male.csv.gz	PASS_GSM_filename_to_GEO_accession	
+healthy control, 83m (mRNA)	GSM6123584	healthy control, 83m (mRNA)	whole blood	healthy	control	control	GSM6123584_Healthy_83years_male.csv.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S107 (mRNA)	GSM6123585	severe stroke, S107 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123585_S107_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S127 (mRNA)	GSM6123586	severe stroke, S127 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123586_S127_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S170 (mRNA)	GSM6123587	severe stroke, S170 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123587_S170_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S210 (mRNA)	GSM6123588	severe stroke, S210 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123588_S210_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S235 (mRNA)	GSM6123589	severe stroke, S235 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123589_S235_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+severe stroke, S386 (mRNA)	GSM6123590	severe stroke, S386 (mRNA)	whole blood	severe stroke	NIHSS ≥ 8	case	GSM6123590_S386_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M104 (mRNA)	GSM6123591	moderate stroke, M104 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123591_M104_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M120 (mRNA)	GSM6123592	moderate stroke, M120 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123592_M120_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M226 (mRNA)	GSM6123593	moderate stroke, M226 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123593_M226_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M232 (mRNA)	GSM6123594	moderate stroke, M232 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123594_M232_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M275 (mRNA)	GSM6123595	moderate stroke, M275 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123595_M275_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	
+moderate stroke, M358 (mRNA)	GSM6123596	moderate stroke, M358 (mRNA)	whole blood	moderate stroke	NIHSS < 8	case	GSM6123596_M358_FPKM.txt.gz	PASS_GSM_filename_to_GEO_accession	

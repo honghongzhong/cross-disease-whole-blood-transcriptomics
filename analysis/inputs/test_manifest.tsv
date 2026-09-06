@@ -1,0 +1,13 @@
+contrast_id	category_id	category	disease	disease_subtype	accession	genes	n_case	n_control	independence_block	quality_note	data_directory	same_accession_as_train	same_block_as_train	known_sample_overlap_with_train	eligible	effective_n
+GSE34404_malaria_vs_HC	C01	感染性疾病	malaria_vs_HC	malaria_vs_HC	GSE34404	17747	94	61	block_064		contrasts/GSE34404_malaria_vs_HC	False	False	False	True	36.99354838709677
+GSE181228_SScILD_baseline_vs_HC	C02	自身免疫、免疫介导与过敏性疾病	系统性硬化症相关间质性肺病（基线）	系统性硬化症相关间质性肺病（基线）	GSE181228	18919	132	43	block_033		contrasts/GSE181228_SScILD_baseline_vs_HC	False	False	False	True	32.434285714285714
+GSE19743_early_burn_vs_HC	C03	移植与急性组织损伤	Early burn injury	Early burn injury	GSE19743	20317	57	63	block_044		contrasts/GSE19743_early_burn_vs_HC	False	False	False	True	29.925
+GSE48060_AMI_vs_HC	C04	心代谢与血管疾病	Acute myocardial infarction	Acute myocardial infarction	GSE48060	20317	31	21	block_075		contrasts/GSE48060_AMI_vs_HC	False	False	False	True	12.51923076923077
+GSE69683_severe_asthma_vs_HC	C05	慢性呼吸系统疾病	重度哮喘	重度哮喘	GSE69683	20371	334	87	block_086		contrasts/GSE69683_severe_asthma_vs_HC	False	False	False	True	69.02137767220903
+GSE190125_trisomy21_vs_euploid_control	C06	遗传与先天性疾病	21三体综合征	21三体综合征	GSE190125	15950	304	96	block_040		contrasts/GSE190125_trisomy21_vs_euploid_control	False	False	False	True	72.96000000000001
+GSE124326_bipolar_disorder_vs_control	C07	神经与精神疾病	bipolar_disorder_vs_control	双相障碍	GSE124326	13141	239	205	block_011		contrasts/GSE124326_bipolar_disorder_vs_control	False	False	False	True	110.3490990990991
+GSE44969_CGD_vs_HC	C08	原发性免疫缺陷	Chronic granulomatous disease	Chronic granulomatous disease	GSE44969	19477	7	13	block_073		contrasts/GSE44969_CGD_vs_HC	False	False	False	True	4.55
+GSE83632_DLBCL_vs_HC	C09	血液系统肿瘤	Diffuse large B-cell lymphoma	Diffuse large B-cell lymphoma	GSE83632	9258	76	87	block_088		contrasts/GSE83632_DLBCL_vs_HC	False	False	False	True	40.56441717791411
+GSE177044_UC_vs_HC	C10	肠道免疫介导疾病	溃疡性结肠炎	溃疡性结肠炎	GSE177044	11280	495	320	block_031		contrasts/GSE177044_UC_vs_HC	False	False	False	True	194.35582822085888
+GSE164191_colorectal_cancer_vs_HC	C11	实体肿瘤	colorectal_cancer_vs_HC	colorectal_cancer_vs_HC	GSE164191	20317	59	62	block_026		contrasts/GSE164191_colorectal_cancer_vs_HC	False	False	False	True	30.23140495867769
+GSE269497_AIT_vs_HC	C12	内分泌疾病	Autoimmune thyroiditis	Autoimmune thyroiditis	GSE269497	4292	5	5	block_058		contrasts/GSE269497_AIT_vs_HC	False	False	False	True	2.5

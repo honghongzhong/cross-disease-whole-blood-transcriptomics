@@ -1,4 +1,1 @@
-*.gz binary
-*.npz binary
-*.png binary
-*.pdf binary
+* -text

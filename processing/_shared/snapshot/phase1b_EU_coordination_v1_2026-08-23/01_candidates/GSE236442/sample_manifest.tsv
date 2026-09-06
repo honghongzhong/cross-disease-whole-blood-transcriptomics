@@ -1,0 +1,21 @@
+sample_id	sample_label	group	tissue	platform	source
+GSM7545004	N1	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545005	N2	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545007	N3	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545008	N4	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545009	N5	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545010	N6	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545011	N7	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545013	N8	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545014	N9	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545015	N10	healthy_control	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545016	EH1	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545018	EH2	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545019	EH3	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545020	EH4	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545021	EH5	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545022	EH6	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545024	EH7	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545025	EH8	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545026	EH9	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz
+GSM7545027	EH10	essential_hypertension	blood	GPL24676 Illumina NovaSeq 6000	GSE236442_family.soft.gz

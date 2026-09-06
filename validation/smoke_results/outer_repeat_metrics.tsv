@@ -1,4 +1,0 @@
-method	mask_repeat	pooled_cv_r2	weighted_rmse	heldout_cells
-group_balanced_unweighted_low_rank	1	0.2960261780081266	0.739786238411411	10692
-training_gene_mean	1	0.0	0.8817145212394303	10692
-uncertainty_weighted_low_rank	1	0.33562148648780443	0.7186803699470107	10692

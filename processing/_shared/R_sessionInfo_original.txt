@@ -1,0 +1,26 @@
+R version 4.6.1 (2026-06-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Etc/GMT-8
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] data.table_1.18.4 jsonlite_2.0.0    ashr_2.2-63       edgeR_4.10.1     
+[5] limma_3.68.4     
+
+loaded via a namespace (and not attached):
+ [1] invgamma_1.2    Matrix_1.7-5    lattice_0.22-9  SQUAREM_2026.1 
+ [5] truncnorm_1.0-9 grid_4.6.1      statmod_1.5.2   mixsqp_0.3-54  
+ [9] compiler_4.6.1  tools_4.6.1     irlba_2.3.7     Rcpp_1.1.2     
+[13] locfit_1.5-9.12

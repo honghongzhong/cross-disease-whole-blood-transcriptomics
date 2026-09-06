@@ -1,0 +1,499 @@
+gsm	group	title	tissue	characteristics
+GSM1706836	severe_asthma	A_220	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706837	severe_asthma	A_251	Blood	cohort: Severe asthma, non-smoking; gender: female; race: south_east_asian; tissue: blood
+GSM1706838	control	A_483	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706839	moderate_asthma	A_282	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706840	control	A_021	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706841	control	A_325	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706842	control	A_596	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706843	severe_asthma	A_494	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706844	severe_asthma	A_515	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706845	severe_asthma	A_243	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706846	severe_asthma	A_227	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706847	severe_asthma	A_717	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706848	severe_asthma	A_399	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706849	severe_asthma	A_366	Blood	cohort: Severe asthma, non-smoking; gender: male; race: other; tissue: blood
+GSM1706850	severe_asthma	A_310	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706851	control	A_708	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706852	moderate_asthma	A_608	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706853	severe_asthma	A_198	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706854	severe_asthma	A_457	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706855	control	A_617	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706856	severe_asthma	A_024	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706857	moderate_asthma	A_395	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706858	moderate_asthma	A_096	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706859	severe_asthma	A_589	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706860	control	A_516	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706861	control	A_591	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706862	control	A_026	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706863	severe_asthma	A_283	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1706864	moderate_asthma	A_294	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706865	control	A_545	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706866	severe_asthma	A_541	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706867	moderate_asthma	A_640	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706868	control	A_135	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706869	moderate_asthma	A_539	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706870	control	A_140	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706871	control	A_662	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706872	control	A_463	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706873	control	A_002	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706874	control	A_498	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706875	severe_asthma	A_089	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706876	control	A_376	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706877	severe_asthma	A_300	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706878	severe_asthma	A_174	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706879	severe_asthma	A_248	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706880	control	A_598	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706881	severe_asthma	A_642	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706882	severe_asthma	A_191	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706883	severe_asthma	A_588	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706884	moderate_asthma	A_156	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706885	severe_asthma	A_564	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706886	severe_asthma	A_484	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706887	severe_asthma	A_200	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706888	severe_asthma	A_190	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706889	severe_asthma	A_518	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706890	severe_asthma	A_137	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706891	control	A_624	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706892	control	A_607	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706893	severe_asthma	A_427	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706894	control	A_115	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706895	control	A_361	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706896	moderate_asthma	A_410	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706897	control	A_249	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706898	moderate_asthma	A_119	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706899	control	A_491	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706900	control	A_690	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706901	moderate_asthma	A_616	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706902	severe_asthma	A_167	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706903	control	A_210	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706904	control	A_302	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706905	severe_asthma	A_129	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706906	severe_asthma	A_234	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706907	moderate_asthma	A_418	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706908	severe_asthma	A_639	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706909	severe_asthma	A_536	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706910	severe_asthma	A_296	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706911	control	A_175	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706912	severe_asthma	A_487	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706913	severe_asthma	A_209	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706914	severe_asthma	A_133	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706915	severe_asthma	A_036	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706916	moderate_asthma	A_069	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706917	severe_asthma	A_528	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706918	severe_asthma	A_562	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706919	severe_asthma	A_150	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706920	severe_asthma	A_700	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706921	severe_asthma	A_673	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706922	severe_asthma	A_263	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706923	control	A_371	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706924	control	A_450	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706925	severe_asthma	A_003	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706926	severe_asthma	A_085	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706927	severe_asthma	A_702	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706928	severe_asthma	A_182	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706929	severe_asthma	A_444	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706930	severe_asthma	A_602	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706931	severe_asthma	A_553	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706932	severe_asthma	A_020	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706933	severe_asthma	A_313	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706934	severe_asthma	A_537	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706935	severe_asthma	A_292	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706936	severe_asthma	A_611	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706937	severe_asthma	A_070	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706938	severe_asthma	A_142	Blood	cohort: Severe asthma, non-smoking; gender: female; race: south_asian; tissue: blood
+GSM1706939	severe_asthma	A_417	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706940	severe_asthma	A_291	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706941	severe_asthma	A_252	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706942	severe_asthma	A_454	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706943	severe_asthma	A_627	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706944	severe_asthma	A_447	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706945	control	A_653	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706946	severe_asthma	A_722	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706947	severe_asthma	A_204	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706948	severe_asthma	A_561	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706949	severe_asthma	A_333	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706950	severe_asthma	A_100	Blood	cohort: Severe asthma, smoking; gender: male; race: south_asian; tissue: blood
+GSM1706951	severe_asthma	A_507	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706952	severe_asthma	A_502	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706953	severe_asthma	A_289	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706954	severe_asthma	A_594	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706955	moderate_asthma	A_033	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706956	severe_asthma	A_488	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706957	severe_asthma	A_108	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706958	control	A_211	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706959	severe_asthma	A_638	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706960	control	A_255	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706961	severe_asthma	A_698	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706962	severe_asthma	A_351	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706963	severe_asthma	A_637	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706964	severe_asthma	A_247	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706965	control	A_453	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706966	control	A_384	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706967	moderate_asthma	A_338	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706968	severe_asthma	A_555	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706969	severe_asthma	A_176	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706970	control	A_381	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706971	control	A_535	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706972	control	A_236	Blood	cohort: Healthy, non-smoking; gender: male; race: black_african; tissue: blood
+GSM1706973	severe_asthma	A_314	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706974	control	A_552	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706975	severe_asthma	A_286	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706976	severe_asthma	A_147	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706977	control	A_526	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706978	severe_asthma	A_053	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706979	moderate_asthma	A_320	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706980	moderate_asthma	A_430	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706981	control	A_332	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706982	moderate_asthma	A_723	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706983	control	A_205	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706984	control	A_097	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706985	moderate_asthma	A_510	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706986	severe_asthma	A_004	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706987	severe_asthma	A_632	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706988	severe_asthma	A_634	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706989	severe_asthma	A_256	Blood	cohort: Severe asthma, non-smoking; gender: male; race: arabic_north_heritage; tissue: blood
+GSM1706990	moderate_asthma	A_442	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706991	severe_asthma	A_353	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706992	severe_asthma	A_458	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706993	severe_asthma	A_324	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706994	moderate_asthma	A_396	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706995	severe_asthma	A_087	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706996	severe_asthma	A_407	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1706997	severe_asthma	A_513	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706998	severe_asthma	A_055	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1706999	severe_asthma	A_254	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707000	severe_asthma	A_385	Blood	cohort: Severe asthma, non-smoking; gender: female; race: arabic_north_heritage; tissue: blood
+GSM1707001	severe_asthma	A_328	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707002	severe_asthma	A_215	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707003	moderate_asthma	A_682	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707004	moderate_asthma	A_005	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707005	severe_asthma	A_643	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707006	moderate_asthma	A_467	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707007	severe_asthma	A_481	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707008	severe_asthma	A_674	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707009	severe_asthma	A_593	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707010	severe_asthma	A_646	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707011	severe_asthma	A_419	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707012	severe_asthma	A_098	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707013	severe_asthma	A_431	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707014	severe_asthma	A_059	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707015	severe_asthma	A_346	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707016	control	A_152	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707017	control	A_311	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707018	control	A_388	Blood	cohort: Healthy, non-smoking; gender: male; race: multiple_races; tissue: blood
+GSM1707019	severe_asthma	A_449	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707020	severe_asthma	A_110	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707021	control	A_066	Blood	cohort: Healthy, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707022	severe_asthma	A_273	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707023	control	A_533	Blood	cohort: Healthy, non-smoking; gender: male; race: black_african; tissue: blood
+GSM1707024	severe_asthma	A_019	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707025	severe_asthma	A_185	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707026	severe_asthma	A_563	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707027	severe_asthma	A_462	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707028	severe_asthma	A_157	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707029	moderate_asthma	A_496	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: south_east_asian; tissue: blood
+GSM1707030	severe_asthma	A_599	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707031	severe_asthma	A_711	Blood	cohort: Severe asthma, non-smoking; gender: female; race: other; tissue: blood
+GSM1707032	moderate_asthma	A_106	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: black_african; tissue: blood
+GSM1707033	severe_asthma	A_316	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707034	moderate_asthma	A_221	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707035	severe_asthma	A_720	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707036	control	A_605	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707037	severe_asthma	A_716	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707038	control	A_322	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707039	severe_asthma	A_216	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707040	severe_asthma	A_134	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707041	severe_asthma	A_678	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707042	severe_asthma	A_268	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707043	severe_asthma	A_235	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707044	control	A_355	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707045	severe_asthma	A_240	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707046	severe_asthma	A_207	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707047	moderate_asthma	A_224	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707048	severe_asthma	A_452	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707049	severe_asthma	A_398	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707050	severe_asthma	A_323	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707051	severe_asthma	A_626	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707052	severe_asthma	A_542	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707053	severe_asthma	A_278	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707054	severe_asthma	A_386	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707055	severe_asthma	A_155	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707056	severe_asthma	A_369	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707057	moderate_asthma	A_630	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707058	severe_asthma	A_093	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707059	moderate_asthma	A_414	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: black_african; tissue: blood
+GSM1707060	severe_asthma	A_117	Blood	cohort: Severe asthma, smoking; gender: male; race: south_asian; tissue: blood
+GSM1707061	severe_asthma	A_679	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707062	severe_asthma	A_335	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707063	severe_asthma	A_193	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707064	severe_asthma	A_715	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707065	severe_asthma	A_505	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707066	moderate_asthma	A_306	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707067	control	A_199	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707068	control	A_360	Blood	cohort: Healthy, non-smoking; gender: female; race: multiple_races; tissue: blood
+GSM1707069	moderate_asthma	A_027	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707070	moderate_asthma	A_500	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707071	severe_asthma	A_530	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707072	control	A_524	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707073	control	A_172	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707074	moderate_asthma	A_030	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707075	moderate_asthma	A_095	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707076	severe_asthma	A_581	Blood	cohort: Severe asthma, non-smoking; gender: male; race: south_asian; tissue: blood
+GSM1707077	moderate_asthma	A_382	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707078	moderate_asthma	A_387	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707079	severe_asthma	A_244	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707080	control	A_111	Blood	cohort: Healthy, non-smoking; gender: female; race: central_asian; tissue: blood
+GSM1707081	control	A_394	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707082	severe_asthma	A_101	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707083	severe_asthma	A_091	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707084	moderate_asthma	A_619	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707085	severe_asthma	A_415	Blood	cohort: Severe asthma, non-smoking; gender: female; race: arabic_north_heritage; tissue: blood
+GSM1707086	severe_asthma	A_680	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707087	severe_asthma	A_345	Blood	cohort: Severe asthma, non-smoking; gender: male; race: multiple_races; tissue: blood
+GSM1707088	severe_asthma	A_358	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707089	moderate_asthma	A_288	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707090	severe_asthma	A_614	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707091	severe_asthma	A_559	Blood	cohort: Severe asthma, non-smoking; gender: female; race: south_asian; tissue: blood
+GSM1707092	severe_asthma	A_558	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707093	severe_asthma	A_603	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707094	moderate_asthma	A_303	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707095	severe_asthma	A_486	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707096	severe_asthma	A_035	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707097	severe_asthma	A_080	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707098	severe_asthma	A_573	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707099	severe_asthma	A_609	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707100	moderate_asthma	A_154	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707101	severe_asthma	A_514	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707102	severe_asthma	A_595	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707103	moderate_asthma	A_689	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707104	moderate_asthma	A_010	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707105	moderate_asthma	A_104	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707106	moderate_asthma	A_040	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707107	control	A_580	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707108	severe_asthma	A_031	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707109	moderate_asthma	A_208	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707110	control	A_677	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707111	severe_asthma	A_327	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707112	control	A_048	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707113	severe_asthma	A_404	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707114	severe_asthma	A_652	Blood	cohort: Severe asthma, non-smoking; gender: female; race: other; tissue: blood
+GSM1707115	severe_asthma	A_072	Blood	cohort: Severe asthma, non-smoking; gender: female; race: multiple_races; tissue: blood
+GSM1707116	severe_asthma	A_659	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707117	severe_asthma	A_151	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707118	moderate_asthma	A_664	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707119	severe_asthma	A_691	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707120	severe_asthma	A_550	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707121	severe_asthma	A_146	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707122	severe_asthma	A_067	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707123	moderate_asthma	A_287	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707124	moderate_asthma	A_315	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707125	moderate_asthma	A_114	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707126	moderate_asthma	A_521	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707127	severe_asthma	A_446	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707128	moderate_asthma	A_695	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707129	severe_asthma	A_232	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707130	severe_asthma	A_364	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707131	severe_asthma	A_213	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707132	moderate_asthma	A_341	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707133	moderate_asthma	A_025	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707134	moderate_asthma	A_060	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707135	severe_asthma	A_527	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707136	severe_asthma	A_050	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707137	severe_asthma	A_275	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707138	severe_asthma	A_163	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707139	severe_asthma	A_590	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707140	severe_asthma	A_044	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707141	severe_asthma	A_099	Blood	cohort: Severe asthma, non-smoking; gender: male; race: other; tissue: blood
+GSM1707142	control	A_308	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707143	severe_asthma	A_363	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707144	severe_asthma	A_038	Blood	cohort: Severe asthma, smoking; gender: male; race: multiple_races; tissue: blood
+GSM1707145	moderate_asthma	A_574	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707146	moderate_asthma	A_277	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707147	severe_asthma	A_685	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707148	severe_asthma	A_597	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707149	severe_asthma	A_225	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707150	severe_asthma	A_378	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707151	severe_asthma	A_409	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707152	moderate_asthma	A_456	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707153	control	A_062	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707154	severe_asthma	A_088	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707155	severe_asthma	A_529	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707156	severe_asthma	A_465	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707157	severe_asthma	A_065	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707158	severe_asthma	A_013	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707159	control	A_171	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707160	severe_asthma	A_047	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707161	severe_asthma	A_307	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707162	severe_asthma	A_102	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707163	severe_asthma	A_519	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707164	severe_asthma	A_226	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707165	control	A_370	Blood	cohort: Healthy, non-smoking; gender: male; race: south_asian; tissue: blood
+GSM1707166	severe_asthma	A_478	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707167	severe_asthma	A_547	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707168	severe_asthma	A_177	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707169	severe_asthma	A_228	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707170	severe_asthma	A_349	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707171	severe_asthma	A_121	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707172	severe_asthma	A_057	Blood	cohort: Severe asthma, non-smoking; gender: male; race: south_asian; tissue: blood
+GSM1707173	severe_asthma	A_622	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707174	severe_asthma	A_522	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707175	severe_asthma	A_045	Blood	cohort: Severe asthma, non-smoking; gender: female; race: east_asian; tissue: blood
+GSM1707176	severe_asthma	A_557	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707177	severe_asthma	A_654	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707178	severe_asthma	A_374	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707179	severe_asthma	A_018	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707180	severe_asthma	A_633	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707181	severe_asthma	A_556	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707182	severe_asthma	A_321	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707183	severe_asthma	A_319	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707184	severe_asthma	A_544	Blood	cohort: Severe asthma, non-smoking; gender: male; race: other; tissue: blood
+GSM1707185	severe_asthma	A_469	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707186	severe_asthma	A_719	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707187	moderate_asthma	A_635	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707188	severe_asthma	A_165	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707189	severe_asthma	A_648	Blood	cohort: Severe asthma, non-smoking; gender: male; race: south_asian; tissue: blood
+GSM1707190	severe_asthma	A_181	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707191	severe_asthma	A_575	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707192	severe_asthma	A_269	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707193	moderate_asthma	A_203	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707194	severe_asthma	A_214	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707195	moderate_asthma	A_568	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707196	severe_asthma	A_354	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707197	severe_asthma	A_180	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707198	severe_asthma	A_707	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707199	severe_asthma	A_705	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707200	severe_asthma	A_298	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707201	severe_asthma	A_709	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707202	severe_asthma	A_455	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707203	severe_asthma	A_572	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707204	moderate_asthma	A_305	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707205	moderate_asthma	A_342	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707206	moderate_asthma	A_367	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707207	severe_asthma	A_237	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707208	severe_asthma	A_713	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707209	severe_asthma	A_525	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707210	severe_asthma	A_032	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707211	severe_asthma	A_284	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707212	moderate_asthma	A_497	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707213	severe_asthma	A_583	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707214	severe_asthma	A_692	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707215	severe_asthma	A_714	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707216	severe_asthma	A_131	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707217	severe_asthma	A_461	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707218	severe_asthma	A_143	Blood	cohort: Severe asthma, non-smoking; gender: female; race: multiple_races; tissue: blood
+GSM1707219	severe_asthma	A_405	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707220	severe_asthma	A_007	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707221	severe_asthma	A_613	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707222	severe_asthma	A_560	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707223	severe_asthma	A_061	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707224	moderate_asthma	A_028	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707225	severe_asthma	A_340	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707226	severe_asthma	A_274	Blood	cohort: Severe asthma, non-smoking; gender: female; race: south_asian; tissue: blood
+GSM1707227	severe_asthma	A_329	Blood	cohort: Severe asthma, non-smoking; gender: male; race: black_african; tissue: blood
+GSM1707228	severe_asthma	A_359	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707229	severe_asthma	A_683	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707230	severe_asthma	A_343	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707231	severe_asthma	A_380	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707232	severe_asthma	A_039	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707233	severe_asthma	A_041	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707234	severe_asthma	A_365	Blood	cohort: Severe asthma, smoking; gender: male; race: black_african; tissue: blood
+GSM1707235	severe_asthma	A_301	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707236	severe_asthma	A_647	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707237	control	A_183	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707238	control	A_379	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707239	moderate_asthma	A_666	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707240	severe_asthma	A_083	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707241	severe_asthma	A_687	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707242	moderate_asthma	A_029	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707243	severe_asthma	A_347	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707244	severe_asthma	A_123	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707245	severe_asthma	A_122	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707246	severe_asthma	A_655	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707247	severe_asthma	A_448	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707248	severe_asthma	A_271	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707249	severe_asthma	A_206	Blood	cohort: Severe asthma, non-smoking; gender: female; race: arabic_north_heritage; tissue: blood
+GSM1707250	severe_asthma	A_656	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707251	severe_asthma	A_416	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707252	severe_asthma	A_578	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707253	severe_asthma	A_413	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707254	severe_asthma	A_650	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707255	severe_asthma	A_658	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707256	control	A_052	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707257	severe_asthma	A_105	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707258	control	A_299	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707259	control	A_476	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707260	severe_asthma	A_124	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707261	control	A_074	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707262	severe_asthma	A_629	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707263	severe_asthma	A_290	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707264	moderate_asthma	A_684	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707265	control	A_006	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707266	severe_asthma	A_250	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707267	control	A_160	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707268	severe_asthma	A_706	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707269	severe_asthma	A_570	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707270	severe_asthma	A_212	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707271	severe_asthma	A_466	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707272	severe_asthma	A_517	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707273	severe_asthma	A_107	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707274	severe_asthma	A_086	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707275	control	A_037	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707276	moderate_asthma	A_230	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707277	moderate_asthma	A_241	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707278	severe_asthma	A_509	Blood	cohort: Severe asthma, non-smoking; gender: female; race: arabic_north_heritage; tissue: blood
+GSM1707279	severe_asthma	A_312	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707280	severe_asthma	A_576	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707281	moderate_asthma	A_383	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707282	control	A_233	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707283	severe_asthma	A_531	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707284	severe_asthma	A_437	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707285	severe_asthma	A_712	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707286	control	A_239	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707287	severe_asthma	A_245	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707288	severe_asthma	A_336	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707289	control	A_470	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707290	moderate_asthma	A_144	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: south_east_asian; tissue: blood
+GSM1707291	severe_asthma	A_623	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707292	severe_asthma	A_620	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707293	control	A_512	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707294	severe_asthma	A_377	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707295	severe_asthma	A_615	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707296	moderate_asthma	A_729	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707297	control	A_587	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707298	control	A_058	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707299	control	A_592	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707300	control	A_699	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707301	severe_asthma	A_217	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707302	severe_asthma	A_492	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707303	control	A_071	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707304	control	A_253	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707305	severe_asthma	A_267	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707306	severe_asthma	A_631	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707307	severe_asthma	A_482	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707308	moderate_asthma	A_257	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707309	moderate_asthma	A_023	Blood	cohort: Moderate asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707310	control	A_391	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707311	severe_asthma	A_197	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707312	severe_asthma	A_014	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707313	control	A_368	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707314	severe_asthma	A_389	Blood	cohort: Severe asthma, smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707315	severe_asthma	A_649	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707316	severe_asthma	A_436	Blood	cohort: Severe asthma, non-smoking; gender: female; race: multiple_races; tissue: blood
+GSM1707317	severe_asthma	A_149	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707318	severe_asthma	A_219	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707319	severe_asthma	A_460	Blood	cohort: Severe asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707320	severe_asthma	A_128	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707321	severe_asthma	A_421	Blood	cohort: Severe asthma, non-smoking; gender: male; race: south_asian; tissue: blood
+GSM1707322	severe_asthma	A_189	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707323	severe_asthma	A_145	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707324	severe_asthma	A_406	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707325	control	A_400	Blood	cohort: Healthy, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707326	severe_asthma	A_585	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707327	moderate_asthma	A_625	Blood	cohort: Moderate asthma, non-smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707328	severe_asthma	A_663	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707329	severe_asthma	A_586	Blood	cohort: Severe asthma, non-smoking; gender: female; race: black_african; tissue: blood
+GSM1707330	severe_asthma	A_433	Blood	cohort: Severe asthma, smoking; gender: male; race: white_caucasian; tissue: blood
+GSM1707331	severe_asthma	A_276	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707332	control	A_577	Blood	cohort: Healthy, non-smoking; gender: female; race: white_caucasian; tissue: blood
+GSM1707333	severe_asthma	A_543	Blood	cohort: Severe asthma, non-smoking; gender: female; race: white_caucasian; tissue: blood

@@ -1,0 +1,84 @@
+gsm	title	source	illness	donor_id	primary_scope
+GSM1244876	MR 73_Control-HC	Whole blood	Healthy	MR 73	primary
+GSM1244877	SV 60_Control-HC	Whole blood	Healthy	SV 60	primary
+GSM1244878	CM 79_Control-HC	Whole blood	Healthy	CM 79	primary
+GSM1244879	TM  81_Control-HC	Whole blood	Healthy	TM  81	primary
+GSM1244880	CC 60_Control-HC	Whole blood	Healthy	CC 60	primary
+GSM1244881	JBB49_Control-HC	Whole blood	Healthy	JBB49	primary
+GSM1244882	DR  72_Control-HC	Whole blood	Healthy	DR  72	primary
+GSM1244883	SM 68_Control-HC	Whole blood	Healthy	SM 68	primary
+GSM1244884	C15-AS_Control-HC	Whole blood	Healthy	C15-AS	primary
+GSM1244885	C1-MG_Control-HC	Whole blood	Healthy	C1-MG	primary
+GSM1244886	C7-DR_Control-HC	Whole blood	Healthy	C7-DR	primary
+GSM1244887	C8-JC_Control-HC	Whole blood	Healthy	C8-JC	primary
+GSM1244888	C12-JP_Control-HC	Whole blood	Healthy	C12-JP	primary
+GSM1244889	C2-LT_Control-HC	Whole blood	Healthy	C2-LT	primary
+GSM1244890	C5-KA_Control-HC	Whole blood	Healthy	C5-KA	primary
+GSM1244891	C3-JF_Control-HC	Whole blood	Healthy	C3-JF	primary
+GSM1244892	C20-MRW_Control-HC	Whole blood	Healthy	C20-MRW	primary
+GSM1244893	C9-MP_Control-HC	Whole blood	Healthy	C9-MP	primary
+GSM1244894	C16-SP_Control-HC	Whole blood	Healthy	C16-SP	primary
+GSM1244895	C4-AC_Control-HC	Whole blood	Healthy	C4-AC	primary
+GSM1244896	C11-SL_Control-HC	Whole blood	Healthy	C11-SL	primary
+GSM1244897	C18-MV_Control-HC	Whole blood	Healthy	C18-MV	primary
+GSM1244898	C13-JL_Control-HC	Whole blood	Healthy	C13-JL	primary
+GSM1244899	C14-ER_Control-HC	Whole blood	Healthy	C14-ER	primary
+GSM1244900	B336_CVID-N	Whole blood	CVID no complications	B336	primary
+GSM1244901	H41_CVID-N	Whole blood	CVID no complications	H41	primary
+GSM1244902	M167_CVID-N	Whole blood	CVID no complications	M167	primary
+GSM1244903	P4_CVID-N	Whole blood	CVID no complications	P4	primary
+GSM1244904	W191_CVID-N	Whole blood	CVID no complications	W191	primary
+GSM1244905	R1_CVID-N	Whole blood	CVID no complications	R1	primary
+GSM1244906	L54_CVID-N	Whole blood	CVID no complications	L54	primary
+GSM1244907	B300_CVID-N	Whole blood	CVID no complications	B300	primary
+GSM1244908	W163_CVID-N	Whole blood	CVID no complications	W163	primary
+GSM1244909	S213_CVID-N	Whole blood	CVID no complications	S213	primary
+GSM1244910	G68_CVID-N	Whole blood	CVID no complications	G68	primary
+GSM1244911	M31_CVID-N	Whole blood	CVID no complications	M31	primary
+GSM1244912	M172_CVID-N	Whole blood	CVID no complications	M172	primary
+GSM1244913	M293_CVID-N	Whole blood	CVID no complications	M293	primary
+GSM1244914	S36_CVID-N	Whole blood	CVID no complications	S36	primary
+GSM1244915	F212_CVID-N	Whole blood	CVID no complications	F212	primary
+GSM1244916	V32_CVID-N	Whole blood	CVID no complications	V32	primary
+GSM1244917	C279_CVID-N	Whole blood	CVID no complications	C279	primary
+GSM1244918	B140_CVID-N	Whole blood	CVID no complications	B140	primary
+GSM1244919	C78_CVID-N	Whole blood	CVID no complications	C78	primary
+GSM1244920	D38_CVID-N	Whole blood	CVID no complications	D38	primary
+GSM1244921	C317_CVID-N	Whole blood	CVID no complications	C317	primary
+GSM1244922	H89_CVID-N	Whole blood	CVID no complications	H89	primary
+GSM1244923	M5_CVID-N	Whole blood	CVID no complications	M5	primary
+GSM1244924	K348_CVID-N	Whole blood	CVID no complications	K348	primary
+GSM1244925	B254_CVID-N	Whole blood	CVID no complications	B254	primary
+GSM1244926	L102_CVID-N	Whole blood	CVID no complications	L102	primary
+GSM1244927	P197_CVID-N	Whole blood	CVID no complications	P197	primary
+GSM1244928	C299_CVID-N	Whole blood	CVID no complications	C299	primary
+GSM1244929	W105_CVID-N	Whole blood	CVID no complications	W105	primary
+GSM1244930	C45_CVID-Y	Whole blood	CVID with complications	C45	primary
+GSM1244931	B244_CVID-Y	Whole blood	CVID with complications	B244	primary
+GSM1244932	D294_CVID-Y	Whole blood	CVID with complications	D294	primary
+GSM1244933	K42_CVID-Y	Whole blood	CVID with complications	K42	primary
+GSM1244934	S135_CVID-Y	Whole blood	CVID with complications	S135	primary
+GSM1244935	G100_CVID-Y	Whole blood	CVID with complications	G100	primary
+GSM1244936	E61_CVID-Y	Whole blood	CVID with complications	E61	primary
+GSM1244937	K2_CVID-Y	Whole blood	CVID with complications	K2	primary
+GSM1244938	H115_CVID-Y	Whole blood	CVID with complications	H115	primary
+GSM1244939	C14_CVID-Y	Whole blood	CVID with complications	C14	primary
+GSM1244940	P101_CVID-Y	Whole blood	CVID with complications	P101	primary
+GSM1244941	C86_CVID-Y	Whole blood	CVID with complications	C86	primary
+GSM1244942	G335_CVID-Y	Whole blood	CVID with complications	G335	primary
+GSM1244943	F6_CVID-Y	Whole blood	CVID with complications	F6	primary
+GSM1244944	L19_CVID-Y	Whole blood	CVID with complications	L19	primary
+GSM1244945	D85_CVID-Y	Whole blood	CVID with complications	D85	primary
+GSM1244946	M124_CVID-Y	Whole blood	CVID with complications	M124	primary
+GSM1244947	K84_CVID-Y	Whole blood	CVID with complications	K84	primary
+GSM1244948	B344_CVID-Y	Whole blood	CVID with complications	B344	primary
+GSM1244949	D232_CVID-Y	Whole blood	CVID with complications	D232	primary
+GSM1244950	F110_CVID-Y	Whole blood	CVID with complications	F110	primary
+GSM1244951	L255_CVID-Y	Whole blood	CVID with complications	L255	primary
+GSM1244952	C77_CVID-Y	Whole blood	CVID with complications	C77	primary
+GSM1244953	G92_CVID-Y	Whole blood	CVID with complications	G92	primary
+GSM1244954	C355_CVID-Y	Whole blood	CVID with complications	C355	primary
+GSM1244955	D276_CVID-Y	Whole blood	CVID with complications	D276	primary
+GSM1244956	K329_CVID-Y	Whole blood	CVID with complications	K329	primary
+GSM1244957	T347_CVID-Y	Whole blood	CVID with complications	T347	primary
+GSM1244958	M120_CVID-Y	Whole blood	CVID with complications	M120	primary

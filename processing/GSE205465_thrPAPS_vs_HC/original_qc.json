@@ -1,0 +1,17 @@
+{
+  "status": "THREE_EFFECTS_COMPLETE",
+  "contrast_id": "GSE205465_thrPAPS_vs_HC",
+  "n_case": 60,
+  "n_control": 28,
+  "input_genes": 37669,
+  "common_valid_genes": 11465,
+  "expression_transform": "TMM_filterByExpr_voom_log2CPM",
+  "log2fc_model": "voom_weighted_least_squares",
+  "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+  "posterior_sd_zero": 0,
+  "min_psd": 0.0352,
+  "max_abs_input": 20.3901,
+  "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+  "scope": "core",
+  "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation."
+}

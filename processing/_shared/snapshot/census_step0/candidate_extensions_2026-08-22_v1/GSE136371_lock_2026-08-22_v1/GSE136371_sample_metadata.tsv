@@ -1,0 +1,50 @@
+gsm	title	source_name_ch1	platform_id	diagnosis	tissue	sex	age	subject_id
+GSM4047517	C1T01ZR	healthy controls	GPL20301	healthy control	whole blood	M	33.0	C1T01ZR
+GSM4047518	C1T03BE	healthy controls	GPL20301	healthy control	whole blood	F	36.0	C1T03BE
+GSM4047519	C1T04HM	healthy controls	GPL20301	healthy control	whole blood	M	23.0	C1T04HM
+GSM4047520	C1T05TY	healthy controls	GPL20301	healthy control	whole blood	M	38.0	C1T05TY
+GSM4047521	C1T07GV	healthy controls	GPL20301	healthy control	whole blood	M	23.0	C1T07GV
+GSM4047522	C1T10LA	healthy controls	GPL20301	healthy control	whole blood	M	23.0	C1T10LA
+GSM4047523	C1T11LT	healthy controls	GPL20301	healthy control	whole blood	M	24.0	C1T11LT
+GSM4047524	C3T01CL	healthy controls	GPL20301	healthy control	whole blood	F	37.0	C3T01CL
+GSM4047525	C3T02BG	healthy controls	GPL20301	healthy control	whole blood	F	27.0	C3T02BG
+GSM4047526	C3T04PM	healthy controls	GPL20301	healthy control	whole blood	M	28.0	C3T04PM
+GSM4047527	C3T05PJ	healthy controls	GPL20301	healthy control	whole blood	F	29.0	C3T05PJ
+GSM4047528	C4T02AA	healthy controls	GPL20301	healthy control	whole blood	F	34.0	C4T02AA
+GSM4047529	C4T03FP	healthy controls	GPL20301	healthy control	whole blood	M	21.0	C4T03FP
+GSM4047530	C4T05CS	healthy controls	GPL20301	healthy control	whole blood	F	31.0	C4T05CS
+GSM4047531	C5T02DS	healthy controls	GPL20301	healthy control	whole blood	M	26.0	C5T02DS
+GSM4047532	C5T03DT	healthy controls	GPL20301	healthy control	whole blood	M	28.0	C5T03DT
+GSM4047533	C1P01RD	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	34.0	C1P01RD
+GSM4047534	C1P02NN	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	23.0	C1P02NN
+GSM4047535	C1P03MX	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	44.0	C1P03MX
+GSM4047536	C1P04SD	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	18.0	C1P04SD
+GSM4047537	C1P05MA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	25.0	C1P05MA
+GSM4047538	C1P07CJ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	29.0	C1P07CJ
+GSM4047539	C1P08MA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	23.0	C1P08MA
+GSM4047540	C1P11BL	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	32.0	C1P11BL
+GSM4047541	C1P12DA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	23.0	C1P12DA
+GSM4047542	C1P14HS	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	28.0	C1P14HS
+GSM4047543	C1P15PA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	22.0	C1P15PA
+GSM4047544	C1P16AB	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	26.0	C1P16AB
+GSM4047545	C1P17CG	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	29.0	C1P17CG
+GSM4047546	C1P18CS	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	24.0	C1P18CS
+GSM4047547	C1P19PF	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	19.0	C1P19PF
+GSM4047548	C1P20PJ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	48.0	C1P20PJ
+GSM4047549	C1P21TA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	30.0	C1P21TA
+GSM4047550	C3P02OJ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	25.0	C3P02OJ
+GSM4047551	C3P03BE	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	19.0	C3P03BE
+GSM4047552	C3P04PB	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	46.0	C3P04PB
+GSM4047553	C3P06VQ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	23.0	C3P06VQ
+GSM4047554	C4P02TR	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	42.0	C4P02TR
+GSM4047555	C4P03PD	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	30.0	C4P03PD
+GSM4047556	C4P04VF	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	34.0	C4P04VF
+GSM4047557	C4P08JS	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	31.0	C4P08JS
+GSM4047558	C4P09PA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	50.0	C4P09PA
+GSM4047559	C4P10LF	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	33.0	C4P10LF
+GSM4047560	C4P11AJ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	23.0	C4P11AJ
+GSM4047561	C4P12LJ	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	F	20.0	C4P12LJ
+GSM4047562	C4P13ML	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	38.0	C4P13ML
+GSM4047563	C4P14MY	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	22.0	C4P14MY
+GSM4047564	C4P15DG	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	28.0	C4P15DG
+GSM4047565	C5P01GA	cystic fibrosis patient	GPL20301	cystic fibrosis	whole blood	M	28.0	C5P01GA

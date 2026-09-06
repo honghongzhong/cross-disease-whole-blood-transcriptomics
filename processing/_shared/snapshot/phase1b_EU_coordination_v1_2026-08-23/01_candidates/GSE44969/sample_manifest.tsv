@@ -1,0 +1,25 @@
+gsm	title	subject_id	group	mutation	age	sex	chip_number	chip_position	tissue	platform	selected_primary
+GSM1094688	CGD-1	CGD-1	Chronic granulomatous patient	CYBB	Child	Male	5141769066	G	Whole blood	GPL6947	TRUE
+GSM1094689	CGD-2	CGD-2	Healthy control	No mutation	Child	Male	5141769066	H	Whole blood	GPL6947	TRUE
+GSM1094690	CGD-3	CGD-3	Chronic granulomatous patient	Unknown mutation	Child	Male	5141769072	J	Whole blood	GPL6947	TRUE
+GSM1094691	CGD-4	CGD-4	Healthy control	No mutation	Child	Male	5141769072	I	Whole blood	GPL6947	TRUE
+GSM1094692	CGD-5	CGD-5	Healthy control	No mutation	Adult	Female	5141769072	L	Whole blood	GPL6947	TRUE
+GSM1094693	CGD-6	CGD-6	Carrier	CYBB	Child	Female	5141769072	H	Whole blood	GPL6947	FALSE
+GSM1094694	CGD-7	CGD-7	Chronic granulomatous patient	CYBB	Child	Male	5141769072	G	Whole blood	GPL6947	TRUE
+GSM1094695	CGD-8	CGD-8	Carrier	CYBB	Adult	Female	5141769072	K	Whole blood	GPL6947	FALSE
+GSM1094696	CGD-9	CGD-9	Chronic granulomatous patient	Unknown mutation	Child	Male	5141769066	C	Whole blood	GPL6947	TRUE
+GSM1094697	CGD-10	CGD-10	Chronic granulomatous patient	Unknown mutation	Child	Female	5141769066	E	Whole blood	GPL6947	TRUE
+GSM1094698	CGD-11	CGD-11	Healthy control	No mutation	Adult	Female	5141769066	F	Whole blood	GPL6947	TRUE
+GSM1094699	CGD-12	CGD-12	Healthy control	No mutation	Adult	Male	5141769066	D	Whole blood	GPL6947	TRUE
+GSM1094700	CGD-13	CGD-13	Chronic granulomatous patient	CYBA	Child	Male	5141769066	A	Whole blood	GPL6947	TRUE
+GSM1094701	CGD-14	CGD-14	Healthy control	No mutation	Child	Male	5141769066	B	Whole blood	GPL6947	TRUE
+GSM1094702	CGD-15	CGD-15	Healthy control	No mutation	Child	Male	5141769072	E	Whole blood	GPL6947	TRUE
+GSM1094703	CGD-16	CGD-16	Healthy control	No mutation	Child	Male	5141769072	F	Whole blood	GPL6947	TRUE
+GSM1094704	CGD-17	CGD-17	Healthy control	No mutation	Adult	Male	5141769072	D	Whole blood	GPL6947	TRUE
+GSM1094705	CGD-18	CGD-18	Healthy control	No mutation	Adult	Female	5141769066	L	Whole blood	GPL6947	TRUE
+GSM1094706	CGD-19	CGD-19	Chronic granulomatous patient	NCF1	Child	Female	5141769072	A	Whole blood	GPL6947	TRUE
+GSM1094707	CGD-20	CGD-20	Healthy control	No mutation	Adult	Female	5141769072	C	Whole blood	GPL6947	TRUE
+GSM1094708	CGD-21	CGD-21	Healthy control	No mutation	Child	Male	5141769072	B	Whole blood	GPL6947	TRUE
+GSM1094709	CGD-22	CGD-22	Carrier	CYBB	Child	Female	5141769066	I	Whole blood	GPL6947	FALSE
+GSM1094710	CGD-23	CGD-23	Carrier	CYBB	Adult	Female	5141769066	K	Whole blood	GPL6947	FALSE
+GSM1094711	CGD-24	CGD-24	Healthy control	No mutation	Adult	Male	5141769066	J	Whole blood	GPL6947	TRUE

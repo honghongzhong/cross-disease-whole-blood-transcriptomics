@@ -1,0 +1,121 @@
+sample_id	sample_title	group	subject_id	timepoint	age_yrs	age_group	sex	hours_post_injury	tbsa_pct	inhalation_injury	survival	source
+GSM493655	BurnPatient1_Early	burn	BurnPatient1	Early	5	Ped	F	61.8	91	No	No	GSE19743_family.soft.gz
+GSM493657	BurnPatient2_Early	burn	BurnPatient2	Early	41	Adult	M	9.7	48	Yes	Yes	GSE19743_family.soft.gz
+GSM493659	BurnPatient3_Early	burn	BurnPatient3	Early	4	Ped	M	49.4	79	Yes	Yes	GSE19743_family.soft.gz
+GSM493661	BurnPatient4_Early	burn	BurnPatient4	Early	3	Ped	M	19	74	Yes	Yes	GSE19743_family.soft.gz
+GSM493663	BurnPatient5_Early	burn	BurnPatient5	Early	9	Ped	F	81.6	60	Yes	Yes	GSE19743_family.soft.gz
+GSM493665	BurnPatient6_Early	burn	BurnPatient6	Early	35	Adult	M	120.6	77	No	No	GSE19743_family.soft.gz
+GSM493667	BurnPatient7_Early	burn	BurnPatient7	Early	38	Adult	F	95.5	92	No	No	GSE19743_family.soft.gz
+GSM493669	BurnPatient8_Early	burn	BurnPatient8	Early	43	Adult	M	28.4	51	No	Yes	GSE19743_family.soft.gz
+GSM493671	BurnPatient9_Early	burn	BurnPatient9	Early	69	Adult	M	12.7	40	Yes	Yes	GSE19743_family.soft.gz
+GSM493673	BurnPatient10_Early	burn	BurnPatient10	Early	42	Adult	M	74.6	58	No	No	GSE19743_family.soft.gz
+GSM493675	BurnPatient11_Early	burn	BurnPatient11	Early	37	Adult	M	4.8	51	No	Yes	GSE19743_family.soft.gz
+GSM493677	BurnPatient12_Early	burn	BurnPatient12	Early	2	Ped	M	22.6	68	Yes	Yes	GSE19743_family.soft.gz
+GSM493679	BurnPatient13_Early	burn	BurnPatient13	Early	7	Ped	M	39.4	64	Yes	Yes	GSE19743_family.soft.gz
+GSM493681	BurnPatient14_Early	burn	BurnPatient14	Early	40	Adult	M	95.7	91	No	No	GSE19743_family.soft.gz
+GSM493683	BurnPatient15_Early	burn	BurnPatient15	Early	5	Ped	M	43.5	82	Yes	Yes	GSE19743_family.soft.gz
+GSM493685	BurnPatient16_Early	burn	BurnPatient16	Early	22	Adult	M	37.8	78	No	Yes	GSE19743_family.soft.gz
+GSM493687	BurnPatient17_Early	burn	BurnPatient17	Early	5	Ped	M	114.4	60	Yes	Yes	GSE19743_family.soft.gz
+GSM493689	BurnPatient18_Early	burn	BurnPatient18	Early	3	Ped	M	50	61	No	Yes	GSE19743_family.soft.gz
+GSM493691	BurnPatient19_Early	burn	BurnPatient19	Early	22	Adult	M	30.6	77	No	No	GSE19743_family.soft.gz
+GSM493693	BurnPatient20_Early	burn	BurnPatient20	Early	40	Adult	M	6.5	46	Yes	Yes	GSE19743_family.soft.gz
+GSM493695	BurnPatient21_Early	burn	BurnPatient21	Early	51	Adult	M	15.3	43	Yes	Yes	GSE19743_family.soft.gz
+GSM493697	BurnPatient22_Early	burn	BurnPatient22	Early	2	Ped	M	36.5	90	Yes	Yes	GSE19743_family.soft.gz
+GSM493699	BurnPatient23_Early	burn	BurnPatient23	Early	34	Adult	M	39.5	46	Yes	Yes	GSE19743_family.soft.gz
+GSM493701	BurnPatient24_Early	burn	BurnPatient24	Early	39	Adult	M	61.9	42	Yes	Yes	GSE19743_family.soft.gz
+GSM493703	BurnPatient25_Early	burn	BurnPatient25	Early	36	Adult	M	18.1	69	No	No	GSE19743_family.soft.gz
+GSM493705	BurnPatient26_Early	burn	BurnPatient26	Early	24	Adult	M	78.8	56	Yes	Yes	GSE19743_family.soft.gz
+GSM493707	BurnPatient27_Early	burn	BurnPatient27	Early	11	Ped	F	178	80	Yes	Yes	GSE19743_family.soft.gz
+GSM493709	BurnPatient28_Early	burn	BurnPatient28	Early	30	Adult	F	19.5	87	Yes	Yes	GSE19743_family.soft.gz
+GSM493711	BurnPatient29_Early	burn	BurnPatient29	Early	4	Ped	M	77.7	58	Yes	No	GSE19743_family.soft.gz
+GSM493713	BurnPatient30_Early	burn	BurnPatient30	Early	2	Ped	M	35.3	58	No	Yes	GSE19743_family.soft.gz
+GSM493715	BurnPatient31_Early	burn	BurnPatient31	Early	4	Ped	M	57.8	67	Yes	Yes	GSE19743_family.soft.gz
+GSM493717	BurnPatient32_Early	burn	BurnPatient32	Early	1	Ped	M	85.5	51	No	Yes	GSE19743_family.soft.gz
+GSM493719	BurnPatient33_Early	burn	BurnPatient33	Early	26	Adult	M	32	86	Yes	Yes	GSE19743_family.soft.gz
+GSM493721	BurnPatient34_Early	burn	BurnPatient34	Early	4	Ped	M	41.9	66	Yes	Yes	GSE19743_family.soft.gz
+GSM493723	BurnPatient35_Early	burn	BurnPatient35	Early	11	Ped	M	88	63	Yes	Yes	GSE19743_family.soft.gz
+GSM493725	BurnPatient36_Early	burn	BurnPatient36	Early	2	Ped	M	165.5	40	No	Yes	GSE19743_family.soft.gz
+GSM493727	BurnPatient37_Early	burn	BurnPatient37	Early	43	Adult	M	14.9	52	No	Yes	GSE19743_family.soft.gz
+GSM493729	BurnPatient38_Early	burn	BurnPatient38	Early	4	Ped	M	18.8	91	Yes	Yes	GSE19743_family.soft.gz
+GSM493731	BurnPatient39_Early	burn	BurnPatient39	Early	2	Ped	F	32.3	76	Yes	Yes	GSE19743_family.soft.gz
+GSM493733	BurnPatient40_Early	burn	BurnPatient40	Early	38	Adult	M	141.2	72	Yes	Yes	GSE19743_family.soft.gz
+GSM493735	BurnPatient41_Early	burn	BurnPatient41	Early	62	Adult	F	12.7	80	Yes	No	GSE19743_family.soft.gz
+GSM493737	BurnPatient42_Early	burn	BurnPatient42	Early	41	Adult	F	11.3	41	Yes	No	GSE19743_family.soft.gz
+GSM493739	BurnPatient43_Early	burn	BurnPatient43	Early	36	Adult	M	61.8	68	No	Yes	GSE19743_family.soft.gz
+GSM493741	BurnPatient44_Early	burn	BurnPatient44	Early	41	Adult	M	225.9	48	Yes	Yes	GSE19743_family.soft.gz
+GSM493743	BurnPatient45_Early	burn	BurnPatient45	Early	1	Ped	M	18.4	70	Yes	Yes	GSE19743_family.soft.gz
+GSM493745	BurnPatient46_Early	burn	BurnPatient46	Early	6	Ped	F	71.3	50	Yes	Yes	GSE19743_family.soft.gz
+GSM493747	BurnPatient47_Early	burn	BurnPatient47	Early	1	Ped	M	86.6	47	No	Yes	GSE19743_family.soft.gz
+GSM493749	BurnPatient48_Early	burn	BurnPatient48	Early	0	Ped	M	21	54	Yes	No	GSE19743_family.soft.gz
+GSM493751	BurnPatient49_Early	burn	BurnPatient49	Early	41	Adult	M	24.8	56	Yes	Yes	GSE19743_family.soft.gz
+GSM493753	BurnPatient50_Early	burn	BurnPatient50	Early	10	Ped	M	71	93	No	Yes	GSE19743_family.soft.gz
+GSM493755	BurnPatient51_Early	burn	BurnPatient51	Early	34	Adult	F	7.2	90	Yes	No	GSE19743_family.soft.gz
+GSM493757	BurnPatient52_Early	burn	BurnPatient52	Early	54	Adult	M	141.6	65	Yes	No	GSE19743_family.soft.gz
+GSM493759	BurnPatient53_Early	burn	BurnPatient53	Early	69	Adult	F	5.2	62	Yes	No	GSE19743_family.soft.gz
+GSM493761	BurnPatient54_Early	burn	BurnPatient54	Early	32	Adult	M	18.6	87	Yes	Yes	GSE19743_family.soft.gz
+GSM493763	BurnPatient55_Early	burn	BurnPatient55	Early	51	Adult	M	59.9	84	Yes	No	GSE19743_family.soft.gz
+GSM493765	BurnPatient56_Early	burn	BurnPatient56	Early	1	Ped	F	43.8	78	No	Yes	GSE19743_family.soft.gz
+GSM493767	BurnPatient57_Early	burn	BurnPatient57	Early	42	Adult	M	40.6	69	No	Yes	GSE19743_family.soft.gz
+GSM493769	HealthyControl1	healthy_control	HealthyControl1	control	11	Ped	F					GSE19743_family.soft.gz
+GSM493770	HealthyControl2	healthy_control	HealthyControl2	control	40	Adult	F					GSE19743_family.soft.gz
+GSM493771	HealthyControl3	healthy_control	HealthyControl3	control	26	Adult	M					GSE19743_family.soft.gz
+GSM493772	HealthyControl4	healthy_control	HealthyControl4	control	58	Adult	F					GSE19743_family.soft.gz
+GSM493773	HealthyControl5	healthy_control	HealthyControl5	control	9	Ped	M					GSE19743_family.soft.gz
+GSM493774	HealthyControl6	healthy_control	HealthyControl6	control	28	Adult	F					GSE19743_family.soft.gz
+GSM493775	HealthyControl7	healthy_control	HealthyControl7	control	46	Adult	F					GSE19743_family.soft.gz
+GSM493776	HealthyControl8	healthy_control	HealthyControl8	control	10	Ped	M					GSE19743_family.soft.gz
+GSM493777	HealthyControl9	healthy_control	HealthyControl9	control	41	Adult	F					GSE19743_family.soft.gz
+GSM493778	HealthyControl10	healthy_control	HealthyControl10	control	9	Ped	M					GSE19743_family.soft.gz
+GSM493779	HealthyControl11	healthy_control	HealthyControl11	control	9	Ped	F					GSE19743_family.soft.gz
+GSM493780	HealthyControl12	healthy_control	HealthyControl12	control	10	Ped	M					GSE19743_family.soft.gz
+GSM493781	HealthyControl13	healthy_control	HealthyControl13	control	7	Ped	M					GSE19743_family.soft.gz
+GSM493782	HealthyControl14	healthy_control	HealthyControl14	control	7	Ped	M					GSE19743_family.soft.gz
+GSM493783	HealthyControl15	healthy_control	HealthyControl15	control	26	Adult	M					GSE19743_family.soft.gz
+GSM493784	HealthyControl16	healthy_control	HealthyControl16	control	11	Ped	F					GSE19743_family.soft.gz
+GSM493785	HealthyControl17	healthy_control	HealthyControl17	control	24	Adult	F					GSE19743_family.soft.gz
+GSM493786	HealthyControl18	healthy_control	HealthyControl18	control	26	Adult	F					GSE19743_family.soft.gz
+GSM493787	HealthyControl19	healthy_control	HealthyControl19	control	7	Ped	M					GSE19743_family.soft.gz
+GSM493788	HealthyControl20	healthy_control	HealthyControl20	control	9	Ped	F					GSE19743_family.soft.gz
+GSM493789	HealthyControl21	healthy_control	HealthyControl21	control	8	Ped	F					GSE19743_family.soft.gz
+GSM493790	HealthyControl22	healthy_control	HealthyControl22	control	9	Ped	M					GSE19743_family.soft.gz
+GSM493791	HealthyControl23	healthy_control	HealthyControl23	control	31	Adult	F					GSE19743_family.soft.gz
+GSM493792	HealthyControl24	healthy_control	HealthyControl24	control	31	Adult	F					GSE19743_family.soft.gz
+GSM493793	HealthyControl25	healthy_control	HealthyControl25	control	10	Ped	F					GSE19743_family.soft.gz
+GSM493794	HealthyControl26	healthy_control	HealthyControl26	control	8	Ped	M					GSE19743_family.soft.gz
+GSM493795	HealthyControl27	healthy_control	HealthyControl27	control	30	Adult	F					GSE19743_family.soft.gz
+GSM493796	HealthyControl28	healthy_control	HealthyControl28	control	57	Adult	F					GSE19743_family.soft.gz
+GSM493797	HealthyControl29	healthy_control	HealthyControl29	control	23	Adult	M					GSE19743_family.soft.gz
+GSM493798	HealthyControl30	healthy_control	HealthyControl30	control	10	Ped	M					GSE19743_family.soft.gz
+GSM493799	HealthyControl31	healthy_control	HealthyControl31	control	10	Ped	F					GSE19743_family.soft.gz
+GSM493800	HealthyControl32	healthy_control	HealthyControl32	control	27	Adult	M					GSE19743_family.soft.gz
+GSM493801	HealthyControl33	healthy_control	HealthyControl33	control	63	Adult	F					GSE19743_family.soft.gz
+GSM493802	HealthyControl34	healthy_control	HealthyControl34	control	7	Ped	F					GSE19743_family.soft.gz
+GSM493803	HealthyControl35	healthy_control	HealthyControl35	control	34	Adult	F					GSE19743_family.soft.gz
+GSM493804	HealthyControl36	healthy_control	HealthyControl36	control	9	Ped	F					GSE19743_family.soft.gz
+GSM493805	HealthyControl37	healthy_control	HealthyControl37	control	7	Ped	M					GSE19743_family.soft.gz
+GSM493806	HealthyControl38	healthy_control	HealthyControl38	control	10	Ped	M					GSE19743_family.soft.gz
+GSM493807	HealthyControl39	healthy_control	HealthyControl39	control	10	Ped	M					GSE19743_family.soft.gz
+GSM493808	HealthyControl40	healthy_control	HealthyControl40	control	9	Ped	F					GSE19743_family.soft.gz
+GSM493809	HealthyControl41	healthy_control	HealthyControl41	control	45	Adult	F					GSE19743_family.soft.gz
+GSM493810	HealthyControl42	healthy_control	HealthyControl42	control	23	Adult	F					GSE19743_family.soft.gz
+GSM493811	HealthyControl43	healthy_control	HealthyControl43	control	43	Adult	M					GSE19743_family.soft.gz
+GSM493812	HealthyControl44	healthy_control	HealthyControl44	control	31	Adult	M					GSE19743_family.soft.gz
+GSM493813	HealthyControl45	healthy_control	HealthyControl45	control	11	Ped	M					GSE19743_family.soft.gz
+GSM493814	HealthyControl46	healthy_control	HealthyControl46	control	9	Ped	M					GSE19743_family.soft.gz
+GSM493815	HealthyControl47	healthy_control	HealthyControl47	control	8	Ped	M					GSE19743_family.soft.gz
+GSM493816	HealthyControl48	healthy_control	HealthyControl48	control	11	Ped	F					GSE19743_family.soft.gz
+GSM493817	HealthyControl49	healthy_control	HealthyControl49	control	7	Ped	M					GSE19743_family.soft.gz
+GSM493818	HealthyControl50	healthy_control	HealthyControl50	control	9	Ped	F					GSE19743_family.soft.gz
+GSM493819	HealthyControl51	healthy_control	HealthyControl51	control	32	Adult	M					GSE19743_family.soft.gz
+GSM493820	HealthyControl52	healthy_control	HealthyControl52	control	8	Ped	F					GSE19743_family.soft.gz
+GSM493821	HealthyControl53	healthy_control	HealthyControl53	control	22	Adult	M					GSE19743_family.soft.gz
+GSM493822	HealthyControl54	healthy_control	HealthyControl54	control	40	Adult	F					GSE19743_family.soft.gz
+GSM493823	HealthyControl55	healthy_control	HealthyControl55	control	11	Ped	F					GSE19743_family.soft.gz
+GSM493824	HealthyControl56	healthy_control	HealthyControl56	control	11	Ped	F					GSE19743_family.soft.gz
+GSM493825	HealthyControl57	healthy_control	HealthyControl57	control	11	Ped	M					GSE19743_family.soft.gz
+GSM493826	HealthyControl58	healthy_control	HealthyControl58	control	36	Adult	M					GSE19743_family.soft.gz
+GSM493827	HealthyControl59	healthy_control	HealthyControl59	control	40	Adult	M					GSE19743_family.soft.gz
+GSM493828	HealthyControl60	healthy_control	HealthyControl60	control	34	Adult	F					GSE19743_family.soft.gz
+GSM493829	HealthyControl61	healthy_control	HealthyControl61	control	8	Ped	F					GSE19743_family.soft.gz
+GSM493830	HealthyControl62	healthy_control	HealthyControl62	control	11	Ped	M					GSE19743_family.soft.gz
+GSM493831	HealthyControl63	healthy_control	HealthyControl63	control	35	Adult	M					GSE19743_family.soft.gz

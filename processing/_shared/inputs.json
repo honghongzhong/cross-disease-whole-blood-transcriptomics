@@ -1,0 +1,726 @@
+[
+  {
+    "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE136371_lock_2026-08-22_v1/GSE136371_sample_metadata.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE185855_lock_2026-08-22_v1/GSE185855_baseline_sample_lock.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE18781_lock_2026-08-22_v1/GSE18781_sample_subject_data_lock_v1.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse100150_2/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse100150_2/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse100150_2/raw/GPL6884.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse100150_2/raw/GSE100150_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse100150_4/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse100150_4/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse100150_4/raw/GPL6884.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse100150_4/raw/GSE100150_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse111459_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse111459_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse111459_1/raw/GSE111459_TBM_Blood_RawCount.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse112057_1/process/sample_metadata.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse112057_1/raw/GSE112057_RawCounts_dataset.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse112057_2/process/sample_metadata.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse112057_2/raw/GSE112057_RawCounts_dataset.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse112087_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse112087_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse112087_1/raw/GSE112087_RAW.tar",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse123658_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse123658_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse123658_1/raw/GSE123658_read_counts.gene_level.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse124272_1/raw/GPL21185_platform.txt",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse124326_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse124326_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse124326_1/raw/GSE124326_count_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse124548_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse124548_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse124548_1/raw/GSE124548_raw_baseline_counts.tsv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse125158_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse125158_1/raw/GSE125158_family.soft.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse125158_1/raw/GSE125158_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse136371_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse136371_1/raw/GSE136371_counts_matrix.tsv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse138118_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse138118_1/raw/GSE138118_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse164191_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse164191_1/raw/GSE164191_family.soft.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse164191_1/raw/GSE164191_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse165082_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse165082_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse165082_1/raw/GSE165082_PD-CC.counts.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse177044_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse177044_1/raw/GSE177044_raw_counts2.csv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse177044_1/raw/GSE177044_raw_countsPSC.csv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse177044_1/raw/GSE177044_raw_read_counts.csv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse181228_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse181228_1/raw/counts.tsv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse184876_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse184876_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse184876_1/raw/counts.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse185855_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse185855_1/raw/GSE185855_baseline_counts_matrix.tsv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse18781_3/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse18781_3/raw/GSE18781_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse190125_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse190125_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse190125_1/raw/GSE190125_Counts_for_GEO.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse194331_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse194331_1/raw/GSE194331_HC_PAN_PANSEP_counts.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse194331_1/raw/GSE194331_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse19743_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse201332_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse201332_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse201332_1/raw/family.soft.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse201332_1/raw/series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse202518_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse205465_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse205465_1/raw/counts.tsv.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse205465_1/raw/family.soft.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse236442_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse244401_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse26049_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse26049_2/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse26049_3/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse262659_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse269497_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse269497_1/raw/GSE269497_genes_FPKM_expression.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse28750_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712478_af1c1302-1-zm-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712479_af1c1302-10-pd-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712480_af1c1302-11-br-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712481_af1c1302-2-tw-1-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712482_af1c1302-3-kc-1-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712483_af1c1302-5-jb-1-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712484_af1c1302-6-tw-2-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712485_af1c1302-7-pg-1-tubea_b-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712486_af1c1302-8-ed-1-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712487_af1c1302-9-ds-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712488_af1c1302-13-female-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712489_af1c1302-14-female-2-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712490_af1c1302-15-female-3-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712491_af1c1302-16-female-4-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712492_af1c1302-17-female-5-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712493_af1c1302-18-female-6-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712494_af1c1302-19-female-7-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712495_af1c1302-20-female-8-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712496_af1c1302-21-female-9-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712497_af1c1302-22-female-10-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712498_af1c1302-23-male-1-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712499_af1c1302-24-male-2-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712500_af1c1302-25-male-3-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712501_af1c1302-26-male-4-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712502_af1c1302-27-male-5-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712503_af1c1302-28-male-6-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712504_af1c1302-29-male-7-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712505_af1c1302-30-male-8-tubea-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712506_af1c1302-31-male-9-tubeb-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse28750_1/raw/GSM712507_af1c1302-32-male-10-replacement-181207.CEL",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse334922_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802150.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802151.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802152.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802153.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802158.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802159.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802160.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse334922_1/raw/samples/GSM9802161.xlsx.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse34404_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse34404_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse34404_1/raw/GPL10558_acc.cgi",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse34404_1/raw/GSE34404_non-normalized.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse42148_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse42148_1/raw/GSE42148_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse44314_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse44314_1/raw/GSE44314_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse44969_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse48000_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse48000_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse48000_1/raw/GPL10558.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse48000_1/raw/GSE48000_non_normalized_set1.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse48060_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse48060_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse48060_1/raw/GSE48060_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse51405_2/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse51405_2/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse51405_2/raw/series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse69063_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse69063_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse69063_1/raw/GSE69063_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse69683_1/raw/GSE69683_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse83563_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse83632_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse83632_1/raw/GSE83632_family.soft.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse83632_1/raw/GSE83632_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse89594_1/process/run_analysis.py",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse89594_1/raw/GSE89594_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "dataset/gse94648_1/process/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "dataset/gse94648_1/raw/GSE94648_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "GPL570.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "outputs/dataset_contrast_audit_20260903_v1/audit_data.json",
+    "bundled": true
+  },
+  {
+    "relative": "outputs/dataset_contrast_audit_20260903_v1/evidence_snapshot.json",
+    "bundled": true
+  },
+  {
+    "relative": "outputs/stage1_three_effects_20260903_v1/annotations/GPL21185_mapping.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "outputs/stage1_three_effects_20260903_v1/annotations/GPL32193_mapping.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE177044/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/GSE19743_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE202518/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE236442/GSE236442_hypertension_EH_vs_healthy_expression_matrix.txt",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE236442/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE244401/raw_evidence/GSE244401_processed_data.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE244401/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/raw_evidence/GSE26049_series_matrix.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE262659/raw_evidence/GSE262659_SALMON_Counts.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE44969/raw_evidence/GSE44969_non-normalized.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE44969/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE69683/sample_manifest.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83632/GPL5175_matrix_probe_mapping.tsv",
+    "bundled": true
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/02_worker_packages/worker_gse202518_20260824/GSE202518_RAW.tar",
+    "bundled": false
+  },
+  {
+    "relative": "phase1b_EU_coordination_v1_2026-08-23/02_worker_packages/worker_gse83563_20260824/GSE83563_sample_expression.txt.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL10558.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL13158.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL2986.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL6480.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL6947.annot.gz",
+    "bundled": false
+  },
+  {
+    "relative": "tmp/eu58_full_model_20260827/annotations/GPL8136.txt",
+    "bundled": true
+  },
+  {
+    "relative": "outputs/stage1_three_effects_20260903_v1/canonical_gene_universe.tsv",
+    "bundled": true
+  }
+]

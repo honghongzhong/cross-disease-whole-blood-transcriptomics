@@ -1,0 +1,17 @@
+sample_id	title	role	cohort	subject_id	included	source_name	characteristics
+GSM1082964	Fulminant_1 (2011)	case	type_1_diabetes	GSM1082964	1	whole blood, fulminant	tissue: whole blood | gender: male | age: 30yrs | diabetes type: fulminant type 1
+GSM1082965	Fulminant_2 (2011)	case	type_1_diabetes	GSM1082965	1	whole blood, fulminant	tissue: whole blood | gender: female | age: 55yrs | diabetes type: fulminant type 1
+GSM1082966	Fulminant_3 (2011)	case	type_1_diabetes	GSM1082966	1	whole blood, fulminant	tissue: whole blood | gender: female | age: 38yrs | diabetes type: fulminant type 1
+GSM1082967	Fulminant_4 (2011)	case	type_1_diabetes	GSM1082967	1	whole blood, fulminant	tissue: whole blood | gender: female | age: 49yrs | diabetes type: fulminant type 1
+GSM1082968	Fulminant_5 (2011)	case	type_1_diabetes	GSM1082968	1	whole blood, fulminant	tissue: whole blood | gender: female | age: 64yrs | diabetes type: fulminant type 1
+GSM1082969	Classical 1A_1 (2011)	case	type_1_diabetes	GSM1082969	1	whole blood, classical type 1A	tissue: whole blood | gender: female | age: 67yrs | diabetes type: classical type 1A
+GSM1082970	Classical 1A_2 (2011)	case	type_1_diabetes	GSM1082970	1	whole blood, classical type 1A	tissue: whole blood | gender: female | age: 40yrs | diabetes type: classical type 1A
+GSM1082971	Classical 1A_3 (2011)	case	type_1_diabetes	GSM1082971	1	whole blood, classical type 1A	tissue: whole blood | gender: male | age: 49yrs | diabetes type: classical type 1A
+GSM1082972	Classical 1A_4 (2011)	case	type_1_diabetes	GSM1082972	1	whole blood, classical type 1A	tissue: whole blood | gender: female | age: 37yrs | diabetes type: classical type 1A
+GSM1082973	Classical 1A_5 (2011)	case	type_1_diabetes	GSM1082973	1	whole blood, classical type 1A	tissue: whole blood | gender: female | age: 76yrs | diabetes type: classical type 1A
+GSM1082974	Healthy control_1	control	healthy_control	GSM1082974	1	whole blood, healthy control	tissue: whole blood | gender: male | age: 67yrs | diabetes type: none
+GSM1082975	Healthy control_2	control	healthy_control	GSM1082975	1	whole blood, healthy control	tissue: whole blood | gender: female | age: 67yrs | diabetes type: none
+GSM1082976	Healthy control_3	control	healthy_control	GSM1082976	1	whole blood, healthy control	tissue: whole blood | gender: male | age: 39yrs | diabetes type: none
+GSM1082977	Healthy control_4	control	healthy_control	GSM1082977	1	whole blood, healthy control	tissue: whole blood | gender: female | age: 39yrs | diabetes type: none
+GSM1082978	Healthy control_5	control	healthy_control	GSM1082978	1	whole blood, healthy control	tissue: whole blood | gender: female | age: 35yrs | diabetes type: none
+GSM1082979	Healthy control_6	control	healthy_control	GSM1082979	1	whole blood, healthy control	tissue: whole blood | gender: female | age: 35yrs | diabetes type: none

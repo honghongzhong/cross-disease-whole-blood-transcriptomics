@@ -1,0 +1,12 @@
+relative,url,platform
+dataset/gse100150_2/raw/GPL6884.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6884/annot/GPL6884.annot.gz,GPL6884
+dataset/gse100150_4/raw/GPL6884.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6884/annot/GPL6884.annot.gz,GPL6884
+dataset/gse124272_1/raw/GPL21185_platform.txt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL21185&targ=self&form=text&view=full,GPL21185
+dataset/gse34404_1/raw/GPL10558_acc.cgi,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL10558&targ=self&form=text&view=full,GPL10558
+dataset/gse48000_1/raw/GPL10558.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL10nnn/GPL10558/annot/GPL10558.annot.gz,GPL10558
+GPL570.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz,GPL570
+tmp/eu58_full_model_20260827/annotations/GPL10558.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL10nnn/GPL10558/annot/GPL10558.annot.gz,GPL10558
+tmp/eu58_full_model_20260827/annotations/GPL13158.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL13nnn/GPL13158/annot/GPL13158.annot.gz,GPL13158
+tmp/eu58_full_model_20260827/annotations/GPL2986.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL2nnn/GPL2986/annot/GPL2986.annot.gz,GPL2986
+tmp/eu58_full_model_20260827/annotations/GPL6480.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6480/annot/GPL6480.annot.gz,GPL6480
+tmp/eu58_full_model_20260827/annotations/GPL6947.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6947/annot/GPL6947.annot.gz,GPL6947

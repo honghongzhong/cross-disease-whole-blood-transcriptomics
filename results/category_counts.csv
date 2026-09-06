@@ -1,0 +1,13 @@
+category_id,category,training_comparisons,evaluation_comparisons
+C01,Infectious diseases,3,1
+C02,Autoimmune immune-mediated and allergic diseases,3,1
+C03,Transplantation and acute tissue injury,3,1
+C04,Cardiometabolic and vascular diseases,3,1
+C05,Chronic respiratory diseases,3,1
+C06,Genetic and congenital diseases,3,1
+C07,Neurological and psychiatric diseases,3,1
+C08,Primary immunodeficiency,3,1
+C09,Haematological malignancy,3,1
+C10,Immune-mediated intestinal diseases,3,1
+C11,Solid tumours,3,1
+C12,Endocrine diseases,3,1

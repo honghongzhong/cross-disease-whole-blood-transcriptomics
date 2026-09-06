@@ -1,0 +1,11 @@
+gsm	count_column	group	disease	genotype	biospecimen	platform	inclusion	note
+GSM5599200	iRhom2_P1_0700748821	case	congenital iRHOM2 deficiency	Homozygous mutant	whole blood	GPL20301	include	patient
+GSM5599202	IBD_T_054_0700748841	case	congenital iRHOM2 deficiency	Homozygous mutant	whole blood	GPL20301	include	patient
+GSM5599203	IBD_T_054_S5_0700748851	case	congenital iRHOM2 deficiency	Homozygous mutant	whole blood	GPL20301	include	patient
+GSM5599204	IBD_T_054_S6_0700748861	case	congenital iRHOM2 deficiency	Homozygous mutant	whole blood	GPL20301	include	patient
+GSM5599201	iRhom2_F1_0700748831	control	healthy donor	Heterozygous mutant	whole blood	GPL20301	include	healthy donor
+GSM5599205	IBD_T_054_S1_0700748871	control	healthy donor	Homozygous non-mutant	whole blood	GPL20301	include	healthy donor
+GSM5599206	IBD_T_054_M_0700748881	control	healthy donor	Heterozygous mutant	whole blood	GPL20301	include	healthy donor
+GSM5599207	TNC_74_0700748891	control	healthy donor	Homozygous non-mutant	whole blood	GPL20301	include	healthy donor
+GSM5599208	TNC_75_0700748901	control	healthy donor	Homozygous non-mutant	whole blood	GPL20301	include	healthy donor
+GSM5599209	TNC_76_0700748911	control	healthy donor	Homozygous non-mutant	whole blood	GPL20301	include	healthy donor

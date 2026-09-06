@@ -1,14 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this software or its data products, please cite the accompanying manuscript."
-title: "EU57 cross-disease transcriptomic model reproducibility package"
+message: "Please cite the version-specific Zenodo record and accompanying manuscript."
+title: "Shared low-dimensional structure across diseases in whole-blood transcriptomes: code and data"
 type: software
 authors:
   - family-names: Hong
     given-names: Hongzhong
-version: 1.0.0
-date-released: 2026-08-28
+    affiliation: South China University of Technology
+    orcid: "https://orcid.org/0009-0005-2114-143X"
+version: 2.0.0
+date-released: 2026-09-06
 license: MIT
+repository-code: "https://github.com/honghongzhong/cross-disease-whole-blood-transcriptomics"
 abstract: >-
-  Code, standardized contrast-level inputs, fixed annotations and reference
-  results for uncertainty-weighted low-rank modelling across 57 blood
-  disease-control transcriptomic contrasts.
+  Reproducible analysis and processing code, derived effect tables, reference
+  results and figures for a cross-disease whole-blood transcriptomic study.
+  The analysis uses 36 training and 12 evaluation comparisons across 12 disease
+  categories, with training-selected dimensions for three effect representations.

@@ -1,1 +1,0 @@
-SMOKE TEST ONLY. These artifacts are incomplete, use reduced settings, and must never be reported as formal results.

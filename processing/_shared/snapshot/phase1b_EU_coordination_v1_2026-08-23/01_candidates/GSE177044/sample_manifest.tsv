@@ -1,0 +1,1036 @@
+sample_id	title	source	disease	age	platform	library_strategy	country_contact	primary_role	exclusion_reason
+UC001	UC001	Whole Blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC002	UC002	Whole Blood	UC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC003	UC003	Whole Blood	UC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC004	UC004	Whole Blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC005	UC005	Whole Blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC006	UC006	Whole Blood	UC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC007	UC007	Whole Blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC008	UC008	Whole Blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC009	UC009	Whole Blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC010	UC010	Whole Blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC011	UC011	Whole Blood	UC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC012	UC012	Whole Blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC013	UC013	Whole Blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC014	UC014	Whole Blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC015	UC015	Whole Blood	UC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC016	UC016	Whole Blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC017	UC017	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC018	UC018	Whole Blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC019	UC019	Whole Blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC020	UC020	Whole Blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC021	UC021	Whole Blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC022	UC022	Whole Blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC023	UC023	Whole Blood	UC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC024	UC024	Whole Blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC025	UC025	Whole Blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC026	UC026	Whole Blood	UC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC027	UC027	Whole Blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC028	UC028	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC029	UC029	Whole Blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC030	UC030	Whole Blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC031	UC031	Whole Blood	UC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC032	UC032	Whole Blood	UC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC033	UC033	Whole Blood	UC	18	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC034	UC034	Whole Blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC035	UC035	Whole Blood	UC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC036	UC036	Whole Blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC037	UC037	Whole Blood	UC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC038	UC038	Whole Blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC039	UC039	Whole Blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC040	UC040	Whole Blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC041	UC041	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC042	UC042	Whole Blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC043	UC043	Whole Blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC044	UC044	Whole Blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC045	UC045	Whole Blood	UC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC046	UC046	Whole Blood	UC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC047	UC047	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC048	UC048	Whole Blood	UC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC049	UC049	Whole Blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC050	UC050	Whole Blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC051	UC051	Whole Blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC052	UC052	Whole Blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC053	UC053	Whole Blood	UC	18	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC054	UC054	Whole Blood	UC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC055	UC055	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC056	UC056	Whole Blood	UC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC057	UC057	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC058	UC058	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC059	UC059	Whole Blood	UC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC060	UC060	Whole Blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC061	UC061	Whole Blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC062	UC062	Whole Blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC063	UC063	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC064	UC064	Whole Blood	UC	70	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC065	UC065	Whole Blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC066	UC066	Whole Blood	UC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC067	UC067	Whole Blood	UC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC068	UC068	Whole Blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC069	UC069	Whole Blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC070	UC070	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC071	UC071	Whole Blood	UC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC072	UC072	Whole Blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC073	UC073	Whole Blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC074	UC074	Whole Blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC075	UC075	Whole Blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC076	UC076	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC077	UC077	Whole Blood	UC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC078	UC078	Whole Blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC079	UC079	Whole Blood	UC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC080	UC080	Whole Blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC081	UC081	Whole Blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC082	UC082	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC083	UC083	Whole Blood	UC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC084	UC084	Whole Blood	UC	18	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC085	UC085	Whole Blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC086	UC086	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC087	UC087	Whole Blood	UC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC088	UC088	Whole Blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC089	UC089	Whole Blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC090	UC090	Whole Blood	UC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC091	UC091	Whole Blood	UC	61	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC092	UC092	Whole Blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC093	UC093	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC094	UC094	Whole Blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC095	UC095	Whole Blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC096	UC096	Whole Blood	UC	66	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC097	UC097	Whole Blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC098	UC098	Whole Blood	UC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC099	UC099	Whole Blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC100	UC100	Whole Blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC101	UC101	Whole Blood	UC	63	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC102	UC102	Whole Blood	UC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC103	UC103	Whole Blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC104	UC104	Whole Blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC105	UC105	Whole Blood	UC	68	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC106	UC106	Whole Blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC107	UC107	Whole Blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC108	UC108	Whole Blood	UC	18	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC109	UC109	Whole Blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC110	UC110	Whole Blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC111	UC111	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC112	UC112	Whole Blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC113	UC113	Whole Blood	UC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC114	UC114	Whole Blood	UC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC115	UC115	Whole Blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC116	UC116	Whole Blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC117	UC117	Whole Blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC118	UC118	Whole Blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC119	UC119	Whole Blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC120	UC120	Whole Blood	UC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC121	UC121	Whole Blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC122	UC122	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC123	UC123	Whole Blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC124	UC124	Whole Blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC125	UC125	Whole Blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC126	UC126	Whole Blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC127	UC127	Whole Blood	UC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC128	UC128	Whole Blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC129	UC129	Whole Blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC130	UC130	Whole Blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC131	UC131	Whole Blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC132	UC132	Whole Blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC133	UC133	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC134	UC134	Whole Blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC135	UC135	Whole Blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC136	UC136	Whole Blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC137	UC137	Whole Blood	UC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC138	UC138	Whole Blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC139	UC139	Whole Blood	UC	22	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC140	UC140	Whole Blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control001	Control001	Whole Blood	Control	29	GPL16791	RNA-Seq	Germany	control	
+Control002	Control002	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control003	Control003	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control004	Control004	Whole Blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control005	Control005	Whole Blood	Control	58	GPL16791	RNA-Seq	Germany	control	
+Control006	Control006	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control007	Control007	Whole Blood	Control	26	GPL16791	RNA-Seq	Germany	control	
+Control008	Control008	Whole Blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control009	Control009	Whole Blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control010	Control010	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control011	Control011	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control012	Control012	Whole Blood	Control	70	GPL16791	RNA-Seq	Germany	control	
+Control013	Control013	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control014	Control014	Whole Blood	Control	68	GPL16791	RNA-Seq	Germany	control	
+Control015	Control015	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control016	Control016	Whole Blood	Control	58	GPL16791	RNA-Seq	Germany	control	
+Control017	Control017	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control018	Control018	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control019	Control019	Whole Blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control020	Control020	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control021	Control021	Whole Blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control022	Control022	Whole Blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control023	Control023	Whole Blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control024	Control024	Whole Blood	Control	63	GPL16791	RNA-Seq	Germany	control	
+Control025	Control025	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control026	Control026	Whole Blood	Control	70	GPL16791	RNA-Seq	Germany	control	
+Control027	Control027	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control028	Control028	Whole Blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control029	Control029	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control030	Control030	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control031	Control031	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control032	Control032	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control033	Control033	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control034	Control034	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control035	Control035	Whole Blood	Control	65	GPL16791	RNA-Seq	Germany	control	
+Control036	Control036	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control037	Control037	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control038	Control038	Whole Blood	Control	63	GPL16791	RNA-Seq	Germany	control	
+Control039	Control039	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control040	Control040	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control041	Control041	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control042	Control042	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control043	Control043	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control044	Control044	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control045	Control045	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control046	Control046	Whole Blood	Control	67	GPL16791	RNA-Seq	Germany	control	
+Control047	Control047	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control048	Control048	Whole Blood	Control	64	GPL16791	RNA-Seq	Germany	control	
+Control049	Control049	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control050	Control050	Whole Blood	Control	33	GPL16791	RNA-Seq	Germany	control	
+Control051	Control051	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control052	Control052	Whole Blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control053	Control053	Whole Blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control054	Control054	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control055	Control055	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control056	Control056	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control057	Control057	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control058	Control058	Whole Blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control059	Control059	Whole Blood	Control	37	GPL16791	RNA-Seq	Germany	control	
+Control060	Control060	Whole Blood	Control	52	GPL16791	RNA-Seq	Germany	control	
+Control061	Control061	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control062	Control062	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control063	Control063	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control064	Control064	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control065	Control065	Whole Blood	Control	32	GPL16791	RNA-Seq	Germany	control	
+Control066	Control066	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control067	Control067	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control068	Control068	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control069	Control069	Whole Blood	Control	29	GPL16791	RNA-Seq	Germany	control	
+Control070	Control070	Whole Blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control071	Control071	Whole Blood	Control	58	GPL16791	RNA-Seq	Germany	control	
+Control072	Control072	Whole Blood	Control	32	GPL16791	RNA-Seq	Germany	control	
+Control073	Control073	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control074	Control074	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control075	Control075	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control076	Control076	Whole Blood	Control	70	GPL16791	RNA-Seq	Germany	control	
+Control077	Control077	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control078	Control078	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control079	Control079	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control080	Control080	Whole Blood	Control	37	GPL16791	RNA-Seq	Germany	control	
+Control081	Control081	Whole Blood	Control	33	GPL16791	RNA-Seq	Germany	control	
+Control082	Control082	Whole Blood	Control	33	GPL16791	RNA-Seq	Germany	control	
+Control083	Control083	Whole Blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control084	Control084	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control085	Control085	Whole Blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+Control086	Control086	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control087	Control087	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control088	Control088	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control089	Control089	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control090	Control090	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control091	Control091	Whole Blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control092	Control092	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control093	Control093	Whole Blood	Control	28	GPL16791	RNA-Seq	Germany	control	
+Control094	Control094	Whole Blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control095	Control095	Whole Blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control096	Control096	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control097	Control097	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control098	Control098	Whole Blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+Control099	Control099	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control100	Control100	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control101	Control101	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control102	Control102	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control103	Control103	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control104	Control104	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control105	Control105	Whole Blood	Control	29	GPL16791	RNA-Seq	Germany	control	
+Control106	Control106	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control107	Control107	Whole Blood	Control	52	GPL16791	RNA-Seq	Germany	control	
+Control108	Control108	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control109	Control109	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control110	Control110	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control111	Control111	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control112	Control112	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control113	Control113	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control114	Control114	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control115	Control115	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control116	Control116	Whole Blood	Control	37	GPL16791	RNA-Seq	Germany	control	
+Control117	Control117	Whole Blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control118	Control118	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control119	Control119	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control120	Control120	Whole Blood	Control	68	GPL16791	RNA-Seq	Germany	control	
+Control121	Control121	Whole Blood	Control	29	GPL16791	RNA-Seq	Germany	control	
+Control122	Control122	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control123	Control123	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control124	Control124	Whole Blood	Control	28	GPL16791	RNA-Seq	Germany	control	
+Control125	Control125	Whole Blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control126	Control126	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control127	Control127	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control128	Control128	Whole Blood	Control	64	GPL16791	RNA-Seq	Germany	control	
+Control129	Control129	Whole Blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control130	Control130	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control131	Control131	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control132	Control132	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control133	Control133	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control134	Control134	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control135	Control135	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control136	Control136	Whole Blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control137	Control137	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control138	Control138	Whole Blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+Control139	Control139	Whole Blood	Control	32	GPL16791	RNA-Seq	Germany	control	
+Control140	Control140	Whole Blood	Control	65	GPL16791	RNA-Seq	Germany	control	
+Control141	Control141	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control142	Control142	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control143	Control143	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control144	Control144	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control145	Control145	Whole Blood	Control	33	GPL16791	RNA-Seq	Germany	control	
+Control146	Control146	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control147	Control147	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control148	Control148	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control149	Control149	Whole Blood	Control	28	GPL16791	RNA-Seq	Germany	control	
+Control150	Control150	Whole Blood	Control	26	GPL16791	RNA-Seq	Germany	control	
+Control151	Control151	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control152	Control152	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control153	Control153	Whole Blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control154	Control154	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control155	Control155	Whole Blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control156	Control156	Whole Blood	Control	67	GPL16791	RNA-Seq	Germany	control	
+Control157	Control157	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control158	Control158	Whole Blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control159	Control159	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control160	Control160	Whole Blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control161	Control161	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control162	Control162	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control163	Control163	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control164	Control164	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control165	Control165	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control166	Control166	Whole Blood	Control	27	GPL16791	RNA-Seq	Germany	control	
+Control167	Control167	Whole Blood	Control	65	GPL16791	RNA-Seq	Germany	control	
+Control168	Control168	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control169	Control169	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control170	Control170	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control171	Control171	Whole Blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control172	Control172	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control173	Control173	Whole Blood	Control	27	GPL16791	RNA-Seq	Germany	control	
+Control174	Control174	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control175	Control175	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control176	Control176	Whole Blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control177	Control177	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control178	Control178	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control179	Control179	Whole Blood	Control	66	GPL16791	RNA-Seq	Germany	control	
+Control180	Control180	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control181	Control181	Whole Blood	Control	64	GPL16791	RNA-Seq	Germany	control	
+Control182	Control182	Whole Blood	Control	69	GPL16791	RNA-Seq	Germany	control	
+Control183	Control183	Whole Blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control184	Control184	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control185	Control185	Whole Blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control186	Control186	Whole Blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control187	Control187	Whole Blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control188	Control188	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control189	Control189	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control190	Control190	Whole Blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control191	Control191	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control192	Control192	Whole Blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control193	Control193	Whole Blood	Control	65	GPL16791	RNA-Seq	Germany	control	
+Control194	Control194	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control195	Control195	Whole Blood	Control	25	GPL16791	RNA-Seq	Germany	control	
+Control196	Control196	Whole Blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control197	Control197	Whole Blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control198	Control198	Whole Blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control199	Control199	Whole Blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control200	Control200	Whole Blood	Control	29	GPL16791	RNA-Seq	Germany	control	
+Control201	Control201	Whole Blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control202	Control202	Whole Blood	Control	30	GPL16791	RNA-Seq	Germany	control	
+Control203	Control203	Whole Blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+Control204	Control204	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control205	Control205	Whole Blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control206	Control206	Whole Blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control207	Control207	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control208	Control208	Whole Blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control209	Control209	Whole Blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control210	Control210	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control211	Control211	Whole Blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+Control212	Control212	Whole Blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control213	Control213	Whole Blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control214	Control214	Whole Blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+UC141	UC141	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC142	UC142	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC143	UC143	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC144	UC144	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC145	UC145	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC146	UC146	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC147	UC147	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC148	UC148	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC149	UC149	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC150	UC150	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC151	UC151	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC152	UC152	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC153	UC153	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC154	UC154	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC155	UC155	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC156	UC156	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC157	UC157	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC158	UC158	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC159	UC159	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC160	UC160	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC161	UC161	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC162	UC162	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC163	UC163	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC164	UC164	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC165	UC165	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC166	UC166	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC167	UC167	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC168	UC168	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC169	UC169	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC170	UC170	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC171	UC171	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC172	UC172	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC173	UC173	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC174	UC174	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC175	UC175	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC176	UC176	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC177	UC177	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC178	UC178	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC179	UC179	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC180	UC180	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC181	UC181	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC182	UC182	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC183	UC183	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC184	UC184	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC185	UC185	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC186	UC186	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC187	UC187	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC188	UC188	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC189	UC189	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC190	UC190	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC191	UC191	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC192	UC192	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC193	UC193	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC194	UC194	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC195	UC195	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC196	UC196	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC197	UC197	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC198	UC198	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC199	UC199	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC200	UC200	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC201	UC201	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC202	UC202	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC203	UC203	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC204	UC204	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC205	UC205	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC206	UC206	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC207	UC207	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC208	UC208	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC209	UC209	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC210	UC210	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC211	UC211	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC212	UC212	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC213	UC213	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC214	UC214	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC215	UC215	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC216	UC216	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC217	UC217	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC218	UC218	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC219	UC219	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC220	UC220	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC221	UC221	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC222	UC222	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC223	UC223	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC224	UC224	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC225	UC225	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC226	UC226	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC227	UC227	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC228	UC228	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC229	UC229	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC230	UC230	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC231	UC231	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC232	UC232	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC233	UC233	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC234	UC234	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC235	UC235	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC236	UC236	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC237	UC237	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC238	UC238	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC239	UC239	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC240	UC240	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC241	UC241	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC242	UC242	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC243	UC243	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC244	UC244	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC245	UC245	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC246	UC246	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC247	UC247	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC248	UC248	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC249	UC249	Whole Blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control215	Control215	Whole Blood	Control	75	GPL16791	RNA-Seq	Germany	control	
+Control216	Control216	Whole Blood	Control	60	GPL16791	RNA-Seq	Germany	control	
+Control217	Control217	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control218	Control218	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control219	Control219	Whole Blood	Control	73	GPL16791	RNA-Seq	Germany	control	
+Control220	Control220	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control221	Control221	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control222	Control222	Whole Blood	Control	72	GPL16791	RNA-Seq	Germany	control	
+Control223	Control223	Whole Blood	Control	75	GPL16791	RNA-Seq	Germany	control	
+Control224	Control224	Whole Blood	Control	73	GPL16791	RNA-Seq	Germany	control	
+Control225	Control225	Whole Blood	Control	69	GPL16791	RNA-Seq	Germany	control	
+Control226	Control226	Whole Blood	Control	66	GPL16791	RNA-Seq	Germany	control	
+Control227	Control227	Whole Blood	Control	61	GPL16791	RNA-Seq	Germany	control	
+Control228	Control228	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control229	Control229	Whole Blood	Control	69	GPL16791	RNA-Seq	Germany	control	
+Control230	Control230	Whole Blood	Control	66	GPL16791	RNA-Seq	Germany	control	
+Control231	Control231	Whole Blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control232	Control232	Whole Blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control233	Control233	Whole Blood	Control	58	GPL16791	RNA-Seq	Germany	control	
+Control234	Control234	Whole Blood	Control	74	GPL16791	RNA-Seq	Germany	control	
+Control235	Control235	Whole Blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control236	Control236	Whole Blood	Control	75	GPL16791	RNA-Seq	Germany	control	
+Control237	Control237	Whole Blood	Control	66	GPL16791	RNA-Seq	Germany	control	
+Control238	Control238	Whole Blood	Control	68	GPL16791	RNA-Seq	Germany	control	
+Control239	Control239	Whole Blood	Control	71	GPL16791	RNA-Seq	Germany	control	
+Control240	Control240	Whole Blood	Control	76	GPL16791	RNA-Seq	Germany	control	
+Control241	Control241	Whole Blood	Control	62	GPL16791	RNA-Seq	Germany	control	
+Control242	Control242	Whole Blood	Control	76	GPL16791	RNA-Seq	Germany	control	
+Control243	Control243	Whole Blood	Control	74	GPL16791	RNA-Seq	Germany	control	
+UC250	UC250	Whole blood	UC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC251	UC251	Whole blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC252	UC252	Whole blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC253	UC253	Whole blood	UC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC254	UC254	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC255	UC255	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC256	UC256	Whole blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC257	UC257	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC258	UC258	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC259	UC259	Whole blood	UC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC260	UC260	Whole blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC261	UC261	Whole blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC262	UC262	Whole blood	UC	78	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC263	UC263	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC264	UC264	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC265	UC265	Whole blood	UC	15	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC266	UC266	Whole blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC267	UC267	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC268	UC268	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC269	UC269	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC270	UC270	Whole blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC271	UC271	Whole blood	UC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC272	UC272	Whole blood	UC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC273	UC273	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC274	UC274	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC275	UC275	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC276	UC276	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC277	UC277	Whole blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC278	UC278	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC279	UC279	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC280	UC280	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC281	UC281	Whole blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC282	UC282	Whole blood	UC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC283	UC283	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC284	UC284	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC285	UC285	Whole blood	UC	56	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC286	UC286	Whole blood	UC	74	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC287	UC287	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC288	UC288	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC289	UC289	Whole blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC290	UC290	Whole blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC291	UC291	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC292	UC292	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC293	UC293	Whole blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC294	UC294	Whole blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC295	UC295	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC296	UC296	Whole blood	UC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC297	UC297	Whole blood	UC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC298	UC298	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC299	UC299	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC300	UC300	Whole blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC301	UC301	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC302	UC302	Whole blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC303	UC303	Whole blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC304	UC304	Whole blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC305	UC305	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC306	UC306	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC307	UC307	Whole blood	UC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC308	UC308	Whole blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC309	UC309	Whole blood	UC	73	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC310	UC310	Whole blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC311	UC311	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC312	UC312	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC313	UC313	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC314	UC314	Whole blood	UC	74	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC315	UC315	Whole blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC316	UC316	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC317	UC317	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC318	UC318	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC319	UC319	Whole blood	UC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC320	UC320	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC321	UC321	Whole blood	UC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC322	UC322	Whole blood	UC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC323	UC323	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC324	UC324	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC325	UC325	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC326	UC326	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC327	UC327	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC328	UC328	Whole blood	UC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC329	UC329	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC330	UC330	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC331	UC331	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC332	UC332	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC333	UC333	Whole blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC334	UC334	Whole blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC335	UC335	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC336	UC336	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC337	UC337	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC338	UC338	Whole blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC339	UC339	Whole blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC340	UC340	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC341	UC341	Whole blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC342	UC342	Whole blood	UC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC343	UC343	Whole blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC344	UC344	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC345	UC345	Whole blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC346	UC346	Whole blood	UC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC347	UC347	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC348	UC348	Whole blood	UC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC349	UC349	Whole blood	UC	70	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC350	UC350	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC351	UC351	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC352	UC352	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC353	UC353	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC354	UC354	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC355	UC355	Whole blood	UC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC356	UC356	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC357	UC357	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC358	UC358	Whole blood	UC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC359	UC359	Whole blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC360	UC360	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC361	UC361	Whole blood	UC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC362	UC362	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC363	UC363	Whole blood	UC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC364	UC364	Whole blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC365	UC365	Whole blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC366	UC366	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC367	UC367	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC368	UC368	Whole blood	UC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC369	UC369	Whole blood	UC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC370	UC370	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC371	UC371	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC372	UC372	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC373	UC373	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC374	UC374	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC375	UC375	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC376	UC376	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC377	UC377	Whole blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC378	UC378	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC379	UC379	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC380	UC380	Whole blood	UC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC381	UC381	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC382	UC382	Whole blood	UC	61	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC383	UC383	Whole blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC384	UC384	Whole blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC385	UC385	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC386	UC386	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC387	UC387	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC388	UC388	Whole blood	UC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC389	UC389	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC390	UC390	Whole blood	UC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC391	UC391	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC392	UC392	Whole blood	UC	77	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC393	UC393	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC394	UC394	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC395	UC395	Whole blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC396	UC396	Whole blood	UC	56	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC397	UC397	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC398	UC398	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC399	UC399	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC400	UC400	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC401	UC401	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC402	UC402	Whole blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC403	UC403	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC404	UC404	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC405	UC405	Whole blood	UC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC406	UC406	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC407	UC407	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC408	UC408	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC409	UC409	Whole blood	UC	56	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC410	UC410	Whole blood	UC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC411	UC411	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC412	UC412	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC413	UC413	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC414	UC414	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC415	UC415	Whole blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC416	UC416	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC417	UC417	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC418	UC418	Whole blood	UC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC419	UC419	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC420	UC420	Whole blood	UC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC421	UC421	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC422	UC422	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC423	UC423	Whole blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC424	UC424	Whole blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC425	UC425	Whole blood	UC	56	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC426	UC426	Whole blood	UC	61	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC427	UC427	Whole blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC428	UC428	Whole blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC429	UC429	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC430	UC430	Whole blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC431	UC431	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC432	UC432	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC433	UC433	Whole blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC434	UC434	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC435	UC435	Whole blood	UC	19	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC436	UC436	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC437	UC437	Whole blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC438	UC438	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC439	UC439	Whole blood	UC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC440	UC440	Whole blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC441	UC441	Whole blood	UC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC442	UC442	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC443	UC443	Whole blood	UC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC444	UC444	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC445	UC445	Whole blood	UC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC446	UC446	Whole blood	UC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC447	UC447	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC448	UC448	Whole blood	UC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC449	UC449	Whole blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC450	UC450	Whole blood	UC	24	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC451	UC451	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC452	UC452	Whole blood	UC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC453	UC453	Whole blood	UC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC454	UC454	Whole blood	UC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC455	UC455	Whole blood	UC	67	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC456	UC456	Whole blood	UC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC457	UC457	Whole blood	UC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC458	UC458	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC459	UC459	Whole blood	UC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC460	UC460	Whole blood	UC	68	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC461	UC461	Whole blood	UC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC462	UC462	Whole blood	UC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC463	UC463	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC464	UC464	Whole blood	UC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC465	UC465	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC466	UC466	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC467	UC467	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC468	UC468	Whole blood	UC	22	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC469	UC469	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC470	UC470	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC471	UC471	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC472	UC472	Whole blood	UC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC473	UC473	Whole blood	UC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC474	UC474	Whole blood	UC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC475	UC475	Whole blood	UC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC476	UC476	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC477	UC477	Whole blood	UC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC478	UC478	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC479	UC479	Whole blood	UC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC480	UC480	Whole blood	UC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC481	UC481	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC482	UC482	Whole blood	UC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC483	UC483	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC484	UC484	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC485	UC485	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC486	UC486	Whole blood	UC	60	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC487	UC487	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC488	UC488	Whole blood	UC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC489	UC489	Whole blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC490	UC490	Whole blood	UC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC491	UC491	Whole blood	UC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC492	UC492	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC493	UC493	Whole blood	UC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC494	UC494	Whole blood	UC		GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+UC495	UC495	Whole blood	UC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC001	PSCUC001	Whole blood	PSCUC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC002	PSCUC002	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC003	PSCUC003	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC004	PSCUC004	Whole blood	PSCUC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC005	PSCUC005	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control244	Control244	Whole blood	Control	32	GPL16791	RNA-Seq	Germany	control	
+Control245	Control245	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control246	Control246	Whole blood	Control	33	GPL16791	RNA-Seq	Germany	control	
+Control247	Control247	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control248	Control248	Whole blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control249	Control249	Whole blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control250	Control250	Whole blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control251	Control251	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control252	Control252	Whole blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control253	Control253	Whole blood	Control	47	GPL16791	RNA-Seq	Germany	control	
+Control254	Control254	Whole blood	Control	55	GPL16791	RNA-Seq	Germany	control	
+Control255	Control255	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control256	Control256	Whole blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control257	Control257	Whole blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control258	Control258	Whole blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control259	Control259	Whole blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control260	Control260	Whole blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+Control261	Control261	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control262	Control262	Whole blood	Control	56	GPL16791	RNA-Seq	Germany	control	
+Control263	Control263	Whole blood	Control	54	GPL16791	RNA-Seq	Germany	control	
+PSCUC006	PSCUC006	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control264	Control264	Whole blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+PSCUC007	PSCUC007	Whole blood	PSCUC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC008	PSCUC008	Whole blood	PSCUC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC001	PSC001	Whole blood	PSC	37	GPL16791	RNA-Seq	Germany	case	
+PSCUC009	PSCUC009	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC010	PSCUC010	Whole blood	PSCUC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC011	PSCUC011	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC012	PSCUC012	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC002	PSC002	Whole blood	PSC	46	GPL16791	RNA-Seq	Germany	case	
+Control265	Control265	Whole blood	Control	42	GPL16791	RNA-Seq	Germany	control	
+PSCUC013	PSCUC013	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC014	PSCUC014	Whole blood	PSCUC	79	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC015	PSCUC015	Whole blood	PSCUC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC016	PSCUC016	Whole blood	PSCUC	69	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC003	PSC003	Whole blood	PSC	34	GPL16791	RNA-Seq	Germany	case	
+PSCUC017	PSCUC017	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC004	PSC004	Whole blood	PSC	40	GPL16791	RNA-Seq	Germany	case	
+PSCUC018	PSCUC018	Whole blood	PSCUC	28	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC019	PSCUC019	Whole blood	PSCUC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC005	PSC005	Whole blood	PSC	38	GPL16791	RNA-Seq	Germany	case	
+PSC006	PSC006	Whole blood	PSC	49	GPL16791	RNA-Seq	Germany	case	
+PSCUC020	PSCUC020	Whole blood	PSCUC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC021	PSCUC021	Whole blood	PSCUC	63	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC022	PSCUC022	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC023	PSCUC023	Whole blood	PSCUC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC024	PSCUC024	Whole blood	PSCUC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC007	PSC007	Whole blood	PSC	48	GPL16791	RNA-Seq	Germany	case	
+PSCUC025	PSCUC025	Whole blood	PSCUC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC026	PSCUC026	Whole blood	PSCUC	40	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC027	PSCUC027	Whole blood	PSCUC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC028	PSCUC028	Whole blood	PSCUC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC008	PSC008	Whole blood	PSC	40	GPL16791	RNA-Seq	Germany	case	
+PSCUC029	PSCUC029	Whole blood	PSCUC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC030	PSCUC030	Whole blood	PSCUC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC031	PSCUC031	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC032	PSCUC032	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC033	PSCUC033	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC034	PSCUC034	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC035	PSCUC035	Whole blood	PSCUC	66	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC036	PSCUC036	Whole blood	PSCUC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC037	PSCUC037	Whole blood	PSCUC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC038	PSCUC038	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC039	PSCUC039	Whole blood	PSCUC	36	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC009	PSC009	Whole blood	PSC	53	GPL16791	RNA-Seq	Germany	case	
+PSCUC040	PSCUC040	Whole blood	PSCUC	67	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC041	PSCUC041	Whole blood	PSCUC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control266	Control266	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control267	Control267	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control268	Control268	Whole blood	Control	59	GPL16791	RNA-Seq	Germany	control	
+Control269	Control269	Whole blood	Control	57	GPL16791	RNA-Seq	Germany	control	
+Control270	Control270	Whole blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control271	Control271	Whole blood	Control	52	GPL16791	RNA-Seq	Germany	control	
+Control272	Control272	Whole blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control273	Control273	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control274	Control274	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control275	Control275	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control276	Control276	Whole blood	Control	37	GPL16791	RNA-Seq	Germany	control	
+PSCUC042	PSCUC042	Whole blood	PSCUC	68	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC043	PSCUC043	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC044	PSCUC044	Whole blood	PSCUC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC045	PSCUC045	Whole blood	PSCUC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC046	PSCUC046	Whole blood	PSCUC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC010	PSC010	Whole blood	PSC	62	GPL16791	RNA-Seq	Germany	case	
+PSCUC047	PSCUC047	Whole blood	PSCUC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC048	PSCUC048	Whole blood	PSCUC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC011	PSC011	Whole blood	PSC	57	GPL16791	RNA-Seq	Germany	case	
+Control277	Control277	Whole blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+PSC012	PSC012	Whole blood	PSC	54	GPL16791	RNA-Seq	Germany	case	
+Control278	Control278	Whole blood	Control	28	GPL16791	RNA-Seq	Germany	control	
+PSCUC049	PSCUC049	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC050	PSCUC050	Whole blood	PSCUC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC051	PSCUC051	Whole blood	PSCUC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC052	PSCUC052	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC053	PSCUC053	Whole blood	PSCUC	20	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC054	PSCUC054	Whole blood	PSCUC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC055	PSCUC055	Whole blood	PSCUC	66	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC056	PSCUC056	Whole blood	PSCUC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC057	PSCUC057	Whole blood	PSCUC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC058	PSCUC058	Whole blood	PSCUC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC059	PSCUC059	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC060	PSCUC060	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC061	PSCUC061	Whole blood	PSCUC	61	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC013	PSC013	Whole blood	PSC	35	GPL16791	RNA-Seq	Germany	case	
+PSCUC062	PSCUC062	Whole blood	PSCUC	23	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC063	PSCUC063	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC064	PSCUC064	Whole blood	PSCUC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC065	PSCUC065	Whole blood	PSCUC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC014	PSC014	Whole blood	PSC	45	GPL16791	RNA-Seq	Germany	case	
+PSCUC066	PSCUC066	Whole blood	PSCUC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC067	PSCUC067	Whole blood	PSCUC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC068	PSCUC068	Whole blood	PSCUC	67	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC069	PSCUC069	Whole blood	PSCUC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC070	PSCUC070	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC071	PSCUC071	Whole blood	PSCUC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC072	PSCUC072	Whole blood	PSCUC	17	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC073	PSCUC073	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC074	PSCUC074	Whole blood	PSCUC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC075	PSCUC075	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC076	PSCUC076	Whole blood	PSCUC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC077	PSCUC077	Whole blood	PSCUC	72	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC078	PSCUC078	Whole blood	PSCUC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC079	PSCUC079	Whole blood	PSCUC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC015	PSC015	Whole blood	PSC	47	GPL16791	RNA-Seq	Germany	case	
+PSC016	PSC016	Whole blood	PSC	43	GPL16791	RNA-Seq	Germany	case	
+PSC017	PSC017	Whole blood	PSC	23	GPL16791	RNA-Seq	Germany	case	
+PSCUC080	PSCUC080	Whole blood	PSCUC	62	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC081	PSCUC081	Whole blood	PSCUC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC082	PSCUC082	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC083	PSCUC083	Whole blood	PSCUC	64	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC084	PSCUC084	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC085	PSCUC085	Whole blood	PSCUC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC018	PSC018	Whole blood	PSC	27	GPL16791	RNA-Seq	Germany	case	
+PSCUC086	PSCUC086	Whole blood	PSCUC	73	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC019	PSC019	Whole blood	PSC	66	GPL16791	RNA-Seq	Germany	case	
+PSCUC087	PSCUC087	Whole blood	PSCUC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control279	Control279	Whole blood	Control	46	GPL16791	RNA-Seq	Germany	control	
+Control280	Control280	Whole blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control281	Control281	Whole blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+Control282	Control282	Whole blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control283	Control283	Whole blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control284	Control284	Whole blood	Control	52	GPL16791	RNA-Seq	Germany	control	
+Control285	Control285	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control286	Control286	Whole blood	Control	34	GPL16791	RNA-Seq	Germany	control	
+Control287	Control287	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control288	Control288	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control289	Control289	Whole blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control290	Control290	Whole blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control291	Control291	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+PSCUC088	PSCUC088	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC089	PSCUC089	Whole blood	PSCUC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC090	PSCUC090	Whole blood	PSCUC	34	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC020	PSC020	Whole blood	PSC	59	GPL16791	RNA-Seq	Germany	case	
+PSCUC091	PSCUC091	Whole blood	PSCUC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC092	PSCUC092	Whole blood	PSCUC	35	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC093	PSCUC093	Whole blood	PSCUC	48	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC094	PSCUC094	Whole blood	PSCUC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC095	PSCUC095	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC096	PSCUC096	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC097	PSCUC097	Whole blood	PSCUC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC098	PSCUC098	Whole blood	PSCUC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC021	PSC021	Whole blood	PSC	54	GPL16791	RNA-Seq	Germany	case	
+PSCUC099	PSCUC099	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC100	PSCUC100	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC101	PSCUC101	Whole blood	PSCUC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC022	PSC022	Whole blood	PSC	35	GPL16791	RNA-Seq	Germany	case	
+PSCUC102	PSCUC102	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC103	PSCUC103	Whole blood	PSCUC	32	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC104	PSCUC104	Whole blood	PSCUC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC105	PSCUC105	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC106	PSCUC106	Whole blood	PSCUC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC107	PSCUC107	Whole blood	PSCUC	31	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC108	PSCUC108	Whole blood	PSCUC	67	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC023	PSC023	Whole blood	PSC	36	GPL16791	RNA-Seq	Germany	case	
+PSCUC109	PSCUC109	Whole blood	PSCUC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control292	Control292	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control293	Control293	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control294	Control294	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control295	Control295	Whole blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+Control296	Control296	Whole blood	Control	31	GPL16791	RNA-Seq	Germany	control	
+Control297	Control297	Whole blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control298	Control298	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+PSCUC110	PSCUC110	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC111	PSCUC111	Whole blood	PSCUC	29	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control299	Control299	Whole blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control300	Control300	Whole blood	Control	45	GPL16791	RNA-Seq	Germany	control	
+Control301	Control301	Whole blood	Control	37	GPL16791	RNA-Seq	Germany	control	
+Control302	Control302	Whole blood	Control	38	GPL16791	RNA-Seq	Germany	control	
+Control303	Control303	Whole blood	Control	50	GPL16791	RNA-Seq	Germany	control	
+PSCUC112	PSCUC112	Whole blood	PSCUC	27	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC113	PSCUC113	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC114	PSCUC114	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC115	PSCUC115	Whole blood	PSCUC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC116	PSCUC116	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC117	PSCUC117	Whole blood	PSCUC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC024	PSC024	Whole blood	PSC	41	GPL16791	RNA-Seq	Germany	case	
+PSCUC118	PSCUC118	Whole blood	PSCUC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC119	PSCUC119	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC120	PSCUC120	Whole blood	PSCUC	30	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC025	PSC025	Whole blood	PSC	26	GPL16791	RNA-Seq	Germany	case	
+PSCUC121	PSCUC121	Whole blood	PSCUC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC122	PSCUC122	Whole blood	PSCUC	73	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC123	PSCUC123	Whole blood	PSCUC	74	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC124	PSCUC124	Whole blood	PSCUC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC125	PSCUC125	Whole blood	PSCUC	69	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC126	PSCUC126	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC127	PSCUC127	Whole blood	PSCUC	25	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC128	PSCUC128	Whole blood	PSCUC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC026	PSC026	Whole blood	PSC	44	GPL16791	RNA-Seq	Germany	case	
+PSC027	PSC027	Whole blood	PSC	45	GPL16791	RNA-Seq	Germany	case	
+PSCUC129	PSCUC129	Whole blood	PSCUC	46	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC130	PSCUC130	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC131	PSCUC131	Whole blood	PSCUC	68	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC132	PSCUC132	Whole blood	PSCUC	60	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC133	PSCUC133	Whole blood	PSCUC	41	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC134	PSCUC134	Whole blood	PSCUC	54	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC135	PSCUC135	Whole blood	PSCUC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC136	PSCUC136	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC137	PSCUC137	Whole blood	PSCUC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control304	Control304	Whole blood	Control	41	GPL16791	RNA-Seq	Germany	control	
+Control305	Control305	Whole blood	Control	52	GPL16791	RNA-Seq	Germany	control	
+Control306	Control306	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control307	Control307	Whole blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control308	Control308	Whole blood	Control	32	GPL16791	RNA-Seq	Germany	control	
+PSCUC138	PSCUC138	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC139	PSCUC139	Whole blood	PSCUC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC028	PSC028	Whole blood	PSC	59	GPL16791	RNA-Seq	Germany	case	
+PSCUC140	PSCUC140	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC141	PSCUC141	Whole blood	PSCUC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC142	PSCUC142	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC143	PSCUC143	Whole blood	PSCUC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC144	PSCUC144	Whole blood	PSCUC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC145	PSCUC145	Whole blood	PSCUC	52	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC029	PSC029	Whole blood	PSC	71	GPL16791	RNA-Seq	Germany	case	
+PSC030	PSC030	Whole blood	PSC	78	GPL16791	RNA-Seq	Germany	case	
+PSC031	PSC031	Whole blood	PSC	58	GPL16791	RNA-Seq	Germany	case	
+PSCUC146	PSCUC146	Whole blood	PSCUC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC147	PSCUC147	Whole blood	PSCUC	67	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC032	PSC032	Whole blood	PSC	44	GPL16791	RNA-Seq	Germany	case	
+PSCUC148	PSCUC148	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC149	PSCUC149	Whole blood	PSCUC	49	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC150	PSCUC150	Whole blood	PSCUC	26	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC151	PSCUC151	Whole blood	PSCUC	21	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC152	PSCUC152	Whole blood	PSCUC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC153	PSCUC153	Whole blood	PSCUC	59	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC154	PSCUC154	Whole blood	PSCUC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC033	PSC033	Whole blood	PSC	61	GPL16791	RNA-Seq	Germany	case	
+PSC034	PSC034	Whole blood	PSC	35	GPL16791	RNA-Seq	Germany	case	
+Control309	Control309	Whole blood	Control	40	GPL16791	RNA-Seq	Germany	control	
+Control310	Control310	Whole blood	Control	53	GPL16791	RNA-Seq	Germany	control	
+Control311	Control311	Whole blood	Control	35	GPL16791	RNA-Seq	Germany	control	
+Control312	Control312	Whole blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+Control313	Control313	Whole blood	Control	39	GPL16791	RNA-Seq	Germany	control	
+Control314	Control314	Whole blood	Control	49	GPL16791	RNA-Seq	Germany	control	
+Control315	Control315	Whole blood	Control	36	GPL16791	RNA-Seq	Germany	control	
+PSCUC155	PSCUC155	Whole blood	PSCUC	45	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC156	PSCUC156	Whole blood	PSCUC	57	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC157	PSCUC157	Whole blood	PSCUC	77	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC158	PSCUC158	Whole blood	PSCUC	68	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC159	PSCUC159	Whole blood	PSCUC	50	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC035	PSC035	Whole blood	PSC	34	GPL16791	RNA-Seq	Germany	case	
+PSCUC160	PSCUC160	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC036	PSC036	Whole blood	PSC	66	GPL16791	RNA-Seq	Germany	case	
+PSCUC161	PSCUC161	Whole blood	PSCUC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC162	PSCUC162	Whole blood	PSCUC	37	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC037	PSC037	Whole blood	PSC	63	GPL16791	RNA-Seq	Germany	case	
+PSCUC163	PSCUC163	Whole blood	PSCUC	58	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC164	PSCUC164	Whole blood	PSCUC	42	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC038	PSC038	Whole blood	PSC	70	GPL16791	RNA-Seq	Germany	case	
+PSC039	PSC039	Whole blood	PSC	48	GPL16791	RNA-Seq	Germany	case	
+PSC040	PSC040	Whole blood	PSC	63	GPL16791	RNA-Seq	Germany	case	
+PSCUC165	PSCUC165	Whole blood	PSCUC	39	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC166	PSCUC166	Whole blood	PSCUC	73	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC167	PSCUC167	Whole blood	PSCUC	44	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC168	PSCUC168	Whole blood	PSCUC	65	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+Control316	Control316	Whole blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control317	Control317	Whole blood	Control	51	GPL16791	RNA-Seq	Germany	control	
+Control318	Control318	Whole blood	Control	43	GPL16791	RNA-Seq	Germany	control	
+Control319	Control319	Whole blood	Control	48	GPL16791	RNA-Seq	Germany	control	
+Control320	Control320	Whole blood	Control	44	GPL16791	RNA-Seq	Germany	control	
+PSCUC169	PSCUC169	Whole blood	PSCUC	71	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC170	PSCUC170	Whole blood	PSCUC	38	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC041	PSC041	Whole blood	PSC	47	GPL16791	RNA-Seq	Germany	case	
+PSCUC171	PSCUC171	Whole blood	PSCUC	55	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC172	PSCUC172	Whole blood	PSCUC	53	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC173	PSCUC173	Whole blood	PSCUC	47	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC174	PSCUC174	Whole blood	PSCUC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC175	PSCUC175	Whole blood	PSCUC	43	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC176	PSCUC176	Whole blood	PSCUC	33	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSCUC177	PSCUC177	Whole blood	PSCUC	51	GPL16791	RNA-Seq	Germany	secondary_stratum	non-primary disease stratum; retained for provenance, excluded from primary contrast
+PSC042	PSC042	Whole blood	PSC	31	GPL16791	RNA-Seq	Germany	case	
+PSC043	PSC043	Whole blood	PSC	50	GPL16791	RNA-Seq	Germany	case	
