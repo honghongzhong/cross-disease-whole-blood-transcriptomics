@@ -1,23 +1,23 @@
 [
   {
     "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE136371_lock_2026-08-22_v1/GSE136371_sample_metadata.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE136371_sample_metadata.tsv"
   },
   {
     "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE185855_lock_2026-08-22_v1/GSE185855_baseline_sample_lock.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE185855_GSE185855_baseline_sample_lock.tsv"
   },
   {
     "relative": "census_step0/candidate_extensions_2026-08-22_v1/GSE18781_lock_2026-08-22_v1/GSE18781_sample_subject_data_lock_v1.tsv",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse100150_2/process/run_analysis.py",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE18781_GSE18781_sample_subject_data_lock_v1.tsv"
   },
   {
     "relative": "dataset/gse100150_2/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse100150_2_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse100150_2/raw/GPL6884.annot.gz",
@@ -28,12 +28,9 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse100150_4/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse100150_4/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse100150_4_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse100150_4/raw/GPL6884.annot.gz",
@@ -44,12 +41,9 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse111459_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse111459_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse111459_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse111459_1/raw/GSE111459_TBM_Blood_RawCount.txt.gz",
@@ -57,7 +51,8 @@
   },
   {
     "relative": "dataset/gse112057_1/process/sample_metadata.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse112057_1_sample_metadata.tsv"
   },
   {
     "relative": "dataset/gse112057_1/raw/GSE112057_RawCounts_dataset.txt.gz",
@@ -65,31 +60,26 @@
   },
   {
     "relative": "dataset/gse112057_2/process/sample_metadata.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse112057_2_sample_metadata.tsv"
   },
   {
     "relative": "dataset/gse112057_2/raw/GSE112057_RawCounts_dataset.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse112087_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse112087_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse112087_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse112087_1/raw/GSE112087_RAW.tar",
     "bundled": false
   },
   {
-    "relative": "dataset/gse123658_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse123658_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse123658_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse123658_1/raw/GSE123658_read_counts.gene_level.txt.gz",
@@ -100,32 +90,22 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse124326_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse124326_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse124326_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse124326_1/raw/GSE124326_count_matrix.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse124548_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse124548_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse124548_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse124548_1/raw/GSE124548_raw_baseline_counts.tsv.gz",
     "bundled": false
-  },
-  {
-    "relative": "dataset/gse125158_1/process/run_analysis.py",
-    "bundled": true
   },
   {
     "relative": "dataset/gse125158_1/raw/GSE125158_family.soft.gz",
@@ -136,24 +116,12 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse136371_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse136371_1/raw/GSE136371_counts_matrix.tsv.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse138118_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse138118_1/raw/GSE138118_series_matrix.txt.gz",
     "bundled": false
-  },
-  {
-    "relative": "dataset/gse164191_1/process/run_analysis.py",
-    "bundled": true
   },
   {
     "relative": "dataset/gse164191_1/raw/GSE164191_family.soft.gz",
@@ -164,20 +132,13 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse165082_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse165082_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse165082_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse165082_1/raw/GSE165082_PD-CC.counts.txt.gz",
     "bundled": false
-  },
-  {
-    "relative": "dataset/gse177044_1/process/run_analysis.py",
-    "bundled": true
   },
   {
     "relative": "dataset/gse177044_1/raw/GSE177044_raw_counts2.csv.gz",
@@ -193,55 +154,38 @@
   },
   {
     "relative": "dataset/gse181228_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse181228_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse181228_1/raw/counts.tsv.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse184876_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse184876_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse184876_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse184876_1/raw/counts.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse185855_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse185855_1/raw/GSE185855_baseline_counts_matrix.tsv.gz",
     "bundled": false
-  },
-  {
-    "relative": "dataset/gse18781_3/process/run_analysis.py",
-    "bundled": true
   },
   {
     "relative": "dataset/gse18781_3/raw/GSE18781_series_matrix.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse190125_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse190125_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse190125_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse190125_1/raw/GSE190125_Counts_for_GEO.txt.gz",
     "bundled": false
-  },
-  {
-    "relative": "dataset/gse194331_1/process/run_analysis.py",
-    "bundled": true
   },
   {
     "relative": "dataset/gse194331_1/raw/GSE194331_HC_PAN_PANSEP_counts.txt.gz",
@@ -252,16 +196,9 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse19743_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse201332_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse201332_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse201332_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse201332_1/raw/family.soft.gz",
@@ -272,14 +209,6 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse202518_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse205465_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse205465_1/raw/counts.tsv.gz",
     "bundled": false
   },
@@ -288,44 +217,13 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse236442_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse244401_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse26049_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse26049_2/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse26049_3/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse262659_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse269497_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse269497_1/raw/GSE269497_genes_FPKM_expression.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse28750_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse28750_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse28750_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse28750_1/raw/GSM712478_af1c1302-1-zm-1-tubea-181207.CEL",
@@ -448,12 +346,9 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse334922_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse334922_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse334922_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse334922_1/raw/samples/GSM9802150.xlsx.gz",
@@ -488,12 +383,9 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse34404_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse34404_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse34404_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse34404_1/raw/GPL10558_acc.cgi",
@@ -504,32 +396,22 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse42148_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse42148_1/raw/GSE42148_series_matrix.txt.gz",
     "bundled": false
   },
   {
     "relative": "dataset/gse44314_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse44314_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse44314_1/raw/GSE44314_series_matrix.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse44969_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse48000_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse48000_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse48000_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse48000_1/raw/GPL10558.annot.gz",
@@ -540,36 +422,27 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse48060_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse48060_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse48060_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse48060_1/raw/GSE48060_series_matrix.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse51405_2/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse51405_2/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse51405_2_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse51405_2/raw/series_matrix.txt.gz",
     "bundled": false
   },
   {
-    "relative": "dataset/gse69063_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse69063_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse69063_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse69063_1/raw/GSE69063_series_matrix.txt.gz",
@@ -580,14 +453,6 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse83563_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
-    "relative": "dataset/gse83632_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse83632_1/raw/GSE83632_family.soft.gz",
     "bundled": false
   },
@@ -596,16 +461,13 @@
     "bundled": false
   },
   {
-    "relative": "dataset/gse89594_1/process/run_analysis.py",
-    "bundled": true
-  },
-  {
     "relative": "dataset/gse89594_1/raw/GSE89594_series_matrix.txt.gz",
     "bundled": false
   },
   {
     "relative": "dataset/gse94648_1/process/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/gse94648_1_sample_manifest.tsv"
   },
   {
     "relative": "dataset/gse94648_1/raw/GSE94648_series_matrix.txt.gz",
@@ -616,24 +478,29 @@
     "bundled": false
   },
   {
-    "relative": "outputs/dataset_contrast_audit_20260903_v1/audit_data.json",
-    "bundled": true
+    "relative": "audit/inventory.json",
+    "bundled": true,
+    "bundled_path": "audit/inventory.json"
   },
   {
-    "relative": "outputs/dataset_contrast_audit_20260903_v1/evidence_snapshot.json",
-    "bundled": true
+    "relative": "audit/source_index.json",
+    "bundled": true,
+    "bundled_path": "audit/source_index.json"
   },
   {
     "relative": "outputs/stage1_three_effects_20260903_v1/annotations/GPL21185_mapping.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "annotations/GPL21185_mapping.tsv"
   },
   {
     "relative": "outputs/stage1_three_effects_20260903_v1/annotations/GPL32193_mapping.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "annotations/GPL32193_mapping.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE177044/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE177044_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/GSE19743_series_matrix.txt.gz",
@@ -641,11 +508,13 @@
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE19743_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE202518/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE202518_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE236442/GSE236442_hypertension_EH_vs_healthy_expression_matrix.txt",
@@ -653,7 +522,8 @@
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE236442/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE236442_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE244401/raw_evidence/GSE244401_processed_data.txt.gz",
@@ -661,7 +531,8 @@
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE244401/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE244401_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/raw_evidence/GSE26049_series_matrix.txt.gz",
@@ -677,15 +548,18 @@
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE44969/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE44969_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE69683/sample_manifest.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "samples/GSE69683_sample_manifest.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83632/GPL5175_matrix_probe_mapping.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "annotations/GPL5175_matrix_probe_mapping.tsv"
   },
   {
     "relative": "phase1b_EU_coordination_v1_2026-08-23/02_worker_packages/worker_gse202518_20260824/GSE202518_RAW.tar",
@@ -717,10 +591,12 @@
   },
   {
     "relative": "tmp/eu58_full_model_20260827/annotations/GPL8136.txt",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "annotations/GPL8136.txt"
   },
   {
     "relative": "outputs/stage1_three_effects_20260903_v1/canonical_gene_universe.tsv",
-    "bundled": true
+    "bundled": true,
+    "bundled_path": "annotations/canonical_gene_universe.tsv"
   }
 ]

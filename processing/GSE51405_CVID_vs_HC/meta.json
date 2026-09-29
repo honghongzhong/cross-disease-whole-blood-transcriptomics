@@ -1,0 +1,72 @@
+{
+  "input": {
+    "directory": "gse51405_2",
+    "accession": "GSE51405",
+    "contrast_id": "GSE51405_CVID_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 59,
+    "n_control_audit": 24,
+    "n_case_original": "59",
+    "n_control_original": "24",
+    "group": "GSE51404_GSE51405_shared_study",
+    "has_result": true,
+    "has_repaired_g": false,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse51405_2/result/GSE51405_CVID_vs_HC_E_U.tsv",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51405",
+    "n_case": 59,
+    "n_control": 24,
+    "input_kind": "normalized",
+    "source": "native log2/normalized expression",
+    "platform": "GPL6947",
+    "input_genes": 19593,
+    "mapped_rows_before_collapse": 29255,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "3ced491f521c1f4cf04533d89f97b43811c27ec9c2e1bc4fa5a52995a297bdbc",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse51405_2/process/README.md",
+      "dataset/gse51405_2/process/protocol_lock.yaml",
+      "dataset/gse51405_2/process/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE51405/audit_summary.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE51405/handoff.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE51405/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE51405/protocol_lock.yaml",
+      "dataset/gse51405_2/process/sample_manifest.tsv",
+      "outputs/eu58_full_disease_model_20260827/workbook_58_status.tsv"
+    ],
+    "source_state": "downloaded_and_locked",
+    "source_inputs": [
+      {
+        "relative": "dataset/gse51405_2/raw/series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 17872047
+      }
+    ],
+    "disease": "Common variable immunodeficiency",
+    "domain": "Primary immunodeficiency",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE51405_CVID_vs_HC",
+    "n_case": 59,
+    "n_control": 24,
+    "input_genes": 19593,
+    "common_valid_genes": 19469,
+    "expression_transform": "log2_floor1_quantile_linear_array",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0007,
+    "max_abs_input": 15.0568,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "noncurrent_entrez_excluded": 116
+  }
+}

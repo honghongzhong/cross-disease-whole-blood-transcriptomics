@@ -1,0 +1,66 @@
+{
+  "input": {
+    "directory": "gse44314_1",
+    "accession": "GSE44314",
+    "contrast_id": "GSE44314_classic1A_T1D_vs_HC",
+    "count_main": 0,
+    "n_case_audit": 5,
+    "n_control_audit": 6,
+    "n_case_original": "10",
+    "n_control_original": "6",
+    "group": "GSE44314",
+    "has_result": true,
+    "has_repaired_g": false,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse44314_1/result/GSE44314_Type1Diabetes_vs_HC_E_U.tsv",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44314",
+    "n_case": 5,
+    "n_control": 6,
+    "input_kind": "normalized",
+    "source": "dataset/gse44314_1/raw/GSE44314_series_matrix.txt.gz",
+    "platform": "GPL6480",
+    "input_genes": 11016,
+    "mapped_rows_before_collapse": 22640,
+    "missing_values_removed_with_genes": 29349,
+    "input_sha256": "2c98f60da14f41821d903a4f9ed442069cb0ff2bb5a74ffc03f066a73427cfb1",
+    "scope": "core",
+    "review_status": "B",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse44314_1/process/README.md",
+      "dataset/gse44314_1/process/independence_evidence.md",
+      "dataset/gse44314_1/process/sample_manifest.tsv"
+    ],
+    "source_state": "phase1b_EU_locked",
+    "source_inputs": [
+      {
+        "relative": "dataset/gse44314_1/raw/GSE44314_series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 698579
+      }
+    ],
+    "disease": "Classic type 1A diabetes",
+    "domain": "Endocrine autoimmune diseases",
+    "review_reason": "The original 10 cases combine five fulminant and five classic type 1A diabetes cases. For the endocrine autoimmune primary analysis, prespecify the five classic type 1A cases versus six healthy controls.",
+    "review_notes": "",
+    "review_status_description": "Selection requires revision"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE44314_classic1A_T1D_vs_HC",
+    "n_case": 5,
+    "n_control": 6,
+    "input_genes": 11016,
+    "common_valid_genes": 10946,
+    "expression_transform": "deposited_log2_expression",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0297,
+    "max_abs_input": 5.43,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "noncurrent_entrez_excluded": 70
+  }
+}

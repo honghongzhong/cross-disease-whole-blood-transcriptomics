@@ -1,0 +1,70 @@
+{
+  "input": {
+    "directory": "gse83563_1",
+    "accession": "GSE83563",
+    "contrast_id": "GSE83563_EVD_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 22,
+    "n_control_audit": 10,
+    "n_case_original": "22",
+    "n_control_original": "10",
+    "group": "GSE83563",
+    "has_result": true,
+    "has_repaired_g": true,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse83563_1/result/GSE83563_EVD_vs_HC_E_U.tsv.gz",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83563",
+    "n_case": 22,
+    "n_control": 10,
+    "input_kind": "normalized",
+    "source": "phase1b_EU_coordination_v1_2026-08-23/02_worker_packages/worker_gse83563_20260824/GSE83563_sample_expression.txt.gz",
+    "platform": null,
+    "input_genes": 28515,
+    "mapped_rows_before_collapse": 28526,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "da1b29cfa940f4eba6caeeaa6e67ae8682a7360d929522a4f7b990a9326a89ff",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse83563_1/process/README.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83563/accession_status.yaml",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83563/audit_summary.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83563/HANDOFF.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83563/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE83563/protocol_lock.yaml",
+      "outputs/eu58_full_disease_model_20260827/workbook_58_status.tsv"
+    ],
+    "source_state": "new_exploratory_EU",
+    "source_inputs": [
+      {
+        "relative": "phase1b_EU_coordination_v1_2026-08-23/02_worker_packages/worker_gse83563_20260824/GSE83563_sample_expression.txt.gz",
+        "bundled": false,
+        "bytes": 7515235,
+        "sha256": "dad6526f5e03832596fd0e3fadc7c951602c412f36182d02763acbc4977e0a98"
+      }
+    ],
+    "disease": "Ebola virus disease",
+    "domain": "Infectious diseases",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "The dataset/process directory lacks a direct sample list; source evidence is in the upstream package and must be integrated during reprocessing.",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE83563_EVD_vs_HC",
+    "n_case": 22,
+    "n_control": 10,
+    "input_genes": 28515,
+    "common_valid_genes": 28228,
+    "expression_transform": "log2_normalized_abundance_plus1",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0032,
+    "max_abs_input": 19.2969,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation."
+  }
+}

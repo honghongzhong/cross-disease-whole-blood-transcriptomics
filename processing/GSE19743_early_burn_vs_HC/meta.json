@@ -1,0 +1,69 @@
+{
+  "input": {
+    "directory": "gse19743_1",
+    "accession": "GSE19743",
+    "contrast_id": "GSE19743_early_burn_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 57,
+    "n_control_audit": 63,
+    "n_case_original": "57",
+    "n_control_original": "63",
+    "group": "GSE19743",
+    "has_result": true,
+    "has_repaired_g": true,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse19743_1/result/GSE19743_early_burn_vs_HC_E_U.tsv.gz",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19743",
+    "n_case": 57,
+    "n_control": 63,
+    "input_kind": "normalized",
+    "source": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/GSE19743_series_matrix.txt.gz",
+    "platform": "GPL570",
+    "input_genes": 20848,
+    "mapped_rows_before_collapse": 42904,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "0198b49f347b590eaecb34fe882aba494169c02ab016c720a2e363d00fc272e5",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse19743_1/process/README.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/audit_summary.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/handoff.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/protocol_lock.yaml",
+      "outputs/eu58_full_disease_model_20260827/workbook_58_status.tsv"
+    ],
+    "source_state": "new_exploratory_EU",
+    "source_inputs": [
+      {
+        "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE19743/GSE19743_series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 22853432
+      }
+    ],
+    "disease": "Early burn injury",
+    "domain": "Transplantation and acute tissue injury",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "The dataset/process directory lacks a direct sample list; source evidence is in the upstream package and must be integrated during reprocessing.",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE19743_early_burn_vs_HC",
+    "n_case": 57,
+    "n_control": 63,
+    "input_genes": 20848,
+    "common_valid_genes": 20317,
+    "expression_transform": "log2_floor1_quantile_linear_array",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0195,
+    "max_abs_input": 13.225,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "noncurrent_entrez_excluded": 531
+  }
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "directory": "gse100150_2",
+    "platform": "GPL6884"
+  },
+  {
+    "directory": "gse100150_4",
+    "platform": "GPL6884"
+  },
+  {
+    "directory": "gse111459_1",
+    "platform": null
+  },
+  {
+    "directory": "gse112057_1",
+    "platform": null
+  },
+  {
+    "directory": "gse112057_2",
+    "platform": null
+  },
+  {
+    "directory": "gse112087_1",
+    "platform": null
+  },
+  {
+    "directory": "gse123658_1",
+    "platform": null
+  },
+  {
+    "directory": "gse124326_1",
+    "platform": "GPL16791"
+  },
+  {
+    "directory": "gse124548_1",
+    "platform": null
+  },
+  {
+    "directory": "gse125158_1",
+    "platform": "GPL6480"
+  },
+  {
+    "directory": "gse136371_1",
+    "platform": "GPL20301"
+  },
+  {
+    "directory": "gse138118_1",
+    "platform": "GPL17692"
+  },
+  {
+    "directory": "gse164191_1",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse165082_1",
+    "platform": null
+  },
+  {
+    "directory": "gse177044_1",
+    "platform": null
+  },
+  {
+    "directory": "gse181228_1",
+    "platform": null
+  },
+  {
+    "directory": "gse184876_1",
+    "platform": null
+  },
+  {
+    "directory": "gse185855_1",
+    "platform": null
+  },
+  {
+    "directory": "gse18781_3",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse190125_1",
+    "platform": "GPL24676"
+  },
+  {
+    "directory": "gse194331_1",
+    "platform": "GPL16791"
+  },
+  {
+    "directory": "gse19743_1",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse201332_1",
+    "platform": "GPL32193"
+  },
+  {
+    "directory": "gse202518_1",
+    "platform": null
+  },
+  {
+    "directory": "gse205465_1",
+    "platform": null
+  },
+  {
+    "directory": "gse236442_1",
+    "platform": null
+  },
+  {
+    "directory": "gse244401_1",
+    "platform": null
+  },
+  {
+    "directory": "gse26049_1",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse26049_2",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse26049_3",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse262659_1",
+    "platform": null
+  },
+  {
+    "directory": "gse269497_1",
+    "platform": null
+  },
+  {
+    "directory": "gse28750_1",
+    "platform": null
+  },
+  {
+    "directory": "gse334922_1",
+    "platform": "GPL35109"
+  },
+  {
+    "directory": "gse34404_1",
+    "platform": null
+  },
+  {
+    "directory": "gse42148_1",
+    "platform": "GPL13607"
+  },
+  {
+    "directory": "gse44314_1",
+    "platform": "GPL6480"
+  },
+  {
+    "directory": "gse44969_1",
+    "platform": null
+  },
+  {
+    "directory": "gse48000_1",
+    "platform": null
+  },
+  {
+    "directory": "gse48060_1",
+    "platform": "GPL570"
+  },
+  {
+    "directory": "gse51405_2",
+    "platform": "GPL6947"
+  },
+  {
+    "directory": "gse69063_1",
+    "platform": "GPL19983"
+  },
+  {
+    "directory": "gse69683_1",
+    "platform": "GPL13158"
+  },
+  {
+    "directory": "gse83563_1",
+    "platform": null
+  },
+  {
+    "directory": "gse83632_1",
+    "platform": "GPL5175"
+  },
+  {
+    "directory": "gse89594_1",
+    "platform": "GPL16699"
+  },
+  {
+    "directory": "gse94648_1",
+    "platform": "GPL19109"
+  }
+]

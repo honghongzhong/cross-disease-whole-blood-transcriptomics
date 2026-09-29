@@ -1,0 +1,1301 @@
+{
+  "scope": "Source review inventory retained for the unconstructed-contrast report.",
+  "inventory": [
+    {
+      "directory": "gse100150_1",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_HIV_vs_HC",
+      "status": "A",
+      "n_case_audit": 28,
+      "n_control_audit": 35,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_10",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_RSV_vs_HC",
+      "status": "A",
+      "n_case_audit": 70,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_11",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_SLE_vs_HC",
+      "status": "A",
+      "n_case_audit": 55,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_12",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_SoJIA_vs_HC",
+      "status": "A",
+      "n_case_audit": 62,
+      "n_control_audit": 23,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_13",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Staph_vs_HC",
+      "status": "A",
+      "n_case_audit": 99,
+      "n_control_audit": 44,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_14",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_TB_vs_HC",
+      "status": "A",
+      "n_case_audit": 23,
+      "n_control_audit": 11,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_2",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Melanoma_vs_HC",
+      "status": "A",
+      "n_case_audit": 22,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_3",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_COPD_vs_HC",
+      "status": "A",
+      "n_case_audit": 19,
+      "n_control_audit": 24,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_4",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_B_cell_deficiency_vs_HC",
+      "status": "A",
+      "n_case_audit": 20,
+      "n_control_audit": 13,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_5",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Liver_Transplant_vs_HC",
+      "status": "D",
+      "n_case_audit": 94,
+      "n_control_audit": 30,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_6",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Flu_vs_HC",
+      "status": "A",
+      "n_case_audit": 25,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_7",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Juvenile_Dermatomyositis_vs_HC",
+      "status": "A",
+      "n_case_audit": 40,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_8",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_Kawasaki_vs_HC",
+      "status": "A",
+      "n_case_audit": 21,
+      "n_control_audit": 23,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100150_9",
+      "accession": "GSE100150",
+      "contrast_id": "GSE100150_MS_vs_HC",
+      "status": "A",
+      "n_case_audit": 34,
+      "n_control_audit": 22,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150"
+    },
+    {
+      "directory": "gse100156_1",
+      "accession": "GSE100156",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100156"
+    },
+    {
+      "directory": "gse103119_1",
+      "accession": "GSE103119",
+      "contrast_id": "GSE103119_Pneumonia_vs_HC",
+      "status": "A",
+      "n_case_audit": 152,
+      "n_control_audit": 20,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103119"
+    },
+    {
+      "directory": "gse109597_1",
+      "accession": "GSE109597",
+      "contrast_id": "GSE109597_obesity_vs_lean",
+      "status": "D",
+      "n_case_audit": 20,
+      "n_control_audit": 43,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109597"
+    },
+    {
+      "directory": "gse111459_1",
+      "accession": "GSE111459",
+      "contrast_id": "GSE111459_TBM_vs_HC",
+      "status": "A",
+      "n_case_audit": 15,
+      "n_control_audit": 24,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111459"
+    },
+    {
+      "directory": "gse112057_1",
+      "accession": "GSE112057",
+      "contrast_id": "GSE112057_Crohns_Disease_vs_HC",
+      "status": "A",
+      "n_case_audit": 60,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112057"
+    },
+    {
+      "directory": "gse112057_2",
+      "accession": "GSE112057",
+      "contrast_id": "GSE112057_Ulcerative_Colitis_vs_HC",
+      "status": "A",
+      "n_case_audit": 15,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112057"
+    },
+    {
+      "directory": "gse112057_3",
+      "accession": "GSE112057",
+      "contrast_id": "GSE112057_Systemic_JIA_vs_HC",
+      "status": "A",
+      "n_case_audit": 26,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112057"
+    },
+    {
+      "directory": "gse112057_4",
+      "accession": "GSE112057",
+      "contrast_id": "GSE112057_Oligoarticular_JIA_vs_HC",
+      "status": "A",
+      "n_case_audit": 43,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112057"
+    },
+    {
+      "directory": "gse112057_5",
+      "accession": "GSE112057",
+      "contrast_id": "GSE112057_Polyarticular_JIA_vs_HC",
+      "status": "A",
+      "n_case_audit": 46,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112057"
+    },
+    {
+      "directory": "gse112087_1",
+      "accession": "GSE112087",
+      "contrast_id": "GSE112087_SLE_vs_HC",
+      "status": "A",
+      "n_case_audit": 31,
+      "n_control_audit": 29,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112087"
+    },
+    {
+      "directory": "gse11501_1",
+      "accession": "GSE11501",
+      "contrast_id": "GSE11501_celiac_disease_vs_HC",
+      "status": "C",
+      "n_case_audit": 110,
+      "n_control_audit": 22,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11501"
+    },
+    {
+      "directory": "gse11545_1",
+      "accession": "GSE11545",
+      "contrast_id": "GSE11545_breast_cancer_vs_HC",
+      "status": "A",
+      "n_case_audit": 11,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11545"
+    },
+    {
+      "directory": "gse116486_1",
+      "accession": "GSE116486",
+      "contrast_id": "GSE116486_Atopic_Dermatitis_vs_HC",
+      "status": "C",
+      "n_case_audit": 28,
+      "n_control_audit": 18,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116486"
+    },
+    {
+      "directory": "gse123658_1",
+      "accession": "GSE123658",
+      "contrast_id": "GSE123658_T1D_vs_HC",
+      "status": "A",
+      "n_case_audit": 39,
+      "n_control_audit": 43,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123658"
+    },
+    {
+      "directory": "gse124272_1",
+      "accession": "GSE124272",
+      "contrast_id": "GSE124272_lumbar_disc_prolapse_vs_HC",
+      "status": "C",
+      "n_case_audit": 8,
+      "n_control_audit": 8,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124272"
+    },
+    {
+      "directory": "gse124326_1",
+      "accession": "GSE124326",
+      "contrast_id": "GSE124326_bipolar_disorder_vs_control",
+      "status": "C",
+      "n_case_audit": 239,
+      "n_control_audit": 205,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124326"
+    },
+    {
+      "directory": "gse124548_1",
+      "accession": "GSE124548",
+      "contrast_id": "GSE124548_CF_baseline_vs_HC",
+      "status": "A",
+      "n_case_audit": 20,
+      "n_control_audit": 20,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124548"
+    },
+    {
+      "directory": "gse125158_1",
+      "accession": "GSE125158",
+      "contrast_id": "GSE125158_pancreatic_cancer_vs_HC",
+      "status": "A",
+      "n_case_audit": 17,
+      "n_control_audit": 13,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125158"
+    },
+    {
+      "directory": "gse130953_1",
+      "accession": "GSE130953",
+      "contrast_id": "GSE130953_SSc_baseline_vs_HC",
+      "status": "A",
+      "n_case_audit": 62,
+      "n_control_audit": 62,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130953"
+    },
+    {
+      "directory": "gse135589_1",
+      "accession": "GSE135589",
+      "contrast_id": "GSE135589_Huntington_vs_HC",
+      "status": "A",
+      "n_case_audit": 37,
+      "n_control_audit": 24,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135589"
+    },
+    {
+      "directory": "gse136371_1",
+      "accession": "GSE136371",
+      "contrast_id": "GSE136371_CF_vs_HC",
+      "status": "A",
+      "n_case_audit": 33,
+      "n_control_audit": 16,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136371"
+    },
+    {
+      "directory": "gse137340_1",
+      "accession": "GSE137340",
+      "contrast_id": "GSE137340",
+      "status": "A",
+      "n_case_audit": 21,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137340"
+    },
+    {
+      "directory": "gse138118_1",
+      "accession": "GSE138118",
+      "contrast_id": "GSE138118_Bladder_Urothelial_Carcinoma_vs_HC",
+      "status": "A",
+      "n_case_audit": 46,
+      "n_control_audit": 29,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138118"
+    },
+    {
+      "directory": "gse138118_screen",
+      "accession": "GSE138118",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138118"
+    },
+    {
+      "directory": "gse145412_1",
+      "accession": "GSE145412",
+      "contrast_id": "GSE145412_MetS_lean_vs_healthy_lean",
+      "status": "A",
+      "n_case_audit": 8,
+      "n_control_audit": 8,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145412"
+    },
+    {
+      "directory": "gse14655_1",
+      "accession": "GSE14655",
+      "contrast_id": "GSE14655_chronic_renal_rejection_vs_HC",
+      "status": "A",
+      "n_case_audit": 17,
+      "n_control_audit": 20,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14655"
+    },
+    {
+      "directory": "gse147339_1",
+      "accession": "GSE147339",
+      "contrast_id": "GSE147339_psoriasis_vs_control",
+      "status": "C",
+      "n_case_audit": 10,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147339"
+    },
+    {
+      "directory": "gse153315_1",
+      "accession": "GSE153315",
+      "contrast_id": "GSE153315_T2D_vs_HC",
+      "status": "A",
+      "n_case_audit": 20,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153315"
+    },
+    {
+      "directory": "gse154851_1",
+      "accession": "GSE154851",
+      "contrast_id": "GSE154851_SLE_vs_HC",
+      "status": "A",
+      "n_case_audit": 38,
+      "n_control_audit": 32,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154851"
+    },
+    {
+      "directory": "gse158592_1",
+      "accession": "GSE158592",
+      "contrast_id": "GSE158592_influenza_vs_HC",
+      "status": "A",
+      "n_case_audit": 41,
+      "n_control_audit": 33,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158592"
+    },
+    {
+      "directory": "gse160207_1",
+      "accession": "GSE160207",
+      "contrast_id": "GSE160207_OI_vs_HC",
+      "status": "A",
+      "n_case_audit": 7,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160207"
+    },
+    {
+      "directory": "gse164191_1",
+      "accession": "GSE164191",
+      "contrast_id": "GSE164191_colorectal_cancer_vs_HC",
+      "status": "A",
+      "n_case_audit": 59,
+      "n_control_audit": 62,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164191"
+    },
+    {
+      "directory": "gse165082_1",
+      "accession": "GSE165082",
+      "contrast_id": "GSE165082_PD_vs_HC",
+      "status": "A",
+      "n_case_audit": 12,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165082"
+    },
+    {
+      "directory": "gse17048_1",
+      "accession": "GSE17048",
+      "contrast_id": "GSE17048",
+      "status": "A",
+      "n_case_audit": 99,
+      "n_control_audit": 45,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17048"
+    },
+    {
+      "directory": "gse174056_1",
+      "accession": "GSE174056",
+      "contrast_id": "GSE174056_SMA1_vs_age_matched_HC",
+      "status": "A",
+      "n_case_audit": 5,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174056"
+    },
+    {
+      "directory": "gse176153_1",
+      "accession": "GSE176153",
+      "contrast_id": "GSE176153_hypothyroidism_vs_HC",
+      "status": "C",
+      "n_case_audit": 4,
+      "n_control_audit": 4,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176153"
+    },
+    {
+      "directory": "gse177044_1",
+      "accession": "GSE177044",
+      "contrast_id": "GSE177044_UC_vs_HC",
+      "status": "A",
+      "n_case_audit": 495,
+      "n_control_audit": 320,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE177044"
+    },
+    {
+      "directory": "gse17732_1",
+      "accession": "GSE17732",
+      "contrast_id": "GSE17732_PFAPA_flare_vs_HC",
+      "status": "A",
+      "n_case_audit": 6,
+      "n_control_audit": 6,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17732"
+    },
+    {
+      "directory": "gse181228_1",
+      "accession": "GSE181228",
+      "contrast_id": "",
+      "status": "B",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181228"
+    },
+    {
+      "directory": "gse181228_audit",
+      "accession": "GSE181228",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181228"
+    },
+    {
+      "directory": "gse184876_1",
+      "accession": "GSE184876",
+      "contrast_id": "GSE184876_iRHOM2_deficiency_vs_HC",
+      "status": "A",
+      "n_case_audit": 4,
+      "n_control_audit": 6,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184876"
+    },
+    {
+      "directory": "gse185855_1",
+      "accession": "GSE185855",
+      "contrast_id": "GSE185855_MDD_pre_vs_HC",
+      "status": "C",
+      "n_case_audit": 26,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185855"
+    },
+    {
+      "directory": "gse186505_1",
+      "accession": "GSE186505",
+      "contrast_id": "GSE186505_TN_vs_HC",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186505"
+    },
+    {
+      "directory": "gse186507_1",
+      "accession": "GSE186507",
+      "contrast_id": "GSE186507_CD",
+      "status": "A",
+      "n_case_audit": 432,
+      "n_control_audit": 209,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186507"
+    },
+    {
+      "directory": "gse186507_2",
+      "accession": "GSE186507",
+      "contrast_id": "GSE186507_UC",
+      "status": "A",
+      "n_case_audit": 389,
+      "n_control_audit": 209,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186507"
+    },
+    {
+      "directory": "gse187429_1",
+      "accession": "GSE187429",
+      "contrast_id": "GSE187429_CNO_vs_HC",
+      "status": "A",
+      "n_case_audit": 11,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE187429"
+    },
+    {
+      "directory": "gse18781_1",
+      "accession": "GSE18781",
+      "contrast_id": "GSE18781_AxSpA_set1_vs_HC",
+      "status": "A",
+      "n_case_audit": 11,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18781"
+    },
+    {
+      "directory": "gse18781_2",
+      "accession": "GSE18781",
+      "contrast_id": "GSE18781_AxSpA_set2_vs_HC",
+      "status": "A",
+      "n_case_audit": 7,
+      "n_control_audit": 13,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18781"
+    },
+    {
+      "directory": "gse18781_3",
+      "accession": "GSE18781",
+      "contrast_id": "GSE18781_Sarcoidosis_vs_HC",
+      "status": "A",
+      "n_case_audit": 12,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18781"
+    },
+    {
+      "directory": "gse190125_1",
+      "accession": "GSE190125",
+      "contrast_id": "GSE190125_trisomy21_vs_euploid_control",
+      "status": "A",
+      "n_case_audit": 304,
+      "n_control_audit": 96,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190125"
+    },
+    {
+      "directory": "gse191274_1",
+      "accession": "GSE191274",
+      "contrast_id": "GSE191274_Sotos_vs_control",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 15,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE191274"
+    },
+    {
+      "directory": "gse19314_1",
+      "accession": "GSE19314",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19314"
+    },
+    {
+      "directory": "gse194331_1",
+      "accession": "GSE194331",
+      "contrast_id": "GSE194331_Acute_Pancreatitis_vs_HC",
+      "status": "A",
+      "n_case_audit": 87,
+      "n_control_audit": 32,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194331"
+    },
+    {
+      "directory": "gse196822_1",
+      "accession": "GSE196822",
+      "contrast_id": "GSE196822_Moderate_vs_HC",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196822"
+    },
+    {
+      "directory": "gse196822_2",
+      "accession": "GSE196822",
+      "contrast_id": "GSE196822_Asymptomatic_vs_HC",
+      "status": "A",
+      "n_case_audit": 8,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196822"
+    },
+    {
+      "directory": "gse196822_3",
+      "accession": "GSE196822",
+      "contrast_id": "GSE196822_Bacterial_Coinfection_vs_HC",
+      "status": "A",
+      "n_case_audit": 6,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196822"
+    },
+    {
+      "directory": "gse196822_4",
+      "accession": "GSE196822",
+      "contrast_id": "GSE196822_Mild_vs_HC",
+      "status": "A",
+      "n_case_audit": 9,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196822"
+    },
+    {
+      "directory": "gse196822_5",
+      "accession": "GSE196822",
+      "contrast_id": "GSE196822_Severe_vs_HC",
+      "status": "A",
+      "n_case_audit": 7,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196822"
+    },
+    {
+      "directory": "gse19743_1",
+      "accession": "GSE19743",
+      "contrast_id": "GSE19743_early_burn_vs_HC",
+      "status": "A",
+      "n_case_audit": 57,
+      "n_control_audit": 63,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19743"
+    },
+    {
+      "directory": "gse198048_1",
+      "accession": "GSE198048",
+      "contrast_id": "GSE198048_lung_cancer_vs_control",
+      "status": "D",
+      "n_case_audit": 128,
+      "n_control_audit": 62,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198048"
+    },
+    {
+      "directory": "gse201332_1",
+      "accession": "GSE201332",
+      "contrast_id": "GSE201332_MDD_vs_HC",
+      "status": "C",
+      "n_case_audit": 20,
+      "n_control_audit": 20,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE201332"
+    },
+    {
+      "directory": "gse202518_1",
+      "accession": "GSE202518",
+      "contrast_id": "GSE202518_acute_ischemic_stroke_vs_HC",
+      "status": "A",
+      "n_case_audit": 12,
+      "n_control_audit": 4,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202518"
+    },
+    {
+      "directory": "gse203024_1",
+      "accession": "GSE203024",
+      "contrast_id": "",
+      "status": "D",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203024"
+    },
+    {
+      "directory": "gse205465_1",
+      "accession": "GSE205465",
+      "contrast_id": "GSE205465_thrPAPS_vs_HC",
+      "status": "A",
+      "n_case_audit": 60,
+      "n_control_audit": 28,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205465"
+    },
+    {
+      "directory": "gse22229_1",
+      "accession": "GSE22229",
+      "contrast_id": "GSE22229_renal_tolerance_vs_HC",
+      "status": "D",
+      "n_case_audit": 19,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22229"
+    },
+    {
+      "directory": "gse224849_1",
+      "accession": "GSE224849",
+      "contrast_id": "GSE224849_PreSSc_vs_HC",
+      "status": "D",
+      "n_case_audit": 33,
+      "n_control_audit": 16,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224849"
+    },
+    {
+      "directory": "gse225460_1",
+      "accession": "GSE225460",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE225460"
+    },
+    {
+      "directory": "gse226238_1",
+      "accession": "GSE226238",
+      "contrast_id": "GSE226238_acute_SCI_vs_uninjured",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226238"
+    },
+    {
+      "directory": "gse229733_1",
+      "accession": "GSE229733",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE229733"
+    },
+    {
+      "directory": "gse231691_1",
+      "accession": "GSE231691",
+      "contrast_id": "GSE231691_SSc_ILD_vs_control",
+      "status": "A",
+      "n_case_audit": 49,
+      "n_control_audit": 18,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231691"
+    },
+    {
+      "directory": "gse234297_1",
+      "accession": "GSE234297",
+      "contrast_id": "GSE234297_sALS_vs_HC",
+      "status": "A",
+      "n_case_audit": 96,
+      "n_control_audit": 48,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297"
+    },
+    {
+      "directory": "gse236442_1",
+      "accession": "GSE236442",
+      "contrast_id": "GSE236442_EH_vs_HC",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236442"
+    },
+    {
+      "directory": "gse244401_1",
+      "accession": "GSE244401",
+      "contrast_id": "GSE244401_SCA_T1_vs_HC",
+      "status": "A",
+      "n_case_audit": 23,
+      "n_control_audit": 17,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244401"
+    },
+    {
+      "directory": "gse244827_1",
+      "accession": "GSE244827",
+      "contrast_id": "GSE244827_cardiac_Chagas_vs_negative",
+      "status": "E",
+      "n_case_audit": 6,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244827"
+    },
+    {
+      "directory": "gse244915_1",
+      "accession": "GSE244915",
+      "contrast_id": "GSE244915_DyskeratosisCongenita_vs_HC",
+      "status": "A",
+      "n_case_audit": 3,
+      "n_control_audit": 3,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244915"
+    },
+    {
+      "directory": "gse245139_1",
+      "accession": "GSE245139",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245139"
+    },
+    {
+      "directory": "gse249477_1",
+      "accession": "GSE249477",
+      "contrast_id": "GSE249477_AD_vs_cognitively_normal",
+      "status": "D",
+      "n_case_audit": 21,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249477"
+    },
+    {
+      "directory": "gse25101_1",
+      "accession": "GSE25101",
+      "contrast_id": "GSE25101_active_AS_vs_matched_control",
+      "status": "A",
+      "n_case_audit": 16,
+      "n_control_audit": 16,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25101"
+    },
+    {
+      "directory": "gse251778_1",
+      "accession": "GSE251778",
+      "contrast_id": "GSE251778_MDD_vs_HC",
+      "status": "C",
+      "n_case_audit": 80,
+      "n_control_audit": 89,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE251778"
+    },
+    {
+      "directory": "gse25742_1",
+      "accession": "GSE25742",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25742"
+    },
+    {
+      "directory": "gse26049_1",
+      "accession": "GSE26049",
+      "contrast_id": "GSE26049_PMF_vs_HC",
+      "status": "A",
+      "n_case_audit": 9,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26049"
+    },
+    {
+      "directory": "gse26049_2",
+      "accession": "GSE26049",
+      "contrast_id": "GSE26049_ET_vs_HC",
+      "status": "A",
+      "n_case_audit": 19,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26049"
+    },
+    {
+      "directory": "gse26049_3",
+      "accession": "GSE26049",
+      "contrast_id": "GSE26049_PV_vs_HC",
+      "status": "A",
+      "n_case_audit": 41,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26049"
+    },
+    {
+      "directory": "gse262659_1",
+      "accession": "GSE262659",
+      "contrast_id": "GSE262659_pediatric_SCD_vs_HC",
+      "status": "A",
+      "n_case_audit": 13,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262659"
+    },
+    {
+      "directory": "gse269497_1",
+      "accession": "GSE269497",
+      "contrast_id": "GSE269497_AIT_vs_HC",
+      "status": "A",
+      "n_case_audit": 5,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269497"
+    },
+    {
+      "directory": "gse270454_1",
+      "accession": "GSE270454",
+      "contrast_id": "GSE270454_AD_vs_ASO",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270454"
+    },
+    {
+      "directory": "gse270454_2",
+      "accession": "GSE270454",
+      "contrast_id": "GSE270454_MCI_vs_ASO",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 14,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270454"
+    },
+    {
+      "directory": "gse272832_1",
+      "accession": "GSE272832",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272832"
+    },
+    {
+      "directory": "gse280402_1",
+      "accession": "GSE280402",
+      "contrast_id": "GSE280402_T2D_vs_HC",
+      "status": "A",
+      "n_case_audit": 7,
+      "n_control_audit": 7,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE280402"
+    },
+    {
+      "directory": "gse28750_1",
+      "accession": "GSE28750",
+      "contrast_id": "GSE28750_sepsis_vs_HC",
+      "status": "A",
+      "n_case_audit": 10,
+      "n_control_audit": 20,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28750"
+    },
+    {
+      "directory": "gse29161_1",
+      "accession": "GSE29161",
+      "contrast_id": "",
+      "status": "D",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29161"
+    },
+    {
+      "directory": "gse334922_1",
+      "accession": "GSE334922",
+      "contrast_id": "GSE334922_CAMR_vs_HC",
+      "status": "A",
+      "n_case_audit": 4,
+      "n_control_audit": 4,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE334922"
+    },
+    {
+      "directory": "gse33566_1",
+      "accession": "GSE33566",
+      "contrast_id": "GSE33566_IPF_vs_HC",
+      "status": "A",
+      "n_case_audit": 93,
+      "n_control_audit": 30,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33566"
+    },
+    {
+      "directory": "gse34404_1",
+      "accession": "GSE34404",
+      "contrast_id": "GSE34404_malaria_vs_HC",
+      "status": "A",
+      "n_case_audit": 94,
+      "n_control_audit": 61,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE34404"
+    },
+    {
+      "directory": "gse38267_1",
+      "accession": "GSE38267",
+      "contrast_id": "GSE38267_PAH_vs_HC",
+      "status": "A",
+      "n_case_audit": 13,
+      "n_control_audit": 28,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38267"
+    },
+    {
+      "directory": "gse38484_1",
+      "accession": "GSE38484",
+      "contrast_id": "GSE38484_Schizophrenia_vs_HC",
+      "status": "C",
+      "n_case_audit": 106,
+      "n_control_audit": 96,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38484"
+    },
+    {
+      "directory": "gse40012_1",
+      "accession": "GSE40012",
+      "contrast_id": "GSE40012_influenza_day1_vs_HC",
+      "status": "A",
+      "n_case_audit": 8,
+      "n_control_audit": 18,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE40012"
+    },
+    {
+      "directory": "gse41055_1",
+      "accession": "GSE41055",
+      "contrast_id": "GSE41055_active_TB_vs_HC",
+      "status": "A",
+      "n_case_audit": 9,
+      "n_control_audit": 9,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE41055"
+    },
+    {
+      "directory": "gse42148_1",
+      "accession": "GSE42148",
+      "contrast_id": "GSE42148_Coronary_Artery_Disease_vs_HC",
+      "status": "A",
+      "n_case_audit": 13,
+      "n_control_audit": 11,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42148"
+    },
+    {
+      "directory": "gse42331_1",
+      "accession": "GSE42331",
+      "contrast_id": "GSE42331_Klinefelter_vs_male_HC",
+      "status": "A",
+      "n_case_audit": 35,
+      "n_control_audit": 15,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42331"
+    },
+    {
+      "directory": "gse42825_1",
+      "accession": "GSE42825",
+      "contrast_id": "GSE42825_sarcoidosis_vs_HC",
+      "status": "A",
+      "n_case_audit": 11,
+      "n_control_audit": 23,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42825"
+    },
+    {
+      "directory": "gse44314_1",
+      "accession": "GSE44314",
+      "contrast_id": "GSE44314_Type1Diabetes_vs_HC",
+      "status": "B",
+      "n_case_audit": 10,
+      "n_control_audit": 6,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44314"
+    },
+    {
+      "directory": "gse44969_1",
+      "accession": "GSE44969",
+      "contrast_id": "GSE44969_CGD_vs_HC",
+      "status": "A",
+      "n_case_audit": 7,
+      "n_control_audit": 13,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44969"
+    },
+    {
+      "directory": "gse48000_1",
+      "accession": "GSE48000",
+      "contrast_id": "GSE48000_high_risk_VTE_vs_HC",
+      "status": "A",
+      "n_case_audit": 40,
+      "n_control_audit": 25,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48000"
+    },
+    {
+      "directory": "gse48060_1",
+      "accession": "GSE48060",
+      "contrast_id": "GSE48060_AMI_vs_HC",
+      "status": "A",
+      "n_case_audit": 31,
+      "n_control_audit": 21,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48060"
+    },
+    {
+      "directory": "gse51404_1",
+      "accession": "GSE51404",
+      "contrast_id": "GSE51404_XLA_vs_HC",
+      "status": "A",
+      "n_case_audit": 6,
+      "n_control_audit": 15,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51404"
+    },
+    {
+      "directory": "gse51405_1",
+      "accession": "GSE51405",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51405"
+    },
+    {
+      "directory": "gse51405_2",
+      "accession": "GSE51405",
+      "contrast_id": "GSE51405_CVID_vs_HC",
+      "status": "A",
+      "n_case_audit": 59,
+      "n_control_audit": 24,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51405"
+    },
+    {
+      "directory": "gse51406_1",
+      "accession": "GSE51406",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51406"
+    },
+    {
+      "directory": "gse54248_1",
+      "accession": "GSE54248",
+      "contrast_id": "GSE54248_PCOS_vs_HC",
+      "status": "C",
+      "n_case_audit": 4,
+      "n_control_audit": 4,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE54248"
+    },
+    {
+      "directory": "gse55201_1",
+      "accession": "GSE55201",
+      "contrast_id": "GSE55201_Psoriasis_baseline_vs_HC",
+      "status": "C",
+      "n_case_audit": 44,
+      "n_control_audit": 30,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55201"
+    },
+    {
+      "directory": "gse56495_1",
+      "accession": "GSE56495",
+      "contrast_id": "GSE56495_cGVHD_baseline_vs_HC",
+      "status": "A",
+      "n_case_audit": 17,
+      "n_control_audit": 8,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56495"
+    },
+    {
+      "directory": "gse5812_1",
+      "accession": "GSE5812",
+      "contrast_id": "GSE5812_ITP_vs_HC",
+      "status": "C",
+      "n_case_audit": 5,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5812"
+    },
+    {
+      "directory": "gse61281_1",
+      "accession": "GSE61281",
+      "contrast_id": "GSE61281_PsA_vs_HC",
+      "status": "A",
+      "n_case_audit": 20,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61281"
+    },
+    {
+      "directory": "gse61281_2",
+      "accession": "GSE61281",
+      "contrast_id": "GSE61281_PsC_vs_HC",
+      "status": "C",
+      "n_case_audit": 20,
+      "n_control_audit": 12,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61281"
+    },
+    {
+      "directory": "gse65581_1",
+      "accession": "GSE65581",
+      "contrast_id": "GSE65581_HemophiliaA_vs_HC",
+      "status": "E",
+      "n_case_audit": 9,
+      "n_control_audit": 5,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65581"
+    },
+    {
+      "directory": "gse6613_1",
+      "accession": "GSE6613",
+      "contrast_id": "GSE6613_PD_vs_HC_candidate_50v22",
+      "status": "A",
+      "n_case_audit": 50,
+      "n_control_audit": 22,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6613"
+    },
+    {
+      "directory": "gse67784_1",
+      "accession": "GSE67784",
+      "contrast_id": "GSE67784_TTR_Amyloidosis_vs_HC",
+      "status": "A",
+      "n_case_audit": 96,
+      "n_control_audit": 80,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67784"
+    },
+    {
+      "directory": "gse68004_1",
+      "accession": "GSE68004",
+      "contrast_id": "GSE68004_complete_KD_vs_HC",
+      "status": "A",
+      "n_case_audit": 76,
+      "n_control_audit": 37,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68004"
+    },
+    {
+      "directory": "gse69063_1",
+      "accession": "GSE69063",
+      "contrast_id": "GSE69063_Anaphylaxis_vs_HC",
+      "status": "C",
+      "n_case_audit": 16,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE69063"
+    },
+    {
+      "directory": "gse69683_1",
+      "accession": "GSE69683",
+      "contrast_id": "GSE69683_moderate_asthma_vs_control",
+      "status": "A",
+      "n_case_audit": 77,
+      "n_control_audit": 87,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE69683"
+    },
+    {
+      "directory": "gse83563_1",
+      "accession": "GSE83563",
+      "contrast_id": "GSE83563_EVD_vs_HC",
+      "status": "A",
+      "n_case_audit": 22,
+      "n_control_audit": 10,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83563"
+    },
+    {
+      "directory": "gse83632_1",
+      "accession": "GSE83632",
+      "contrast_id": "GSE83632_DLBCL_vs_HC",
+      "status": "A",
+      "n_case_audit": 76,
+      "n_control_audit": 87,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83632"
+    },
+    {
+      "directory": "gse89594_1",
+      "accession": "GSE89594",
+      "contrast_id": "GSE89594_Williams_vs_HC",
+      "status": "A",
+      "n_case_audit": 32,
+      "n_control_audit": 30,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89594"
+    },
+    {
+      "directory": "gse93215_1",
+      "accession": "GSE93215",
+      "contrast_id": "GSE93215_Fracture_vs_HC",
+      "status": "D",
+      "n_case_audit": 7,
+      "n_control_audit": 19,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93215"
+    },
+    {
+      "directory": "gse93272_1",
+      "accession": "GSE93272",
+      "contrast_id": "GSE93272_RA_baseline_vs_HC",
+      "status": "A",
+      "n_case_audit": 30,
+      "n_control_audit": 30,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93272"
+    },
+    {
+      "directory": "gse93387_1",
+      "accession": "GSE93387",
+      "contrast_id": "",
+      "status": "D",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93387"
+    },
+    {
+      "directory": "gse93398_1",
+      "accession": "GSE93398",
+      "contrast_id": "",
+      "status": "E",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93398"
+    },
+    {
+      "directory": "gse94648_1",
+      "accession": "GSE94648",
+      "contrast_id": "GSE94648_IBD_spectrum_vs_nonIBD_HC",
+      "status": "B",
+      "n_case_audit": 75,
+      "n_control_audit": 22,
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94648"
+    },
+    {
+      "directory": "eu57_repaired_20260827_v1",
+      "accession": "",
+      "contrast_id": "",
+      "status": "F",
+      "n_case_audit": null,
+      "n_control_audit": null,
+      "geo_url": ""
+    }
+  ]
+}

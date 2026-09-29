@@ -1,0 +1,68 @@
+{
+  "input": {
+    "directory": "gse26049_2",
+    "accession": "GSE26049",
+    "contrast_id": "GSE26049_ET_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 19,
+    "n_control_audit": 21,
+    "n_case_original": "19",
+    "n_control_original": "21",
+    "group": "GSE26049",
+    "has_result": true,
+    "has_repaired_g": true,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse26049_2/result/GSE26049_ET_vs_HC_E_U.tsv.gz",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26049",
+    "n_case": 19,
+    "n_control": 21,
+    "input_kind": "normalized",
+    "source": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/raw_evidence/GSE26049_series_matrix.txt.gz",
+    "platform": "GPL570",
+    "input_genes": 20848,
+    "mapped_rows_before_collapse": 42904,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "11f3882caf548525c1ff20d1d106651e84996f77d721ba9afea82a6195efcda6",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse26049_2/process/README.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/audit_summary.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/protocol_lock.yaml",
+      "outputs/eu58_full_disease_model_20260827/workbook_58_status.tsv"
+    ],
+    "source_state": "new_exploratory_EU",
+    "source_inputs": [
+      {
+        "relative": "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE26049/raw_evidence/GSE26049_series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 42579632
+      }
+    ],
+    "disease": "Essential thrombocythemia",
+    "domain": "Hematologic malignancies",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "The dataset/process directory lacks a direct sample list; source evidence is in the upstream package and must be integrated during reprocessing.",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE26049_ET_vs_HC",
+    "n_case": 19,
+    "n_control": 21,
+    "input_genes": 20848,
+    "common_valid_genes": 20317,
+    "expression_transform": "deposited_log2_expression",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0124,
+    "max_abs_input": 14.5382,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "noncurrent_entrez_excluded": 531
+  }
+}

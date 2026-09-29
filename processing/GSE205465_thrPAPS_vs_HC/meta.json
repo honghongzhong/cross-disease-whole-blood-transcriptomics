@@ -1,0 +1,76 @@
+{
+  "input": {
+    "directory": "gse205465_1",
+    "accession": "GSE205465",
+    "contrast_id": "GSE205465_thrPAPS_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 60,
+    "n_control_audit": 28,
+    "n_case_original": "60",
+    "n_control_original": "28",
+    "group": "GSE205465",
+    "has_result": true,
+    "has_repaired_g": false,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse205465_1/result/GSE205465_thrPAPS_vs_HC_E_U.tsv",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205465",
+    "n_case": 60,
+    "n_control": 28,
+    "input_kind": "counts",
+    "source": "native raw counts intercepted before normalization",
+    "platform": null,
+    "input_genes": 37669,
+    "mapped_rows_before_collapse": 37669,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "ae55752bcda46205e551c0b4c0ef037194036427698c894e40283134c20a4d37",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse205465_1/process/README.md",
+      "dataset/gse205465_1/process/protocol_lock.yaml",
+      "dataset/gse205465_1/process/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE205465/accession_status.yaml",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE205465/audit_summary.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE205465/independence_evidence.md",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE205465/protocol_hold.yaml",
+      "phase1b_EU_coordination_v1_2026-08-23/01_candidates/GSE205465/README.md",
+      "dataset/gse205465_1/process/sample_manifest.tsv"
+    ],
+    "source_state": "phase1b_EU_locked",
+    "source_inputs": [
+      {
+        "relative": "dataset/gse205465_1/raw/counts.tsv.gz",
+        "bundled": false,
+        "bytes": 2085035
+      },
+      {
+        "relative": "dataset/gse205465_1/raw/family.soft.gz",
+        "bundled": false,
+        "bytes": 7928
+      }
+    ],
+    "disease": "thrPAPS_vs_HC",
+    "domain": "Systemic autoimmune and rheumatic diseases",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE205465_thrPAPS_vs_HC",
+    "n_case": 60,
+    "n_control": 28,
+    "input_genes": 37669,
+    "common_valid_genes": 11465,
+    "expression_transform": "TMM_filterByExpr_voom_log2CPM",
+    "log2fc_model": "voom_weighted_least_squares",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0352,
+    "max_abs_input": 20.3901,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation."
+  }
+}

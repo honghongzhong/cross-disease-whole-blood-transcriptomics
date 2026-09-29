@@ -1,0 +1,68 @@
+{
+  "input": {
+    "directory": "gse100150_4",
+    "accession": "GSE100150",
+    "contrast_id": "GSE100150_B_cell_deficiency_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 20,
+    "n_control_audit": 13,
+    "n_case_original": "20",
+    "n_control_original": "13",
+    "group": "GSE100150",
+    "has_result": true,
+    "has_repaired_g": true,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse100150_4/result/GSE100150_B-cell deficiency_vs_HC_E_U.tsv",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100150",
+    "n_case": 20,
+    "n_control": 13,
+    "input_kind": "normalized",
+    "source": "native log2/normalized expression",
+    "platform": "GPL6884",
+    "input_genes": 18006,
+    "mapped_rows_before_collapse": 18006,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "cb5ff3b6005d0d25e1443d8aca85d84f3dfffcab67609a159ab3e29e81ef75e0",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse100150_4/process/README.md",
+      "dataset/gse100150_4/process/sample_manifest.tsv",
+      "census_step0/f0_canonical_cohort_2026-08-22_v1/canonical_contrast_ledger_v1.tsv",
+      "outputs/eu58_full_disease_model_20260827/workbook_58_status.tsv"
+    ],
+    "source_state": "existing_locked",
+    "source_inputs": [
+      {
+        "relative": "dataset/gse100150_4/raw/GSE100150_series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 164453857
+      }
+    ],
+    "disease": "B-cell deficiency",
+    "domain": "Primary immunodeficiency",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE100150_B_cell_deficiency_vs_HC",
+    "n_case": 20,
+    "n_control": 13,
+    "input_genes": 18006,
+    "common_valid_genes": 17867,
+    "expression_transform": "log2_floor1_quantile_linear_array",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0006,
+    "max_abs_input": 14.9791,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "shrinkage_pointmass": false,
+    "shrinkage_weight_prior": "uniform"
+  }
+}

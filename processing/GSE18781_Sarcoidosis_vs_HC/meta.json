@@ -1,0 +1,68 @@
+{
+  "input": {
+    "directory": "gse18781_3",
+    "accession": "GSE18781",
+    "contrast_id": "GSE18781_Sarcoidosis_vs_HC",
+    "count_main": 1,
+    "n_case_audit": 12,
+    "n_control_audit": 12,
+    "n_case_original": "11",
+    "n_control_original": "12",
+    "group": "GSE18781",
+    "has_result": true,
+    "has_repaired_g": false,
+    "has_three_effect_matrices": false,
+    "result_path": "dataset/gse18781_3/result/processed_E_U.tsv",
+    "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18781",
+    "n_case": 12,
+    "n_control": 12,
+    "input_kind": "normalized",
+    "source": "dataset/gse18781_3/raw/GSE18781_series_matrix.txt.gz",
+    "platform": "GPL570",
+    "input_genes": 20848,
+    "mapped_rows_before_collapse": 42904,
+    "missing_values_removed_with_genes": 0,
+    "input_sha256": "faaf2e55faf86ad963dbf6d21721fd6bf6616318f90382fad0f5fca05e2a744e",
+    "scope": "core",
+    "review_status": "A",
+    "evidence_paths": [
+      "dataset/DATASET_MANIFEST.tsv",
+      "dataset/gse18781_3/process/README.md",
+      "census_step0/f0_canonical_cohort_2026-08-22_v1/canonical_contrast_ledger_v1.tsv",
+      "census_step0/composition_pilot_GSE18781_set2_sarcoidosis_2026-08-22_v1/composition_eu_summary_v1.json"
+    ],
+    "source_state": "assembled_E_U",
+    "source_inputs": [
+      {
+        "relative": "dataset/gse18781_3/raw/GSE18781_series_matrix.txt.gz",
+        "bundled": false,
+        "bytes": 16605771
+      }
+    ],
+    "disease": "Sarcoidosis",
+    "domain": "Chronic respiratory diseases",
+    "review_reason": "Available samples, source annotations, or reviewed evidence support a human whole-blood mRNA disease-versus-healthy-control comparison suitable for the shared reprocessing workflow.",
+    "review_notes": "Correct the main list from 11 cases and 12 controls to the 12 and 12 recorded by GEO and the pilot. Classify sarcoidosis as chronic respiratory under the fixed classification version, independent of model performance. Integrate upstream source evidence because dataset/process lacks a direct sample list.",
+    "review_status_description": "Eligible for reprocessing"
+  },
+  "qc": {
+    "status": "THREE_EFFECTS_COMPLETE",
+    "contrast_id": "GSE18781_Sarcoidosis_vs_HC",
+    "n_case": 12,
+    "n_control": 12,
+    "input_genes": 20848,
+    "common_valid_genes": 20317,
+    "expression_transform": "deposited_log2_expression",
+    "log2fc_model": "OLS_on_log2_expression",
+    "shrinkage": "ashr_continuous_normal_mixture_normal_likelihood",
+    "posterior_sd_zero": 0,
+    "min_psd": 0.0288,
+    "max_abs_input": 15.9831,
+    "g_variance": "J^2*((n1+n0)/(n1*n0)+d^2/(2*df))",
+    "scope": "core",
+    "limitations": "Unadjusted disease contrast. Shared participants/controls require grouped later validation. All-gene empirical prior must be re-fit within training folds for blind evaluation.",
+    "shrinkage_pointmass": false,
+    "shrinkage_weight_prior": "uniform",
+    "noncurrent_entrez_excluded": 531
+  }
+}
